@@ -4,24 +4,26 @@ import { useParams, Link } from 'react-router-dom';
 import { NFTMetadata } from '../types/nft';
 import { fetchSingleNFT } from '../utils/api';
 import ImageWithSkeleton from '../components/ImageWithSkeleton';
-import { getImagePath } from '../utils/imagePath';
 
 const NFTDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const [nft, setNft] = useState<NFTMetadata | null>(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const loadNFT = async () => {
       if (id) {
-        setLoading(true);
-        const data = await fetchSingleNFT(id);
-        setNft({
-          ...data,
-          // Update the image path here
-          image: getImagePath(`/images/nfts/${id}.png`)
-        });
-        setLoading(false);
+        try {
+          setLoading(true);
+          setError(null);
+          const data = await fetchSingleNFT(id);
+          setNft(data);
+        } catch (err) {
+          setError('Failed to load NFT');
+        } finally {
+          setLoading(false);
+        }
       }
     };
     loadNFT();
@@ -41,11 +43,11 @@ const NFTDetail: React.FC = () => {
     );
   }
 
-  if (!nft) {
+  if (error || !nft) {
     return (
       <div className="min-h-screen bg-green-500 flex items-center justify-center">
         <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-          <p className="text-red-500">NFT not found</p>
+          <p className="text-red-500">{error || 'NFT not found'}</p>
           <Link 
             to="/collection"
             className="mt-4 bg-lime-300 px-4 py-2 rounded-lg border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform inline-block"
@@ -56,7 +58,7 @@ const NFTDetail: React.FC = () => {
       </div>
     );
   }
-  
+
   return (
     <div className="min-h-screen bg-green-500">
       <div className="max-w-6xl mx-auto p-8">
@@ -72,18 +74,17 @@ const NFTDetail: React.FC = () => {
           <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
             <div className="aspect-square">
               <ImageWithSkeleton
-                src={nft?.image || ''}
-                alt={nft?.name || ''}
+                src={nft.image}
+                alt={nft.name}
                 className="w-full rounded-lg"
               />
             </div>
           </div>
-  
-            {/* NFT Details */}
-            <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-              <h1 className="text-3xl font-bold mb-4">{nft.name}</h1>
-              <p className="text-gray-600 mb-6">{nft.description}</p>
-  
+
+          {/* NFT Details */}
+          <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <h1 className="text-3xl font-bold mb-4">{nft.name}</h1>
+            <p className="text-gray-600 mb-6">{nft.description}</p>
               <div className="space-y-6">
                 {/* Basic Details */}
                 <div>
