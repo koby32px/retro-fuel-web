@@ -5,7 +5,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1",
     "name": "Koby #1",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1.png",
 
@@ -35,7 +35,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2",
     "name": "Koby #2",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2.png",
 
@@ -65,7 +65,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3",
     "name": "Koby #3",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3.png",
 
@@ -95,7 +95,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "4",
     "name": "Koby #4",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/4.png",
 
@@ -125,7 +125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "5",
     "name": "Koby #5",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/5.png",
 
@@ -155,7 +155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "6",
     "name": "Koby #6",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/6.png",
 
@@ -185,7 +185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "7",
     "name": "Koby #7",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/7.png",
 
@@ -215,7 +215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "8",
     "name": "Koby #8",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/8.png",
 
@@ -245,7 +245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "9",
     "name": "Koby #9",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/9.png",
 
@@ -275,7 +275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "10",
     "name": "Koby #10",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/10.png",
 
@@ -305,7 +305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "11",
     "name": "Koby #11",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/11.png",
 
@@ -335,7 +335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "12",
     "name": "Koby #12",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/12.png",
 
@@ -365,7 +365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "13",
     "name": "Koby #13",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/13.png",
 
@@ -395,7 +395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "14",
     "name": "Koby #14",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/14.png",
 
@@ -425,7 +425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "15",
     "name": "Koby #15",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/15.png",
 
@@ -455,7 +455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "16",
     "name": "Koby #16",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/16.png",
 
@@ -485,7 +485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "17",
     "name": "Koby #17",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/17.png",
 
@@ -515,7 +515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "18",
     "name": "Koby #18",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/18.png",
 
@@ -545,7 +545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "19",
     "name": "Koby #19",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/19.png",
 
@@ -575,7 +575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "20",
     "name": "Koby #20",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/20.png",
 
@@ -605,7 +605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "21",
     "name": "Koby #21",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/21.png",
 
@@ -635,7 +635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "22",
     "name": "Koby #22",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/22.png",
 
@@ -665,7 +665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "23",
     "name": "Koby #23",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/23.png",
 
@@ -695,7 +695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "24",
     "name": "Koby #24",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/24.png",
 
@@ -725,7 +725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "25",
     "name": "Koby #25",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/25.png",
 
@@ -755,7 +755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "26",
     "name": "Koby #26",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/26.png",
 
@@ -785,7 +785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "27",
     "name": "Koby #27",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/27.png",
 
@@ -815,7 +815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "28",
     "name": "Koby #28",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/28.png",
 
@@ -845,7 +845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "29",
     "name": "Koby #29",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/29.png",
 
@@ -875,7 +875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "30",
     "name": "Koby #30",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/30.png",
 
@@ -905,7 +905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "31",
     "name": "Koby #31",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/31.png",
 
@@ -935,7 +935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "32",
     "name": "Koby #32",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/32.png",
 
@@ -965,7 +965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "33",
     "name": "Koby #33",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/33.png",
 
@@ -995,7 +995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "34",
     "name": "Koby #34",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/34.png",
 
@@ -1025,7 +1025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "35",
     "name": "Koby #35",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/35.png",
 
@@ -1055,7 +1055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "36",
     "name": "Koby #36",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/36.png",
 
@@ -1085,7 +1085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "37",
     "name": "Koby #37",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/37.png",
 
@@ -1115,7 +1115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "38",
     "name": "Koby #38",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/38.png",
 
@@ -1145,7 +1145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "39",
     "name": "Koby #39",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/39.png",
 
@@ -1175,7 +1175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "40",
     "name": "Koby #40",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/40.png",
 
@@ -1205,7 +1205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "41",
     "name": "Koby #41",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/41.png",
 
@@ -1235,7 +1235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "42",
     "name": "Koby #42",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/42.png",
 
@@ -1265,7 +1265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "43",
     "name": "Koby #43",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/43.png",
 
@@ -1295,7 +1295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "44",
     "name": "Koby #44",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/44.png",
 
@@ -1325,7 +1325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "45",
     "name": "Koby #45",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/45.png",
 
@@ -1355,7 +1355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "46",
     "name": "Koby #46",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/46.png",
 
@@ -1385,7 +1385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "47",
     "name": "Koby #47",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/47.png",
 
@@ -1415,7 +1415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "48",
     "name": "Koby #48",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/48.png",
 
@@ -1445,7 +1445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "49",
     "name": "Koby #49",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/49.png",
 
@@ -1475,7 +1475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "50",
     "name": "Koby #50",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/50.png",
 
@@ -1505,7 +1505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "51",
     "name": "Koby #51",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/51.png",
 
@@ -1535,7 +1535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "52",
     "name": "Koby #52",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/52.png",
 
@@ -1565,7 +1565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "53",
     "name": "Koby #53",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/53.png",
 
@@ -1595,7 +1595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "54",
     "name": "Koby #54",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/54.png",
 
@@ -1625,7 +1625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "55",
     "name": "Koby #55",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/55.png",
 
@@ -1655,7 +1655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "56",
     "name": "Koby #56",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/56.png",
 
@@ -1685,7 +1685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "57",
     "name": "Koby #57",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/57.png",
 
@@ -1715,7 +1715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "58",
     "name": "Koby #58",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/58.png",
 
@@ -1745,7 +1745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "59",
     "name": "Koby #59",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/59.png",
 
@@ -1775,7 +1775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "60",
     "name": "Koby #60",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/60.png",
 
@@ -1805,7 +1805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "61",
     "name": "Koby #61",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/61.png",
 
@@ -1835,7 +1835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "62",
     "name": "Koby #62",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/62.png",
 
@@ -1865,7 +1865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "63",
     "name": "Koby #63",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/63.png",
 
@@ -1895,7 +1895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "64",
     "name": "Koby #64",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/64.png",
 
@@ -1925,7 +1925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "65",
     "name": "Koby #65",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/65.png",
 
@@ -1955,7 +1955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "66",
     "name": "Koby #66",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/66.png",
 
@@ -1985,7 +1985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "67",
     "name": "Koby #67",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/67.png",
 
@@ -2015,7 +2015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "68",
     "name": "Koby #68",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/68.png",
 
@@ -2045,7 +2045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "69",
     "name": "Koby #69",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/69.png",
 
@@ -2075,7 +2075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "70",
     "name": "Koby #70",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/70.png",
 
@@ -2105,7 +2105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "71",
     "name": "Koby #71",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/71.png",
 
@@ -2135,7 +2135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "72",
     "name": "Koby #72",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/72.png",
 
@@ -2165,7 +2165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "73",
     "name": "Koby #73",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/73.png",
 
@@ -2195,7 +2195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "74",
     "name": "Koby #74",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/74.png",
 
@@ -2225,7 +2225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "75",
     "name": "Koby #75",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/75.png",
 
@@ -2255,7 +2255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "76",
     "name": "Koby #76",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/76.png",
 
@@ -2285,7 +2285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "77",
     "name": "Koby #77",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/77.png",
 
@@ -2315,7 +2315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "78",
     "name": "Koby #78",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/78.png",
 
@@ -2345,7 +2345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "79",
     "name": "Koby #79",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/79.png",
 
@@ -2375,7 +2375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "80",
     "name": "Koby #80",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/80.png",
 
@@ -2405,7 +2405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "81",
     "name": "Koby #81",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/81.png",
 
@@ -2435,7 +2435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "82",
     "name": "Koby #82",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/82.png",
 
@@ -2465,7 +2465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "83",
     "name": "Koby #83",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/83.png",
 
@@ -2495,7 +2495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "84",
     "name": "Koby #84",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/84.png",
 
@@ -2525,7 +2525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "85",
     "name": "Koby #85",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/85.png",
 
@@ -2555,7 +2555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "86",
     "name": "Koby #86",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/86.png",
 
@@ -2585,7 +2585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "87",
     "name": "Koby #87",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/87.png",
 
@@ -2615,7 +2615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "88",
     "name": "Koby #88",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/88.png",
 
@@ -2645,7 +2645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "89",
     "name": "Koby #89",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/89.png",
 
@@ -2675,7 +2675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "90",
     "name": "Koby #90",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/90.png",
 
@@ -2705,7 +2705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "91",
     "name": "Koby #91",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/91.png",
 
@@ -2735,7 +2735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "92",
     "name": "Koby #92",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/92.png",
 
@@ -2765,7 +2765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "93",
     "name": "Koby #93",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/93.png",
 
@@ -2795,7 +2795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "94",
     "name": "Koby #94",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/94.png",
 
@@ -2825,7 +2825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "95",
     "name": "Koby #95",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/95.png",
 
@@ -2855,7 +2855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "96",
     "name": "Koby #96",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/96.png",
 
@@ -2885,7 +2885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "97",
     "name": "Koby #97",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/97.png",
 
@@ -2915,7 +2915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "98",
     "name": "Koby #98",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/98.png",
 
@@ -2945,7 +2945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "99",
     "name": "Koby #99",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/99.png",
 
@@ -2975,7 +2975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "100",
     "name": "Koby #100",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/100.png",
 
@@ -3005,7 +3005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "101",
     "name": "Koby #101",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/101.png",
 
@@ -3035,7 +3035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "102",
     "name": "Koby #102",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/102.png",
 
@@ -3065,7 +3065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "103",
     "name": "Koby #103",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/103.png",
 
@@ -3095,7 +3095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "104",
     "name": "Koby #104",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/104.png",
 
@@ -3125,7 +3125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "105",
     "name": "Koby #105",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/105.png",
 
@@ -3155,7 +3155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "106",
     "name": "Koby #106",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/106.png",
 
@@ -3185,7 +3185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "107",
     "name": "Koby #107",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/107.png",
 
@@ -3215,7 +3215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "108",
     "name": "Koby #108",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/108.png",
 
@@ -3245,7 +3245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "109",
     "name": "Koby #109",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/109.png",
 
@@ -3275,7 +3275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "110",
     "name": "Koby #110",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/110.png",
 
@@ -3305,7 +3305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "111",
     "name": "Koby #111",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/111.png",
 
@@ -3335,7 +3335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "112",
     "name": "Koby #112",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/112.png",
 
@@ -3365,7 +3365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "113",
     "name": "Koby #113",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/113.png",
 
@@ -3395,7 +3395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "114",
     "name": "Koby #114",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/114.png",
 
@@ -3425,7 +3425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "115",
     "name": "Koby #115",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/115.png",
 
@@ -3455,7 +3455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "116",
     "name": "Koby #116",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/116.png",
 
@@ -3485,7 +3485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "117",
     "name": "Koby #117",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/117.png",
 
@@ -3515,7 +3515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "118",
     "name": "Koby #118",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/118.png",
 
@@ -3545,7 +3545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "119",
     "name": "Koby #119",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/119.png",
 
@@ -3575,7 +3575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "120",
     "name": "Koby #120",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/120.png",
 
@@ -3605,7 +3605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "121",
     "name": "Koby #121",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/121.png",
 
@@ -3635,7 +3635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "122",
     "name": "Koby #122",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/122.png",
 
@@ -3665,7 +3665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "123",
     "name": "Koby #123",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/123.png",
 
@@ -3695,7 +3695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "124",
     "name": "Koby #124",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/124.png",
 
@@ -3725,7 +3725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "125",
     "name": "Koby #125",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/125.png",
 
@@ -3755,7 +3755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "126",
     "name": "Koby #126",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/126.png",
 
@@ -3785,7 +3785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "127",
     "name": "Koby #127",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/127.png",
 
@@ -3815,7 +3815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "128",
     "name": "Koby #128",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/128.png",
 
@@ -3845,7 +3845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "129",
     "name": "Koby #129",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/129.png",
 
@@ -3875,7 +3875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "130",
     "name": "Koby #130",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/130.png",
 
@@ -3905,7 +3905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "131",
     "name": "Koby #131",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/131.png",
 
@@ -3935,7 +3935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "132",
     "name": "Koby #132",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/132.png",
 
@@ -3965,7 +3965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "133",
     "name": "Koby #133",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/133.png",
 
@@ -3995,7 +3995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "134",
     "name": "Koby #134",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/134.png",
 
@@ -4025,7 +4025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "135",
     "name": "Koby #135",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/135.png",
 
@@ -4055,7 +4055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "136",
     "name": "Koby #136",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/136.png",
 
@@ -4085,7 +4085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "137",
     "name": "Koby #137",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/137.png",
 
@@ -4115,7 +4115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "138",
     "name": "Koby #138",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/138.png",
 
@@ -4145,7 +4145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "139",
     "name": "Koby #139",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/139.png",
 
@@ -4175,7 +4175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "140",
     "name": "Koby #140",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/140.png",
 
@@ -4205,7 +4205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "141",
     "name": "Koby #141",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/141.png",
 
@@ -4235,7 +4235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "142",
     "name": "Koby #142",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/142.png",
 
@@ -4265,7 +4265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "143",
     "name": "Koby #143",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/143.png",
 
@@ -4295,7 +4295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "144",
     "name": "Koby #144",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/144.png",
 
@@ -4325,7 +4325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "145",
     "name": "Koby #145",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/145.png",
 
@@ -4355,7 +4355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "146",
     "name": "Koby #146",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/146.png",
 
@@ -4385,7 +4385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "147",
     "name": "Koby #147",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/147.png",
 
@@ -4415,7 +4415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "148",
     "name": "Koby #148",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/148.png",
 
@@ -4445,7 +4445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "149",
     "name": "Koby #149",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/149.png",
 
@@ -4475,7 +4475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "150",
     "name": "Koby #150",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/150.png",
 
@@ -4505,7 +4505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "151",
     "name": "Koby #151",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/151.png",
 
@@ -4535,7 +4535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "152",
     "name": "Koby #152",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/152.png",
 
@@ -4565,7 +4565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "153",
     "name": "Koby #153",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/153.png",
 
@@ -4595,7 +4595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "154",
     "name": "Koby #154",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/154.png",
 
@@ -4625,7 +4625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "155",
     "name": "Koby #155",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/155.png",
 
@@ -4655,7 +4655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "156",
     "name": "Koby #156",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/156.png",
 
@@ -4685,7 +4685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "157",
     "name": "Koby #157",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/157.png",
 
@@ -4715,7 +4715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "158",
     "name": "Koby #158",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/158.png",
 
@@ -4745,7 +4745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "159",
     "name": "Koby #159",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/159.png",
 
@@ -4775,7 +4775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "160",
     "name": "Koby #160",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/160.png",
 
@@ -4805,7 +4805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "161",
     "name": "Koby #161",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/161.png",
 
@@ -4835,7 +4835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "162",
     "name": "Koby #162",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/162.png",
 
@@ -4865,7 +4865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "163",
     "name": "Koby #163",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/163.png",
 
@@ -4895,7 +4895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "164",
     "name": "Koby #164",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/164.png",
 
@@ -4925,7 +4925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "165",
     "name": "Koby #165",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/165.png",
 
@@ -4955,7 +4955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "166",
     "name": "Koby #166",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/166.png",
 
@@ -4985,7 +4985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "167",
     "name": "Koby #167",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/167.png",
 
@@ -5015,7 +5015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "168",
     "name": "Koby #168",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/168.png",
 
@@ -5045,7 +5045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "169",
     "name": "Koby #169",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/169.png",
 
@@ -5075,7 +5075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "170",
     "name": "Koby #170",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/170.png",
 
@@ -5105,7 +5105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "171",
     "name": "Koby #171",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/171.png",
 
@@ -5135,7 +5135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "172",
     "name": "Koby #172",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/172.png",
 
@@ -5165,7 +5165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "173",
     "name": "Koby #173",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/173.png",
 
@@ -5195,7 +5195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "174",
     "name": "Koby #174",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/174.png",
 
@@ -5225,7 +5225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "175",
     "name": "Koby #175",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/175.png",
 
@@ -5255,7 +5255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "176",
     "name": "Koby #176",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/176.png",
 
@@ -5285,7 +5285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "177",
     "name": "Koby #177",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/177.png",
 
@@ -5315,7 +5315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "178",
     "name": "Koby #178",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/178.png",
 
@@ -5345,7 +5345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "179",
     "name": "Koby #179",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/179.png",
 
@@ -5375,7 +5375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "180",
     "name": "Koby #180",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/180.png",
 
@@ -5405,7 +5405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "181",
     "name": "Koby #181",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/181.png",
 
@@ -5435,7 +5435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "182",
     "name": "Koby #182",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/182.png",
 
@@ -5465,7 +5465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "183",
     "name": "Koby #183",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/183.png",
 
@@ -5495,7 +5495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "184",
     "name": "Koby #184",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/184.png",
 
@@ -5525,7 +5525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "185",
     "name": "Koby #185",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/185.png",
 
@@ -5555,7 +5555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "186",
     "name": "Koby #186",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/186.png",
 
@@ -5585,7 +5585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "187",
     "name": "Koby #187",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/187.png",
 
@@ -5615,7 +5615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "188",
     "name": "Koby #188",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/188.png",
 
@@ -5645,7 +5645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "189",
     "name": "Koby #189",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/189.png",
 
@@ -5675,7 +5675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "190",
     "name": "Koby #190",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/190.png",
 
@@ -5705,7 +5705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "191",
     "name": "Koby #191",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/191.png",
 
@@ -5735,7 +5735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "192",
     "name": "Koby #192",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/192.png",
 
@@ -5765,7 +5765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "193",
     "name": "Koby #193",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/193.png",
 
@@ -5795,7 +5795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "194",
     "name": "Koby #194",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/194.png",
 
@@ -5825,7 +5825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "195",
     "name": "Koby #195",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/195.png",
 
@@ -5855,7 +5855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "196",
     "name": "Koby #196",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/196.png",
 
@@ -5885,7 +5885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "197",
     "name": "Koby #197",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/197.png",
 
@@ -5915,7 +5915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "198",
     "name": "Koby #198",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/198.png",
 
@@ -5945,7 +5945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "199",
     "name": "Koby #199",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/199.png",
 
@@ -5975,7 +5975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "200",
     "name": "Koby #200",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/200.png",
 
@@ -6005,7 +6005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "201",
     "name": "Koby #201",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/201.png",
 
@@ -6035,7 +6035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "202",
     "name": "Koby #202",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/202.png",
 
@@ -6065,7 +6065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "203",
     "name": "Koby #203",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/203.png",
 
@@ -6095,7 +6095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "204",
     "name": "Koby #204",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/204.png",
 
@@ -6125,7 +6125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "205",
     "name": "Koby #205",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/205.png",
 
@@ -6155,7 +6155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "206",
     "name": "Koby #206",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/206.png",
 
@@ -6185,7 +6185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "207",
     "name": "Koby #207",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/207.png",
 
@@ -6215,7 +6215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "208",
     "name": "Koby #208",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/208.png",
 
@@ -6245,7 +6245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "209",
     "name": "Koby #209",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/209.png",
 
@@ -6275,7 +6275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "210",
     "name": "Koby #210",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/210.png",
 
@@ -6305,7 +6305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "211",
     "name": "Koby #211",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/211.png",
 
@@ -6335,7 +6335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "212",
     "name": "Koby #212",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/212.png",
 
@@ -6365,7 +6365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "213",
     "name": "Koby #213",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/213.png",
 
@@ -6395,7 +6395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "214",
     "name": "Koby #214",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/214.png",
 
@@ -6425,7 +6425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "215",
     "name": "Koby #215",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/215.png",
 
@@ -6455,7 +6455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "216",
     "name": "Koby #216",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/216.png",
 
@@ -6485,7 +6485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "217",
     "name": "Koby #217",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/217.png",
 
@@ -6515,7 +6515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "218",
     "name": "Koby #218",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/218.png",
 
@@ -6545,7 +6545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "219",
     "name": "Koby #219",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/219.png",
 
@@ -6575,7 +6575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "220",
     "name": "Koby #220",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/220.png",
 
@@ -6605,7 +6605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "221",
     "name": "Koby #221",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/221.png",
 
@@ -6635,7 +6635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "222",
     "name": "Koby #222",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/222.png",
 
@@ -6665,7 +6665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "223",
     "name": "Koby #223",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/223.png",
 
@@ -6695,7 +6695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "224",
     "name": "Koby #224",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/224.png",
 
@@ -6725,7 +6725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "225",
     "name": "Koby #225",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/225.png",
 
@@ -6755,7 +6755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "226",
     "name": "Koby #226",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/226.png",
 
@@ -6785,7 +6785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "227",
     "name": "Koby #227",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/227.png",
 
@@ -6815,7 +6815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "228",
     "name": "Koby #228",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/228.png",
 
@@ -6845,7 +6845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "229",
     "name": "Koby #229",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/229.png",
 
@@ -6875,7 +6875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "230",
     "name": "Koby #230",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/230.png",
 
@@ -6905,7 +6905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "231",
     "name": "Koby #231",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/231.png",
 
@@ -6935,7 +6935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "232",
     "name": "Koby #232",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/232.png",
 
@@ -6965,7 +6965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "233",
     "name": "Koby #233",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/233.png",
 
@@ -6995,7 +6995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "234",
     "name": "Koby #234",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/234.png",
 
@@ -7025,7 +7025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "235",
     "name": "Koby #235",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/235.png",
 
@@ -7055,7 +7055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "236",
     "name": "Koby #236",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/236.png",
 
@@ -7085,7 +7085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "237",
     "name": "Koby #237",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/237.png",
 
@@ -7115,7 +7115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "238",
     "name": "Koby #238",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/238.png",
 
@@ -7145,7 +7145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "239",
     "name": "Koby #239",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/239.png",
 
@@ -7175,7 +7175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "240",
     "name": "Koby #240",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/240.png",
 
@@ -7205,7 +7205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "241",
     "name": "Koby #241",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/241.png",
 
@@ -7235,7 +7235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "242",
     "name": "Koby #242",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/242.png",
 
@@ -7265,7 +7265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "243",
     "name": "Koby #243",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/243.png",
 
@@ -7295,7 +7295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "244",
     "name": "Koby #244",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/244.png",
 
@@ -7325,7 +7325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "245",
     "name": "Koby #245",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/245.png",
 
@@ -7355,7 +7355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "246",
     "name": "Koby #246",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/246.png",
 
@@ -7385,7 +7385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "247",
     "name": "Koby #247",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/247.png",
 
@@ -7415,7 +7415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "248",
     "name": "Koby #248",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/248.png",
 
@@ -7445,7 +7445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "249",
     "name": "Koby #249",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/249.png",
 
@@ -7475,7 +7475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "250",
     "name": "Koby #250",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/250.png",
 
@@ -7505,7 +7505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "251",
     "name": "Koby #251",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/251.png",
 
@@ -7535,7 +7535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "252",
     "name": "Koby #252",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/252.png",
 
@@ -7565,7 +7565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "253",
     "name": "Koby #253",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/253.png",
 
@@ -7595,7 +7595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "254",
     "name": "Koby #254",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/254.png",
 
@@ -7625,7 +7625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "255",
     "name": "Koby #255",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/255.png",
 
@@ -7655,7 +7655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "256",
     "name": "Koby #256",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/256.png",
 
@@ -7685,7 +7685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "257",
     "name": "Koby #257",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/257.png",
 
@@ -7715,7 +7715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "258",
     "name": "Koby #258",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/258.png",
 
@@ -7745,7 +7745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "259",
     "name": "Koby #259",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/259.png",
 
@@ -7775,7 +7775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "260",
     "name": "Koby #260",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/260.png",
 
@@ -7805,7 +7805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "261",
     "name": "Koby #261",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/261.png",
 
@@ -7835,7 +7835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "262",
     "name": "Koby #262",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/262.png",
 
@@ -7865,7 +7865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "263",
     "name": "Koby #263",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/263.png",
 
@@ -7895,7 +7895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "264",
     "name": "Koby #264",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/264.png",
 
@@ -7925,7 +7925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "265",
     "name": "Koby #265",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/265.png",
 
@@ -7955,7 +7955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "266",
     "name": "Koby #266",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/266.png",
 
@@ -7985,7 +7985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "267",
     "name": "Koby #267",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/267.png",
 
@@ -8015,7 +8015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "268",
     "name": "Koby #268",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/268.png",
 
@@ -8045,7 +8045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "269",
     "name": "Koby #269",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/269.png",
 
@@ -8075,7 +8075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "270",
     "name": "Koby #270",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/270.png",
 
@@ -8105,7 +8105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "271",
     "name": "Koby #271",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/271.png",
 
@@ -8135,7 +8135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "272",
     "name": "Koby #272",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/272.png",
 
@@ -8165,7 +8165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "273",
     "name": "Koby #273",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/273.png",
 
@@ -8195,7 +8195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "274",
     "name": "Koby #274",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/274.png",
 
@@ -8225,7 +8225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "275",
     "name": "Koby #275",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/275.png",
 
@@ -8255,7 +8255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "276",
     "name": "Koby #276",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/276.png",
 
@@ -8285,7 +8285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "277",
     "name": "Koby #277",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/277.png",
 
@@ -8315,7 +8315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "278",
     "name": "Koby #278",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/278.png",
 
@@ -8345,7 +8345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "279",
     "name": "Koby #279",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/279.png",
 
@@ -8375,7 +8375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "280",
     "name": "Koby #280",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/280.png",
 
@@ -8405,7 +8405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "281",
     "name": "Koby #281",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/281.png",
 
@@ -8435,7 +8435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "282",
     "name": "Koby #282",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/282.png",
 
@@ -8465,7 +8465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "283",
     "name": "Koby #283",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/283.png",
 
@@ -8495,7 +8495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "284",
     "name": "Koby #284",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/284.png",
 
@@ -8525,7 +8525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "285",
     "name": "Koby #285",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/285.png",
 
@@ -8555,7 +8555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "286",
     "name": "Koby #286",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/286.png",
 
@@ -8585,7 +8585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "287",
     "name": "Koby #287",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/287.png",
 
@@ -8615,7 +8615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "288",
     "name": "Koby #288",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/288.png",
 
@@ -8645,7 +8645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "289",
     "name": "Koby #289",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/289.png",
 
@@ -8675,7 +8675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "290",
     "name": "Koby #290",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/290.png",
 
@@ -8705,7 +8705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "291",
     "name": "Koby #291",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/291.png",
 
@@ -8735,7 +8735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "292",
     "name": "Koby #292",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/292.png",
 
@@ -8765,7 +8765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "293",
     "name": "Koby #293",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/293.png",
 
@@ -8795,7 +8795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "294",
     "name": "Koby #294",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/294.png",
 
@@ -8825,7 +8825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "295",
     "name": "Koby #295",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/295.png",
 
@@ -8855,7 +8855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "296",
     "name": "Koby #296",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/296.png",
 
@@ -8885,7 +8885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "297",
     "name": "Koby #297",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/297.png",
 
@@ -8915,7 +8915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "298",
     "name": "Koby #298",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/298.png",
 
@@ -8945,7 +8945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "299",
     "name": "Koby #299",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/299.png",
 
@@ -8975,7 +8975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "300",
     "name": "Koby #300",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/300.png",
 
@@ -9005,7 +9005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "301",
     "name": "Koby #301",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/301.png",
 
@@ -9035,7 +9035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "302",
     "name": "Koby #302",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/302.png",
 
@@ -9065,7 +9065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "303",
     "name": "Koby #303",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/303.png",
 
@@ -9095,7 +9095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "304",
     "name": "Koby #304",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/304.png",
 
@@ -9125,7 +9125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "305",
     "name": "Koby #305",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/305.png",
 
@@ -9155,7 +9155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "306",
     "name": "Koby #306",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/306.png",
 
@@ -9185,7 +9185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "307",
     "name": "Koby #307",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/307.png",
 
@@ -9215,7 +9215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "308",
     "name": "Koby #308",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/308.png",
 
@@ -9245,7 +9245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "309",
     "name": "Koby #309",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/309.png",
 
@@ -9275,7 +9275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "310",
     "name": "Koby #310",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/310.png",
 
@@ -9305,7 +9305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "311",
     "name": "Koby #311",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/311.png",
 
@@ -9335,7 +9335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "312",
     "name": "Koby #312",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/312.png",
 
@@ -9365,7 +9365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "313",
     "name": "Koby #313",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/313.png",
 
@@ -9395,7 +9395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "314",
     "name": "Koby #314",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/314.png",
 
@@ -9425,7 +9425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "315",
     "name": "Koby #315",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/315.png",
 
@@ -9455,7 +9455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "316",
     "name": "Koby #316",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/316.png",
 
@@ -9485,7 +9485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "317",
     "name": "Koby #317",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/317.png",
 
@@ -9515,7 +9515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "318",
     "name": "Koby #318",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/318.png",
 
@@ -9545,7 +9545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "319",
     "name": "Koby #319",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/319.png",
 
@@ -9575,7 +9575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "320",
     "name": "Koby #320",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/320.png",
 
@@ -9605,7 +9605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "321",
     "name": "Koby #321",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/321.png",
 
@@ -9635,7 +9635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "322",
     "name": "Koby #322",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/322.png",
 
@@ -9665,7 +9665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "323",
     "name": "Koby #323",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/323.png",
 
@@ -9695,7 +9695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "324",
     "name": "Koby #324",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/324.png",
 
@@ -9725,7 +9725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "325",
     "name": "Koby #325",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/325.png",
 
@@ -9755,7 +9755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "326",
     "name": "Koby #326",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/326.png",
 
@@ -9785,7 +9785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "327",
     "name": "Koby #327",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/327.png",
 
@@ -9815,7 +9815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "328",
     "name": "Koby #328",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/328.png",
 
@@ -9845,7 +9845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "329",
     "name": "Koby #329",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/329.png",
 
@@ -9875,7 +9875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "330",
     "name": "Koby #330",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/330.png",
 
@@ -9905,7 +9905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "331",
     "name": "Koby #331",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/331.png",
 
@@ -9935,7 +9935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "332",
     "name": "Koby #332",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/332.png",
 
@@ -9965,7 +9965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "333",
     "name": "Koby #333",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/333.png",
 
@@ -9995,7 +9995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "334",
     "name": "Koby #334",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/334.png",
 
@@ -10025,7 +10025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "335",
     "name": "Koby #335",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/335.png",
 
@@ -10055,7 +10055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "336",
     "name": "Koby #336",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/336.png",
 
@@ -10085,7 +10085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "337",
     "name": "Koby #337",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/337.png",
 
@@ -10115,7 +10115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "338",
     "name": "Koby #338",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/338.png",
 
@@ -10145,7 +10145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "339",
     "name": "Koby #339",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/339.png",
 
@@ -10175,7 +10175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "340",
     "name": "Koby #340",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/340.png",
 
@@ -10205,7 +10205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "341",
     "name": "Koby #341",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/341.png",
 
@@ -10235,7 +10235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "342",
     "name": "Koby #342",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/342.png",
 
@@ -10265,7 +10265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "343",
     "name": "Koby #343",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/343.png",
 
@@ -10295,7 +10295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "344",
     "name": "Koby #344",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/344.png",
 
@@ -10325,7 +10325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "345",
     "name": "Koby #345",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/345.png",
 
@@ -10355,7 +10355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "346",
     "name": "Koby #346",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/346.png",
 
@@ -10385,7 +10385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "347",
     "name": "Koby #347",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/347.png",
 
@@ -10415,7 +10415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "348",
     "name": "Koby #348",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/348.png",
 
@@ -10445,7 +10445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "349",
     "name": "Koby #349",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/349.png",
 
@@ -10475,7 +10475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "350",
     "name": "Koby #350",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/350.png",
 
@@ -10505,7 +10505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "351",
     "name": "Koby #351",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/351.png",
 
@@ -10535,7 +10535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "352",
     "name": "Koby #352",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/352.png",
 
@@ -10565,7 +10565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "353",
     "name": "Koby #353",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/353.png",
 
@@ -10595,7 +10595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "354",
     "name": "Koby #354",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/354.png",
 
@@ -10625,7 +10625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "355",
     "name": "Koby #355",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/355.png",
 
@@ -10655,7 +10655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "356",
     "name": "Koby #356",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/356.png",
 
@@ -10685,7 +10685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "357",
     "name": "Koby #357",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/357.png",
 
@@ -10715,7 +10715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "358",
     "name": "Koby #358",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/358.png",
 
@@ -10745,7 +10745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "359",
     "name": "Koby #359",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/359.png",
 
@@ -10775,7 +10775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "360",
     "name": "Koby #360",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/360.png",
 
@@ -10805,7 +10805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "361",
     "name": "Koby #361",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/361.png",
 
@@ -10835,7 +10835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "362",
     "name": "Koby #362",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/362.png",
 
@@ -10865,7 +10865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "363",
     "name": "Koby #363",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/363.png",
 
@@ -10895,7 +10895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "364",
     "name": "Koby #364",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/364.png",
 
@@ -10925,7 +10925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "365",
     "name": "Koby #365",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/365.png",
 
@@ -10955,7 +10955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "366",
     "name": "Koby #366",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/366.png",
 
@@ -10985,7 +10985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "367",
     "name": "Koby #367",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/367.png",
 
@@ -11015,7 +11015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "368",
     "name": "Koby #368",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/368.png",
 
@@ -11045,7 +11045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "369",
     "name": "Koby #369",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/369.png",
 
@@ -11075,7 +11075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "370",
     "name": "Koby #370",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/370.png",
 
@@ -11105,7 +11105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "371",
     "name": "Koby #371",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/371.png",
 
@@ -11135,7 +11135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "372",
     "name": "Koby #372",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/372.png",
 
@@ -11165,7 +11165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "373",
     "name": "Koby #373",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/373.png",
 
@@ -11195,7 +11195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "374",
     "name": "Koby #374",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/374.png",
 
@@ -11225,7 +11225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "375",
     "name": "Koby #375",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/375.png",
 
@@ -11255,7 +11255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "376",
     "name": "Koby #376",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/376.png",
 
@@ -11285,7 +11285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "377",
     "name": "Koby #377",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/377.png",
 
@@ -11315,7 +11315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "378",
     "name": "Koby #378",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/378.png",
 
@@ -11345,7 +11345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "379",
     "name": "Koby #379",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/379.png",
 
@@ -11375,7 +11375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "380",
     "name": "Koby #380",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/380.png",
 
@@ -11405,7 +11405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "381",
     "name": "Koby #381",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/381.png",
 
@@ -11435,7 +11435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "382",
     "name": "Koby #382",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/382.png",
 
@@ -11465,7 +11465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "383",
     "name": "Koby #383",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/383.png",
 
@@ -11495,7 +11495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "384",
     "name": "Koby #384",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/384.png",
 
@@ -11525,7 +11525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "385",
     "name": "Koby #385",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/385.png",
 
@@ -11555,7 +11555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "386",
     "name": "Koby #386",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/386.png",
 
@@ -11585,7 +11585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "387",
     "name": "Koby #387",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/387.png",
 
@@ -11615,7 +11615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "388",
     "name": "Koby #388",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/388.png",
 
@@ -11645,7 +11645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "389",
     "name": "Koby #389",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/389.png",
 
@@ -11675,7 +11675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "390",
     "name": "Koby #390",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/390.png",
 
@@ -11705,7 +11705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "391",
     "name": "Koby #391",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/391.png",
 
@@ -11735,7 +11735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "392",
     "name": "Koby #392",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/392.png",
 
@@ -11765,7 +11765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "393",
     "name": "Koby #393",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/393.png",
 
@@ -11795,7 +11795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "394",
     "name": "Koby #394",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/394.png",
 
@@ -11825,7 +11825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "395",
     "name": "Koby #395",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/395.png",
 
@@ -11855,7 +11855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "396",
     "name": "Koby #396",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/396.png",
 
@@ -11885,7 +11885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "397",
     "name": "Koby #397",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/397.png",
 
@@ -11915,7 +11915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "398",
     "name": "Koby #398",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/398.png",
 
@@ -11945,7 +11945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "399",
     "name": "Koby #399",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/399.png",
 
@@ -11975,7 +11975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "400",
     "name": "Koby #400",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/400.png",
 
@@ -12005,7 +12005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "401",
     "name": "Koby #401",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/401.png",
 
@@ -12035,7 +12035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "402",
     "name": "Koby #402",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/402.png",
 
@@ -12065,7 +12065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "403",
     "name": "Koby #403",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/403.png",
 
@@ -12095,7 +12095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "404",
     "name": "Koby #404",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/404.png",
 
@@ -12125,7 +12125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "405",
     "name": "Koby #405",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/405.png",
 
@@ -12155,7 +12155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "406",
     "name": "Koby #406",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/406.png",
 
@@ -12185,7 +12185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "407",
     "name": "Koby #407",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/407.png",
 
@@ -12215,7 +12215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "408",
     "name": "Koby #408",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/408.png",
 
@@ -12245,7 +12245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "409",
     "name": "Koby #409",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/409.png",
 
@@ -12275,7 +12275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "410",
     "name": "Koby #410",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/410.png",
 
@@ -12305,7 +12305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "411",
     "name": "Koby #411",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/411.png",
 
@@ -12335,7 +12335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "412",
     "name": "Koby #412",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/412.png",
 
@@ -12365,7 +12365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "413",
     "name": "Koby #413",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/413.png",
 
@@ -12395,7 +12395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "414",
     "name": "Koby #414",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/414.png",
 
@@ -12425,7 +12425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "415",
     "name": "Koby #415",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/415.png",
 
@@ -12455,7 +12455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "416",
     "name": "Koby #416",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/416.png",
 
@@ -12485,7 +12485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "417",
     "name": "Koby #417",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/417.png",
 
@@ -12515,7 +12515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "418",
     "name": "Koby #418",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/418.png",
 
@@ -12545,7 +12545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "419",
     "name": "Koby #419",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/419.png",
 
@@ -12575,7 +12575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "420",
     "name": "Koby #420",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/420.png",
 
@@ -12605,7 +12605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "421",
     "name": "Koby #421",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/421.png",
 
@@ -12635,7 +12635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "422",
     "name": "Koby #422",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/422.png",
 
@@ -12665,7 +12665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "423",
     "name": "Koby #423",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/423.png",
 
@@ -12695,7 +12695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "424",
     "name": "Koby #424",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/424.png",
 
@@ -12725,7 +12725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "425",
     "name": "Koby #425",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/425.png",
 
@@ -12755,7 +12755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "426",
     "name": "Koby #426",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/426.png",
 
@@ -12785,7 +12785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "427",
     "name": "Koby #427",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/427.png",
 
@@ -12815,7 +12815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "428",
     "name": "Koby #428",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/428.png",
 
@@ -12845,7 +12845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "429",
     "name": "Koby #429",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/429.png",
 
@@ -12875,7 +12875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "430",
     "name": "Koby #430",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/430.png",
 
@@ -12905,7 +12905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "431",
     "name": "Koby #431",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/431.png",
 
@@ -12935,7 +12935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "432",
     "name": "Koby #432",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/432.png",
 
@@ -12965,7 +12965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "433",
     "name": "Koby #433",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/433.png",
 
@@ -12995,7 +12995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "434",
     "name": "Koby #434",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/434.png",
 
@@ -13025,7 +13025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "435",
     "name": "Koby #435",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/435.png",
 
@@ -13055,7 +13055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "436",
     "name": "Koby #436",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/436.png",
 
@@ -13085,7 +13085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "437",
     "name": "Koby #437",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/437.png",
 
@@ -13115,7 +13115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "438",
     "name": "Koby #438",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/438.png",
 
@@ -13145,7 +13145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "439",
     "name": "Koby #439",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/439.png",
 
@@ -13175,7 +13175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "440",
     "name": "Koby #440",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/440.png",
 
@@ -13205,7 +13205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "441",
     "name": "Koby #441",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/441.png",
 
@@ -13235,7 +13235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "442",
     "name": "Koby #442",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/442.png",
 
@@ -13265,7 +13265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "443",
     "name": "Koby #443",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/443.png",
 
@@ -13295,7 +13295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "444",
     "name": "Koby #444",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/444.png",
 
@@ -13325,7 +13325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "445",
     "name": "Koby #445",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/445.png",
 
@@ -13355,7 +13355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "446",
     "name": "Koby #446",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/446.png",
 
@@ -13385,7 +13385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "447",
     "name": "Koby #447",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/447.png",
 
@@ -13415,7 +13415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "448",
     "name": "Koby #448",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/448.png",
 
@@ -13445,7 +13445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "449",
     "name": "Koby #449",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/449.png",
 
@@ -13475,7 +13475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "450",
     "name": "Koby #450",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/450.png",
 
@@ -13505,7 +13505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "451",
     "name": "Koby #451",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/451.png",
 
@@ -13535,7 +13535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "452",
     "name": "Koby #452",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/452.png",
 
@@ -13565,7 +13565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "453",
     "name": "Koby #453",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/453.png",
 
@@ -13595,7 +13595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "454",
     "name": "Koby #454",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/454.png",
 
@@ -13625,7 +13625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "455",
     "name": "Koby #455",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/455.png",
 
@@ -13655,7 +13655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "456",
     "name": "Koby #456",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/456.png",
 
@@ -13685,7 +13685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "457",
     "name": "Koby #457",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/457.png",
 
@@ -13715,7 +13715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "458",
     "name": "Koby #458",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/458.png",
 
@@ -13745,7 +13745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "459",
     "name": "Koby #459",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/459.png",
 
@@ -13775,7 +13775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "460",
     "name": "Koby #460",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/460.png",
 
@@ -13805,7 +13805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "461",
     "name": "Koby #461",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/461.png",
 
@@ -13835,7 +13835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "462",
     "name": "Koby #462",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/462.png",
 
@@ -13865,7 +13865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "463",
     "name": "Koby #463",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/463.png",
 
@@ -13895,7 +13895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "464",
     "name": "Koby #464",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/464.png",
 
@@ -13925,7 +13925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "465",
     "name": "Koby #465",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/465.png",
 
@@ -13955,7 +13955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "466",
     "name": "Koby #466",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/466.png",
 
@@ -13985,7 +13985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "467",
     "name": "Koby #467",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/467.png",
 
@@ -14015,7 +14015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "468",
     "name": "Koby #468",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/468.png",
 
@@ -14045,7 +14045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "469",
     "name": "Koby #469",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/469.png",
 
@@ -14075,7 +14075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "470",
     "name": "Koby #470",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/470.png",
 
@@ -14105,7 +14105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "471",
     "name": "Koby #471",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/471.png",
 
@@ -14135,7 +14135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "472",
     "name": "Koby #472",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/472.png",
 
@@ -14165,7 +14165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "473",
     "name": "Koby #473",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/473.png",
 
@@ -14195,7 +14195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "474",
     "name": "Koby #474",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/474.png",
 
@@ -14225,7 +14225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "475",
     "name": "Koby #475",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/475.png",
 
@@ -14255,7 +14255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "476",
     "name": "Koby #476",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/476.png",
 
@@ -14285,7 +14285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "477",
     "name": "Koby #477",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/477.png",
 
@@ -14315,7 +14315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "478",
     "name": "Koby #478",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/478.png",
 
@@ -14345,7 +14345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "479",
     "name": "Koby #479",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/479.png",
 
@@ -14375,7 +14375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "480",
     "name": "Koby #480",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/480.png",
 
@@ -14405,7 +14405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "481",
     "name": "Koby #481",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/481.png",
 
@@ -14435,7 +14435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "482",
     "name": "Koby #482",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/482.png",
 
@@ -14465,7 +14465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "483",
     "name": "Koby #483",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/483.png",
 
@@ -14495,7 +14495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "484",
     "name": "Koby #484",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/484.png",
 
@@ -14525,7 +14525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "485",
     "name": "Koby #485",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/485.png",
 
@@ -14555,7 +14555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "486",
     "name": "Koby #486",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/486.png",
 
@@ -14585,7 +14585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "487",
     "name": "Koby #487",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/487.png",
 
@@ -14615,7 +14615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "488",
     "name": "Koby #488",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/488.png",
 
@@ -14645,7 +14645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "489",
     "name": "Koby #489",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/489.png",
 
@@ -14675,7 +14675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "490",
     "name": "Koby #490",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/490.png",
 
@@ -14705,7 +14705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "491",
     "name": "Koby #491",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/491.png",
 
@@ -14735,7 +14735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "492",
     "name": "Koby #492",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/492.png",
 
@@ -14765,7 +14765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "493",
     "name": "Koby #493",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/493.png",
 
@@ -14795,7 +14795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "494",
     "name": "Koby #494",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/494.png",
 
@@ -14825,7 +14825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "495",
     "name": "Koby #495",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/495.png",
 
@@ -14855,7 +14855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "496",
     "name": "Koby #496",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/496.png",
 
@@ -14885,7 +14885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "497",
     "name": "Koby #497",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/497.png",
 
@@ -14915,7 +14915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "498",
     "name": "Koby #498",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/498.png",
 
@@ -14945,7 +14945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "499",
     "name": "Koby #499",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/499.png",
 
@@ -14975,7 +14975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "500",
     "name": "Koby #500",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/500.png",
 
@@ -15005,7 +15005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "501",
     "name": "Koby #501",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/501.png",
 
@@ -15035,7 +15035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "502",
     "name": "Koby #502",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/502.png",
 
@@ -15065,7 +15065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "503",
     "name": "Koby #503",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/503.png",
 
@@ -15095,7 +15095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "504",
     "name": "Koby #504",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/504.png",
 
@@ -15125,7 +15125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "505",
     "name": "Koby #505",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/505.png",
 
@@ -15155,7 +15155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "506",
     "name": "Koby #506",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/506.png",
 
@@ -15185,7 +15185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "507",
     "name": "Koby #507",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/507.png",
 
@@ -15215,7 +15215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "508",
     "name": "Koby #508",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/508.png",
 
@@ -15245,7 +15245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "509",
     "name": "Koby #509",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/509.png",
 
@@ -15275,7 +15275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "510",
     "name": "Koby #510",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/510.png",
 
@@ -15305,7 +15305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "511",
     "name": "Koby #511",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/511.png",
 
@@ -15335,7 +15335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "512",
     "name": "Koby #512",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/512.png",
 
@@ -15365,7 +15365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "513",
     "name": "Koby #513",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/513.png",
 
@@ -15395,7 +15395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "514",
     "name": "Koby #514",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/514.png",
 
@@ -15425,7 +15425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "515",
     "name": "Koby #515",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/515.png",
 
@@ -15455,7 +15455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "516",
     "name": "Koby #516",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/516.png",
 
@@ -15485,7 +15485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "517",
     "name": "Koby #517",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/517.png",
 
@@ -15515,7 +15515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "518",
     "name": "Koby #518",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/518.png",
 
@@ -15545,7 +15545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "519",
     "name": "Koby #519",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/519.png",
 
@@ -15575,7 +15575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "520",
     "name": "Koby #520",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/520.png",
 
@@ -15605,7 +15605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "521",
     "name": "Koby #521",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/521.png",
 
@@ -15635,7 +15635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "522",
     "name": "Koby #522",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/522.png",
 
@@ -15665,7 +15665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "523",
     "name": "Koby #523",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/523.png",
 
@@ -15695,7 +15695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "524",
     "name": "Koby #524",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/524.png",
 
@@ -15725,7 +15725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "525",
     "name": "Koby #525",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/525.png",
 
@@ -15755,7 +15755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "526",
     "name": "Koby #526",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/526.png",
 
@@ -15785,7 +15785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "527",
     "name": "Koby #527",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/527.png",
 
@@ -15815,7 +15815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "528",
     "name": "Koby #528",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/528.png",
 
@@ -15845,7 +15845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "529",
     "name": "Koby #529",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/529.png",
 
@@ -15875,7 +15875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "530",
     "name": "Koby #530",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/530.png",
 
@@ -15905,7 +15905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "531",
     "name": "Koby #531",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/531.png",
 
@@ -15935,7 +15935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "532",
     "name": "Koby #532",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/532.png",
 
@@ -15965,7 +15965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "533",
     "name": "Koby #533",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/533.png",
 
@@ -15995,7 +15995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "534",
     "name": "Koby #534",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/534.png",
 
@@ -16025,7 +16025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "535",
     "name": "Koby #535",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/535.png",
 
@@ -16055,7 +16055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "536",
     "name": "Koby #536",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/536.png",
 
@@ -16085,7 +16085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "537",
     "name": "Koby #537",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/537.png",
 
@@ -16115,7 +16115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "538",
     "name": "Koby #538",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/538.png",
 
@@ -16145,7 +16145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "539",
     "name": "Koby #539",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/539.png",
 
@@ -16175,7 +16175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "540",
     "name": "Koby #540",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/540.png",
 
@@ -16205,7 +16205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "541",
     "name": "Koby #541",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/541.png",
 
@@ -16235,7 +16235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "542",
     "name": "Koby #542",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/542.png",
 
@@ -16265,7 +16265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "543",
     "name": "Koby #543",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/543.png",
 
@@ -16295,7 +16295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "544",
     "name": "Koby #544",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/544.png",
 
@@ -16325,7 +16325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "545",
     "name": "Koby #545",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/545.png",
 
@@ -16355,7 +16355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "546",
     "name": "Koby #546",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/546.png",
 
@@ -16385,7 +16385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "547",
     "name": "Koby #547",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/547.png",
 
@@ -16415,7 +16415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "548",
     "name": "Koby #548",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/548.png",
 
@@ -16445,7 +16445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "549",
     "name": "Koby #549",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/549.png",
 
@@ -16475,7 +16475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "550",
     "name": "Koby #550",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/550.png",
 
@@ -16505,7 +16505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "551",
     "name": "Koby #551",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/551.png",
 
@@ -16535,7 +16535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "552",
     "name": "Koby #552",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/552.png",
 
@@ -16565,7 +16565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "553",
     "name": "Koby #553",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/553.png",
 
@@ -16595,7 +16595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "554",
     "name": "Koby #554",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/554.png",
 
@@ -16625,7 +16625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "555",
     "name": "Koby #555",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/555.png",
 
@@ -16655,7 +16655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "556",
     "name": "Koby #556",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/556.png",
 
@@ -16685,7 +16685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "557",
     "name": "Koby #557",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/557.png",
 
@@ -16715,7 +16715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "558",
     "name": "Koby #558",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/558.png",
 
@@ -16745,7 +16745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "559",
     "name": "Koby #559",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/559.png",
 
@@ -16775,7 +16775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "560",
     "name": "Koby #560",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/560.png",
 
@@ -16805,7 +16805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "561",
     "name": "Koby #561",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/561.png",
 
@@ -16835,7 +16835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "562",
     "name": "Koby #562",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/562.png",
 
@@ -16865,7 +16865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "563",
     "name": "Koby #563",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/563.png",
 
@@ -16895,7 +16895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "564",
     "name": "Koby #564",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/564.png",
 
@@ -16925,7 +16925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "565",
     "name": "Koby #565",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/565.png",
 
@@ -16955,7 +16955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "566",
     "name": "Koby #566",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/566.png",
 
@@ -16985,7 +16985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "567",
     "name": "Koby #567",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/567.png",
 
@@ -17015,7 +17015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "568",
     "name": "Koby #568",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/568.png",
 
@@ -17045,7 +17045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "569",
     "name": "Koby #569",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/569.png",
 
@@ -17075,7 +17075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "570",
     "name": "Koby #570",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/570.png",
 
@@ -17105,7 +17105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "571",
     "name": "Koby #571",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/571.png",
 
@@ -17135,7 +17135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "572",
     "name": "Koby #572",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/572.png",
 
@@ -17165,7 +17165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "573",
     "name": "Koby #573",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/573.png",
 
@@ -17195,7 +17195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "574",
     "name": "Koby #574",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/574.png",
 
@@ -17225,7 +17225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "575",
     "name": "Koby #575",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/575.png",
 
@@ -17255,7 +17255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "576",
     "name": "Koby #576",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/576.png",
 
@@ -17285,7 +17285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "577",
     "name": "Koby #577",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/577.png",
 
@@ -17315,7 +17315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "578",
     "name": "Koby #578",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/578.png",
 
@@ -17345,7 +17345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "579",
     "name": "Koby #579",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/579.png",
 
@@ -17375,7 +17375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "580",
     "name": "Koby #580",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/580.png",
 
@@ -17405,7 +17405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "581",
     "name": "Koby #581",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/581.png",
 
@@ -17435,7 +17435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "582",
     "name": "Koby #582",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/582.png",
 
@@ -17465,7 +17465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "583",
     "name": "Koby #583",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/583.png",
 
@@ -17495,7 +17495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "584",
     "name": "Koby #584",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/584.png",
 
@@ -17525,7 +17525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "585",
     "name": "Koby #585",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/585.png",
 
@@ -17555,7 +17555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "586",
     "name": "Koby #586",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/586.png",
 
@@ -17585,7 +17585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "587",
     "name": "Koby #587",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/587.png",
 
@@ -17615,7 +17615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "588",
     "name": "Koby #588",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/588.png",
 
@@ -17645,7 +17645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "589",
     "name": "Koby #589",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/589.png",
 
@@ -17675,7 +17675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "590",
     "name": "Koby #590",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/590.png",
 
@@ -17705,7 +17705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "591",
     "name": "Koby #591",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/591.png",
 
@@ -17735,7 +17735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "592",
     "name": "Koby #592",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/592.png",
 
@@ -17765,7 +17765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "593",
     "name": "Koby #593",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/593.png",
 
@@ -17795,7 +17795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "594",
     "name": "Koby #594",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/594.png",
 
@@ -17825,7 +17825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "595",
     "name": "Koby #595",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/595.png",
 
@@ -17855,7 +17855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "596",
     "name": "Koby #596",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/596.png",
 
@@ -17885,7 +17885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "597",
     "name": "Koby #597",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/597.png",
 
@@ -17915,7 +17915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "598",
     "name": "Koby #598",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/598.png",
 
@@ -17945,7 +17945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "599",
     "name": "Koby #599",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/599.png",
 
@@ -17975,7 +17975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "600",
     "name": "Koby #600",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/600.png",
 
@@ -18005,7 +18005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "601",
     "name": "Koby #601",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/601.png",
 
@@ -18035,7 +18035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "602",
     "name": "Koby #602",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/602.png",
 
@@ -18065,7 +18065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "603",
     "name": "Koby #603",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/603.png",
 
@@ -18095,7 +18095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "604",
     "name": "Koby #604",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/604.png",
 
@@ -18125,7 +18125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "605",
     "name": "Koby #605",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/605.png",
 
@@ -18155,7 +18155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "606",
     "name": "Koby #606",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/606.png",
 
@@ -18185,7 +18185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "607",
     "name": "Koby #607",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/607.png",
 
@@ -18215,7 +18215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "608",
     "name": "Koby #608",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/608.png",
 
@@ -18245,7 +18245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "609",
     "name": "Koby #609",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/609.png",
 
@@ -18275,7 +18275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "610",
     "name": "Koby #610",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/610.png",
 
@@ -18305,7 +18305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "611",
     "name": "Koby #611",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/611.png",
 
@@ -18335,7 +18335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "612",
     "name": "Koby #612",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/612.png",
 
@@ -18365,7 +18365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "613",
     "name": "Koby #613",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/613.png",
 
@@ -18395,7 +18395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "614",
     "name": "Koby #614",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/614.png",
 
@@ -18425,7 +18425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "615",
     "name": "Koby #615",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/615.png",
 
@@ -18455,7 +18455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "616",
     "name": "Koby #616",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/616.png",
 
@@ -18485,7 +18485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "617",
     "name": "Koby #617",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/617.png",
 
@@ -18515,7 +18515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "618",
     "name": "Koby #618",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/618.png",
 
@@ -18545,7 +18545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "619",
     "name": "Koby #619",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/619.png",
 
@@ -18575,7 +18575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "620",
     "name": "Koby #620",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/620.png",
 
@@ -18605,7 +18605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "621",
     "name": "Koby #621",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/621.png",
 
@@ -18635,7 +18635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "622",
     "name": "Koby #622",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/622.png",
 
@@ -18665,7 +18665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "623",
     "name": "Koby #623",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/623.png",
 
@@ -18695,7 +18695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "624",
     "name": "Koby #624",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/624.png",
 
@@ -18725,7 +18725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "625",
     "name": "Koby #625",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/625.png",
 
@@ -18755,7 +18755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "626",
     "name": "Koby #626",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/626.png",
 
@@ -18785,7 +18785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "627",
     "name": "Koby #627",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/627.png",
 
@@ -18815,7 +18815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "628",
     "name": "Koby #628",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/628.png",
 
@@ -18845,7 +18845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "629",
     "name": "Koby #629",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/629.png",
 
@@ -18875,7 +18875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "630",
     "name": "Koby #630",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/630.png",
 
@@ -18905,7 +18905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "631",
     "name": "Koby #631",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/631.png",
 
@@ -18935,7 +18935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "632",
     "name": "Koby #632",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/632.png",
 
@@ -18965,7 +18965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "633",
     "name": "Koby #633",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/633.png",
 
@@ -18995,7 +18995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "634",
     "name": "Koby #634",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/634.png",
 
@@ -19025,7 +19025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "635",
     "name": "Koby #635",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/635.png",
 
@@ -19055,7 +19055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "636",
     "name": "Koby #636",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/636.png",
 
@@ -19085,7 +19085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "637",
     "name": "Koby #637",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/637.png",
 
@@ -19115,7 +19115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "638",
     "name": "Koby #638",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/638.png",
 
@@ -19145,7 +19145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "639",
     "name": "Koby #639",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/639.png",
 
@@ -19175,7 +19175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "640",
     "name": "Koby #640",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/640.png",
 
@@ -19205,7 +19205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "641",
     "name": "Koby #641",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/641.png",
 
@@ -19235,7 +19235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "642",
     "name": "Koby #642",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/642.png",
 
@@ -19265,7 +19265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "643",
     "name": "Koby #643",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/643.png",
 
@@ -19295,7 +19295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "644",
     "name": "Koby #644",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/644.png",
 
@@ -19325,7 +19325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "645",
     "name": "Koby #645",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/645.png",
 
@@ -19355,7 +19355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "646",
     "name": "Koby #646",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/646.png",
 
@@ -19385,7 +19385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "647",
     "name": "Koby #647",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/647.png",
 
@@ -19415,7 +19415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "648",
     "name": "Koby #648",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/648.png",
 
@@ -19445,7 +19445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "649",
     "name": "Koby #649",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/649.png",
 
@@ -19475,7 +19475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "650",
     "name": "Koby #650",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/650.png",
 
@@ -19505,7 +19505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "651",
     "name": "Koby #651",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/651.png",
 
@@ -19535,7 +19535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "652",
     "name": "Koby #652",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/652.png",
 
@@ -19565,7 +19565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "653",
     "name": "Koby #653",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/653.png",
 
@@ -19595,7 +19595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "654",
     "name": "Koby #654",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/654.png",
 
@@ -19625,7 +19625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "655",
     "name": "Koby #655",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/655.png",
 
@@ -19655,7 +19655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "656",
     "name": "Koby #656",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/656.png",
 
@@ -19685,7 +19685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "657",
     "name": "Koby #657",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/657.png",
 
@@ -19715,7 +19715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "658",
     "name": "Koby #658",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/658.png",
 
@@ -19745,7 +19745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "659",
     "name": "Koby #659",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/659.png",
 
@@ -19775,7 +19775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "660",
     "name": "Koby #660",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/660.png",
 
@@ -19805,7 +19805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "661",
     "name": "Koby #661",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/661.png",
 
@@ -19835,7 +19835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "662",
     "name": "Koby #662",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/662.png",
 
@@ -19865,7 +19865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "663",
     "name": "Koby #663",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/663.png",
 
@@ -19895,7 +19895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "664",
     "name": "Koby #664",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/664.png",
 
@@ -19925,7 +19925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "665",
     "name": "Koby #665",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/665.png",
 
@@ -19955,7 +19955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "666",
     "name": "Koby #666",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/666.png",
 
@@ -19985,7 +19985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "667",
     "name": "Koby #667",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/667.png",
 
@@ -20015,7 +20015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "668",
     "name": "Koby #668",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/668.png",
 
@@ -20045,7 +20045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "669",
     "name": "Koby #669",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/669.png",
 
@@ -20075,7 +20075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "670",
     "name": "Koby #670",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/670.png",
 
@@ -20105,7 +20105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "671",
     "name": "Koby #671",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/671.png",
 
@@ -20135,7 +20135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "672",
     "name": "Koby #672",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/672.png",
 
@@ -20165,7 +20165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "673",
     "name": "Koby #673",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/673.png",
 
@@ -20195,7 +20195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "674",
     "name": "Koby #674",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/674.png",
 
@@ -20225,7 +20225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "675",
     "name": "Koby #675",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/675.png",
 
@@ -20255,7 +20255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "676",
     "name": "Koby #676",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/676.png",
 
@@ -20285,7 +20285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "677",
     "name": "Koby #677",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/677.png",
 
@@ -20315,7 +20315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "678",
     "name": "Koby #678",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/678.png",
 
@@ -20345,7 +20345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "679",
     "name": "Koby #679",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/679.png",
 
@@ -20375,7 +20375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "680",
     "name": "Koby #680",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/680.png",
 
@@ -20405,7 +20405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "681",
     "name": "Koby #681",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/681.png",
 
@@ -20435,7 +20435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "682",
     "name": "Koby #682",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/682.png",
 
@@ -20465,7 +20465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "683",
     "name": "Koby #683",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/683.png",
 
@@ -20495,7 +20495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "684",
     "name": "Koby #684",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/684.png",
 
@@ -20525,7 +20525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "685",
     "name": "Koby #685",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/685.png",
 
@@ -20555,7 +20555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "686",
     "name": "Koby #686",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/686.png",
 
@@ -20585,7 +20585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "687",
     "name": "Koby #687",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/687.png",
 
@@ -20615,7 +20615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "688",
     "name": "Koby #688",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/688.png",
 
@@ -20645,7 +20645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "689",
     "name": "Koby #689",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/689.png",
 
@@ -20675,7 +20675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "690",
     "name": "Koby #690",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/690.png",
 
@@ -20705,7 +20705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "691",
     "name": "Koby #691",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/691.png",
 
@@ -20735,7 +20735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "692",
     "name": "Koby #692",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/692.png",
 
@@ -20765,7 +20765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "693",
     "name": "Koby #693",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/693.png",
 
@@ -20795,7 +20795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "694",
     "name": "Koby #694",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/694.png",
 
@@ -20825,7 +20825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "695",
     "name": "Koby #695",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/695.png",
 
@@ -20855,7 +20855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "696",
     "name": "Koby #696",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/696.png",
 
@@ -20885,7 +20885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "697",
     "name": "Koby #697",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/697.png",
 
@@ -20915,7 +20915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "698",
     "name": "Koby #698",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/698.png",
 
@@ -20945,7 +20945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "699",
     "name": "Koby #699",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/699.png",
 
@@ -20975,7 +20975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "700",
     "name": "Koby #700",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/700.png",
 
@@ -21005,7 +21005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "701",
     "name": "Koby #701",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/701.png",
 
@@ -21035,7 +21035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "702",
     "name": "Koby #702",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/702.png",
 
@@ -21065,7 +21065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "703",
     "name": "Koby #703",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/703.png",
 
@@ -21095,7 +21095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "704",
     "name": "Koby #704",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/704.png",
 
@@ -21125,7 +21125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "705",
     "name": "Koby #705",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/705.png",
 
@@ -21155,7 +21155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "706",
     "name": "Koby #706",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/706.png",
 
@@ -21185,7 +21185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "707",
     "name": "Koby #707",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/707.png",
 
@@ -21215,7 +21215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "708",
     "name": "Koby #708",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/708.png",
 
@@ -21245,7 +21245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "709",
     "name": "Koby #709",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/709.png",
 
@@ -21275,7 +21275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "710",
     "name": "Koby #710",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/710.png",
 
@@ -21305,7 +21305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "711",
     "name": "Koby #711",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/711.png",
 
@@ -21335,7 +21335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "712",
     "name": "Koby #712",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/712.png",
 
@@ -21365,7 +21365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "713",
     "name": "Koby #713",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/713.png",
 
@@ -21395,7 +21395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "714",
     "name": "Koby #714",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/714.png",
 
@@ -21425,7 +21425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "715",
     "name": "Koby #715",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/715.png",
 
@@ -21455,7 +21455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "716",
     "name": "Koby #716",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/716.png",
 
@@ -21485,7 +21485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "717",
     "name": "Koby #717",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/717.png",
 
@@ -21515,7 +21515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "718",
     "name": "Koby #718",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/718.png",
 
@@ -21545,7 +21545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "719",
     "name": "Koby #719",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/719.png",
 
@@ -21575,7 +21575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "720",
     "name": "Koby #720",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/720.png",
 
@@ -21605,7 +21605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "721",
     "name": "Koby #721",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/721.png",
 
@@ -21635,7 +21635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "722",
     "name": "Koby #722",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/722.png",
 
@@ -21665,7 +21665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "723",
     "name": "Koby #723",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/723.png",
 
@@ -21695,7 +21695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "724",
     "name": "Koby #724",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/724.png",
 
@@ -21725,7 +21725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "725",
     "name": "Koby #725",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/725.png",
 
@@ -21755,7 +21755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "726",
     "name": "Koby #726",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/726.png",
 
@@ -21785,7 +21785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "727",
     "name": "Koby #727",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/727.png",
 
@@ -21815,7 +21815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "728",
     "name": "Koby #728",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/728.png",
 
@@ -21845,7 +21845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "729",
     "name": "Koby #729",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/729.png",
 
@@ -21875,7 +21875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "730",
     "name": "Koby #730",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/730.png",
 
@@ -21905,7 +21905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "731",
     "name": "Koby #731",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/731.png",
 
@@ -21935,7 +21935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "732",
     "name": "Koby #732",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/732.png",
 
@@ -21965,7 +21965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "733",
     "name": "Koby #733",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/733.png",
 
@@ -21995,7 +21995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "734",
     "name": "Koby #734",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/734.png",
 
@@ -22025,7 +22025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "735",
     "name": "Koby #735",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/735.png",
 
@@ -22055,7 +22055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "736",
     "name": "Koby #736",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/736.png",
 
@@ -22085,7 +22085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "737",
     "name": "Koby #737",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/737.png",
 
@@ -22115,7 +22115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "738",
     "name": "Koby #738",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/738.png",
 
@@ -22145,7 +22145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "739",
     "name": "Koby #739",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/739.png",
 
@@ -22175,7 +22175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "740",
     "name": "Koby #740",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/740.png",
 
@@ -22205,7 +22205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "741",
     "name": "Koby #741",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/741.png",
 
@@ -22235,7 +22235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "742",
     "name": "Koby #742",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/742.png",
 
@@ -22265,7 +22265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "743",
     "name": "Koby #743",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/743.png",
 
@@ -22295,7 +22295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "744",
     "name": "Koby #744",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/744.png",
 
@@ -22325,7 +22325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "745",
     "name": "Koby #745",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/745.png",
 
@@ -22355,7 +22355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "746",
     "name": "Koby #746",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/746.png",
 
@@ -22385,7 +22385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "747",
     "name": "Koby #747",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/747.png",
 
@@ -22415,7 +22415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "748",
     "name": "Koby #748",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/748.png",
 
@@ -22445,7 +22445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "749",
     "name": "Koby #749",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/749.png",
 
@@ -22475,7 +22475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "750",
     "name": "Koby #750",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/750.png",
 
@@ -22505,7 +22505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "751",
     "name": "Koby #751",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/751.png",
 
@@ -22535,7 +22535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "752",
     "name": "Koby #752",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/752.png",
 
@@ -22565,7 +22565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "753",
     "name": "Koby #753",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/753.png",
 
@@ -22595,7 +22595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "754",
     "name": "Koby #754",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/754.png",
 
@@ -22625,7 +22625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "755",
     "name": "Koby #755",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/755.png",
 
@@ -22655,7 +22655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "756",
     "name": "Koby #756",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/756.png",
 
@@ -22685,7 +22685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "757",
     "name": "Koby #757",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/757.png",
 
@@ -22715,7 +22715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "758",
     "name": "Koby #758",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/758.png",
 
@@ -22745,7 +22745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "759",
     "name": "Koby #759",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/759.png",
 
@@ -22775,7 +22775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "760",
     "name": "Koby #760",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/760.png",
 
@@ -22805,7 +22805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "761",
     "name": "Koby #761",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/761.png",
 
@@ -22835,7 +22835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "762",
     "name": "Koby #762",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/762.png",
 
@@ -22865,7 +22865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "763",
     "name": "Koby #763",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/763.png",
 
@@ -22895,7 +22895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "764",
     "name": "Koby #764",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/764.png",
 
@@ -22925,7 +22925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "765",
     "name": "Koby #765",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/765.png",
 
@@ -22955,7 +22955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "766",
     "name": "Koby #766",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/766.png",
 
@@ -22985,7 +22985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "767",
     "name": "Koby #767",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/767.png",
 
@@ -23015,7 +23015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "768",
     "name": "Koby #768",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/768.png",
 
@@ -23045,7 +23045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "769",
     "name": "Koby #769",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/769.png",
 
@@ -23075,7 +23075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "770",
     "name": "Koby #770",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/770.png",
 
@@ -23105,7 +23105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "771",
     "name": "Koby #771",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/771.png",
 
@@ -23135,7 +23135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "772",
     "name": "Koby #772",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/772.png",
 
@@ -23165,7 +23165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "773",
     "name": "Koby #773",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/773.png",
 
@@ -23195,7 +23195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "774",
     "name": "Koby #774",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/774.png",
 
@@ -23225,7 +23225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "775",
     "name": "Koby #775",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/775.png",
 
@@ -23255,7 +23255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "776",
     "name": "Koby #776",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/776.png",
 
@@ -23285,7 +23285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "777",
     "name": "Koby #777",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/777.png",
 
@@ -23315,7 +23315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "778",
     "name": "Koby #778",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/778.png",
 
@@ -23345,7 +23345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "779",
     "name": "Koby #779",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/779.png",
 
@@ -23375,7 +23375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "780",
     "name": "Koby #780",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/780.png",
 
@@ -23405,7 +23405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "781",
     "name": "Koby #781",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/781.png",
 
@@ -23435,7 +23435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "782",
     "name": "Koby #782",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/782.png",
 
@@ -23465,7 +23465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "783",
     "name": "Koby #783",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/783.png",
 
@@ -23495,7 +23495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "784",
     "name": "Koby #784",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/784.png",
 
@@ -23525,7 +23525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "785",
     "name": "Koby #785",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/785.png",
 
@@ -23555,7 +23555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "786",
     "name": "Koby #786",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/786.png",
 
@@ -23585,7 +23585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "787",
     "name": "Koby #787",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/787.png",
 
@@ -23615,7 +23615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "788",
     "name": "Koby #788",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/788.png",
 
@@ -23645,7 +23645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "789",
     "name": "Koby #789",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/789.png",
 
@@ -23675,7 +23675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "790",
     "name": "Koby #790",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/790.png",
 
@@ -23705,7 +23705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "791",
     "name": "Koby #791",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/791.png",
 
@@ -23735,7 +23735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "792",
     "name": "Koby #792",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/792.png",
 
@@ -23765,7 +23765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "793",
     "name": "Koby #793",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/793.png",
 
@@ -23795,7 +23795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "794",
     "name": "Koby #794",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/794.png",
 
@@ -23825,7 +23825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "795",
     "name": "Koby #795",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/795.png",
 
@@ -23855,7 +23855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "796",
     "name": "Koby #796",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/796.png",
 
@@ -23885,7 +23885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "797",
     "name": "Koby #797",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/797.png",
 
@@ -23915,7 +23915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "798",
     "name": "Koby #798",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/798.png",
 
@@ -23945,7 +23945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "799",
     "name": "Koby #799",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/799.png",
 
@@ -23975,7 +23975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "800",
     "name": "Koby #800",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/800.png",
 
@@ -24005,7 +24005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "801",
     "name": "Koby #801",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/801.png",
 
@@ -24035,7 +24035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "802",
     "name": "Koby #802",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/802.png",
 
@@ -24065,7 +24065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "803",
     "name": "Koby #803",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/803.png",
 
@@ -24095,7 +24095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "804",
     "name": "Koby #804",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/804.png",
 
@@ -24125,7 +24125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "805",
     "name": "Koby #805",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/805.png",
 
@@ -24155,7 +24155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "806",
     "name": "Koby #806",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/806.png",
 
@@ -24185,7 +24185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "807",
     "name": "Koby #807",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/807.png",
 
@@ -24215,7 +24215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "808",
     "name": "Koby #808",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/808.png",
 
@@ -24245,7 +24245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "809",
     "name": "Koby #809",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/809.png",
 
@@ -24275,7 +24275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "810",
     "name": "Koby #810",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/810.png",
 
@@ -24305,7 +24305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "811",
     "name": "Koby #811",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/811.png",
 
@@ -24335,7 +24335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "812",
     "name": "Koby #812",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/812.png",
 
@@ -24365,7 +24365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "813",
     "name": "Koby #813",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/813.png",
 
@@ -24395,7 +24395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "814",
     "name": "Koby #814",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/814.png",
 
@@ -24425,7 +24425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "815",
     "name": "Koby #815",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/815.png",
 
@@ -24455,7 +24455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "816",
     "name": "Koby #816",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/816.png",
 
@@ -24485,7 +24485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "817",
     "name": "Koby #817",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/817.png",
 
@@ -24515,7 +24515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "818",
     "name": "Koby #818",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/818.png",
 
@@ -24545,7 +24545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "819",
     "name": "Koby #819",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/819.png",
 
@@ -24575,7 +24575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "820",
     "name": "Koby #820",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/820.png",
 
@@ -24605,7 +24605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "821",
     "name": "Koby #821",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/821.png",
 
@@ -24635,7 +24635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "822",
     "name": "Koby #822",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/822.png",
 
@@ -24665,7 +24665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "823",
     "name": "Koby #823",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/823.png",
 
@@ -24695,7 +24695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "824",
     "name": "Koby #824",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/824.png",
 
@@ -24725,7 +24725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "825",
     "name": "Koby #825",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/825.png",
 
@@ -24755,7 +24755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "826",
     "name": "Koby #826",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/826.png",
 
@@ -24785,7 +24785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "827",
     "name": "Koby #827",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/827.png",
 
@@ -24815,7 +24815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "828",
     "name": "Koby #828",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/828.png",
 
@@ -24845,7 +24845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "829",
     "name": "Koby #829",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/829.png",
 
@@ -24875,7 +24875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "830",
     "name": "Koby #830",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/830.png",
 
@@ -24905,7 +24905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "831",
     "name": "Koby #831",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/831.png",
 
@@ -24935,7 +24935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "832",
     "name": "Koby #832",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/832.png",
 
@@ -24965,7 +24965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "833",
     "name": "Koby #833",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/833.png",
 
@@ -24995,7 +24995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "834",
     "name": "Koby #834",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/834.png",
 
@@ -25025,7 +25025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "835",
     "name": "Koby #835",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/835.png",
 
@@ -25055,7 +25055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "836",
     "name": "Koby #836",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/836.png",
 
@@ -25085,7 +25085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "837",
     "name": "Koby #837",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/837.png",
 
@@ -25115,7 +25115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "838",
     "name": "Koby #838",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/838.png",
 
@@ -25145,7 +25145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "839",
     "name": "Koby #839",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/839.png",
 
@@ -25175,7 +25175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "840",
     "name": "Koby #840",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/840.png",
 
@@ -25205,7 +25205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "841",
     "name": "Koby #841",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/841.png",
 
@@ -25235,7 +25235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "842",
     "name": "Koby #842",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/842.png",
 
@@ -25265,7 +25265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "843",
     "name": "Koby #843",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/843.png",
 
@@ -25295,7 +25295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "844",
     "name": "Koby #844",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/844.png",
 
@@ -25325,7 +25325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "845",
     "name": "Koby #845",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/845.png",
 
@@ -25355,7 +25355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "846",
     "name": "Koby #846",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/846.png",
 
@@ -25385,7 +25385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "847",
     "name": "Koby #847",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/847.png",
 
@@ -25415,7 +25415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "848",
     "name": "Koby #848",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/848.png",
 
@@ -25445,7 +25445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "849",
     "name": "Koby #849",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/849.png",
 
@@ -25475,7 +25475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "850",
     "name": "Koby #850",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/850.png",
 
@@ -25505,7 +25505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "851",
     "name": "Koby #851",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/851.png",
 
@@ -25535,7 +25535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "852",
     "name": "Koby #852",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/852.png",
 
@@ -25565,7 +25565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "853",
     "name": "Koby #853",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/853.png",
 
@@ -25595,7 +25595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "854",
     "name": "Koby #854",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/854.png",
 
@@ -25625,7 +25625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "855",
     "name": "Koby #855",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/855.png",
 
@@ -25655,7 +25655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "856",
     "name": "Koby #856",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/856.png",
 
@@ -25685,7 +25685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "857",
     "name": "Koby #857",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/857.png",
 
@@ -25715,7 +25715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "858",
     "name": "Koby #858",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/858.png",
 
@@ -25745,7 +25745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "859",
     "name": "Koby #859",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/859.png",
 
@@ -25775,7 +25775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "860",
     "name": "Koby #860",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/860.png",
 
@@ -25805,7 +25805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "861",
     "name": "Koby #861",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/861.png",
 
@@ -25835,7 +25835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "862",
     "name": "Koby #862",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/862.png",
 
@@ -25865,7 +25865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "863",
     "name": "Koby #863",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/863.png",
 
@@ -25895,7 +25895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "864",
     "name": "Koby #864",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/864.png",
 
@@ -25925,7 +25925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "865",
     "name": "Koby #865",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/865.png",
 
@@ -25955,7 +25955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "866",
     "name": "Koby #866",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/866.png",
 
@@ -25985,7 +25985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "867",
     "name": "Koby #867",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/867.png",
 
@@ -26015,7 +26015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "868",
     "name": "Koby #868",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/868.png",
 
@@ -26045,7 +26045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "869",
     "name": "Koby #869",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/869.png",
 
@@ -26075,7 +26075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "870",
     "name": "Koby #870",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/870.png",
 
@@ -26105,7 +26105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "871",
     "name": "Koby #871",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/871.png",
 
@@ -26135,7 +26135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "872",
     "name": "Koby #872",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/872.png",
 
@@ -26165,7 +26165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "873",
     "name": "Koby #873",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/873.png",
 
@@ -26195,7 +26195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "874",
     "name": "Koby #874",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/874.png",
 
@@ -26225,7 +26225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "875",
     "name": "Koby #875",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/875.png",
 
@@ -26255,7 +26255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "876",
     "name": "Koby #876",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/876.png",
 
@@ -26285,7 +26285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "877",
     "name": "Koby #877",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/877.png",
 
@@ -26315,7 +26315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "878",
     "name": "Koby #878",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/878.png",
 
@@ -26345,7 +26345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "879",
     "name": "Koby #879",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/879.png",
 
@@ -26375,7 +26375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "880",
     "name": "Koby #880",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/880.png",
 
@@ -26405,7 +26405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "881",
     "name": "Koby #881",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/881.png",
 
@@ -26435,7 +26435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "882",
     "name": "Koby #882",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/882.png",
 
@@ -26465,7 +26465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "883",
     "name": "Koby #883",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/883.png",
 
@@ -26495,7 +26495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "884",
     "name": "Koby #884",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/884.png",
 
@@ -26525,7 +26525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "885",
     "name": "Koby #885",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/885.png",
 
@@ -26555,7 +26555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "886",
     "name": "Koby #886",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/886.png",
 
@@ -26585,7 +26585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "887",
     "name": "Koby #887",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/887.png",
 
@@ -26615,7 +26615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "888",
     "name": "Koby #888",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/888.png",
 
@@ -26645,7 +26645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "889",
     "name": "Koby #889",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/889.png",
 
@@ -26675,7 +26675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "890",
     "name": "Koby #890",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/890.png",
 
@@ -26705,7 +26705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "891",
     "name": "Koby #891",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/891.png",
 
@@ -26735,7 +26735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "892",
     "name": "Koby #892",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/892.png",
 
@@ -26765,7 +26765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "893",
     "name": "Koby #893",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/893.png",
 
@@ -26795,7 +26795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "894",
     "name": "Koby #894",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/894.png",
 
@@ -26825,7 +26825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "895",
     "name": "Koby #895",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/895.png",
 
@@ -26855,7 +26855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "896",
     "name": "Koby #896",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/896.png",
 
@@ -26885,7 +26885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "897",
     "name": "Koby #897",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/897.png",
 
@@ -26915,7 +26915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "898",
     "name": "Koby #898",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/898.png",
 
@@ -26945,7 +26945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "899",
     "name": "Koby #899",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/899.png",
 
@@ -26975,7 +26975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "900",
     "name": "Koby #900",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/900.png",
 
@@ -27005,7 +27005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "901",
     "name": "Koby #901",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/901.png",
 
@@ -27035,7 +27035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "902",
     "name": "Koby #902",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/902.png",
 
@@ -27065,7 +27065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "903",
     "name": "Koby #903",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/903.png",
 
@@ -27095,7 +27095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "904",
     "name": "Koby #904",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/904.png",
 
@@ -27125,7 +27125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "905",
     "name": "Koby #905",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/905.png",
 
@@ -27155,7 +27155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "906",
     "name": "Koby #906",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/906.png",
 
@@ -27185,7 +27185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "907",
     "name": "Koby #907",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/907.png",
 
@@ -27215,7 +27215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "908",
     "name": "Koby #908",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/908.png",
 
@@ -27245,7 +27245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "909",
     "name": "Koby #909",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/909.png",
 
@@ -27275,7 +27275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "910",
     "name": "Koby #910",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/910.png",
 
@@ -27305,7 +27305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "911",
     "name": "Koby #911",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/911.png",
 
@@ -27335,7 +27335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "912",
     "name": "Koby #912",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/912.png",
 
@@ -27365,7 +27365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "913",
     "name": "Koby #913",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/913.png",
 
@@ -27395,7 +27395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "914",
     "name": "Koby #914",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/914.png",
 
@@ -27425,7 +27425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "915",
     "name": "Koby #915",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/915.png",
 
@@ -27455,7 +27455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "916",
     "name": "Koby #916",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/916.png",
 
@@ -27485,7 +27485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "917",
     "name": "Koby #917",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/917.png",
 
@@ -27515,7 +27515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "918",
     "name": "Koby #918",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/918.png",
 
@@ -27545,7 +27545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "919",
     "name": "Koby #919",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/919.png",
 
@@ -27575,7 +27575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "920",
     "name": "Koby #920",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/920.png",
 
@@ -27605,7 +27605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "921",
     "name": "Koby #921",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/921.png",
 
@@ -27635,7 +27635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "922",
     "name": "Koby #922",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/922.png",
 
@@ -27665,7 +27665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "923",
     "name": "Koby #923",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/923.png",
 
@@ -27695,7 +27695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "924",
     "name": "Koby #924",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/924.png",
 
@@ -27725,7 +27725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "925",
     "name": "Koby #925",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/925.png",
 
@@ -27755,7 +27755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "926",
     "name": "Koby #926",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/926.png",
 
@@ -27785,7 +27785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "927",
     "name": "Koby #927",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/927.png",
 
@@ -27815,7 +27815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "928",
     "name": "Koby #928",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/928.png",
 
@@ -27845,7 +27845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "929",
     "name": "Koby #929",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/929.png",
 
@@ -27875,7 +27875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "930",
     "name": "Koby #930",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/930.png",
 
@@ -27905,7 +27905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "931",
     "name": "Koby #931",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/931.png",
 
@@ -27935,7 +27935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "932",
     "name": "Koby #932",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/932.png",
 
@@ -27965,7 +27965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "933",
     "name": "Koby #933",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/933.png",
 
@@ -27995,7 +27995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "934",
     "name": "Koby #934",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/934.png",
 
@@ -28025,7 +28025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "935",
     "name": "Koby #935",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/935.png",
 
@@ -28055,7 +28055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "936",
     "name": "Koby #936",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/936.png",
 
@@ -28085,7 +28085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "937",
     "name": "Koby #937",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/937.png",
 
@@ -28115,7 +28115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "938",
     "name": "Koby #938",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/938.png",
 
@@ -28145,7 +28145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "939",
     "name": "Koby #939",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/939.png",
 
@@ -28175,7 +28175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "940",
     "name": "Koby #940",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/940.png",
 
@@ -28205,7 +28205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "941",
     "name": "Koby #941",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/941.png",
 
@@ -28235,7 +28235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "942",
     "name": "Koby #942",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/942.png",
 
@@ -28265,7 +28265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "943",
     "name": "Koby #943",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/943.png",
 
@@ -28295,7 +28295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "944",
     "name": "Koby #944",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/944.png",
 
@@ -28325,7 +28325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "945",
     "name": "Koby #945",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/945.png",
 
@@ -28355,7 +28355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "946",
     "name": "Koby #946",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/946.png",
 
@@ -28385,7 +28385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "947",
     "name": "Koby #947",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/947.png",
 
@@ -28415,7 +28415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "948",
     "name": "Koby #948",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/948.png",
 
@@ -28445,7 +28445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "949",
     "name": "Koby #949",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/949.png",
 
@@ -28475,7 +28475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "950",
     "name": "Koby #950",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/950.png",
 
@@ -28505,7 +28505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "951",
     "name": "Koby #951",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/951.png",
 
@@ -28535,7 +28535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "952",
     "name": "Koby #952",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/952.png",
 
@@ -28565,7 +28565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "953",
     "name": "Koby #953",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/953.png",
 
@@ -28595,7 +28595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "954",
     "name": "Koby #954",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/954.png",
 
@@ -28625,7 +28625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "955",
     "name": "Koby #955",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/955.png",
 
@@ -28655,7 +28655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "956",
     "name": "Koby #956",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/956.png",
 
@@ -28685,7 +28685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "957",
     "name": "Koby #957",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/957.png",
 
@@ -28715,7 +28715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "958",
     "name": "Koby #958",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/958.png",
 
@@ -28745,7 +28745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "959",
     "name": "Koby #959",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/959.png",
 
@@ -28775,7 +28775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "960",
     "name": "Koby #960",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/960.png",
 
@@ -28805,7 +28805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "961",
     "name": "Koby #961",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/961.png",
 
@@ -28835,7 +28835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "962",
     "name": "Koby #962",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/962.png",
 
@@ -28865,7 +28865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "963",
     "name": "Koby #963",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/963.png",
 
@@ -28895,7 +28895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "964",
     "name": "Koby #964",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/964.png",
 
@@ -28925,7 +28925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "965",
     "name": "Koby #965",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/965.png",
 
@@ -28955,7 +28955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "966",
     "name": "Koby #966",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/966.png",
 
@@ -28985,7 +28985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "967",
     "name": "Koby #967",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/967.png",
 
@@ -29015,7 +29015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "968",
     "name": "Koby #968",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/968.png",
 
@@ -29045,7 +29045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "969",
     "name": "Koby #969",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/969.png",
 
@@ -29075,7 +29075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "970",
     "name": "Koby #970",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/970.png",
 
@@ -29105,7 +29105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "971",
     "name": "Koby #971",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/971.png",
 
@@ -29135,7 +29135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "972",
     "name": "Koby #972",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/972.png",
 
@@ -29165,7 +29165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "973",
     "name": "Koby #973",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/973.png",
 
@@ -29195,7 +29195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "974",
     "name": "Koby #974",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/974.png",
 
@@ -29225,7 +29225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "975",
     "name": "Koby #975",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/975.png",
 
@@ -29255,7 +29255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "976",
     "name": "Koby #976",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/976.png",
 
@@ -29285,7 +29285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "977",
     "name": "Koby #977",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/977.png",
 
@@ -29315,7 +29315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "978",
     "name": "Koby #978",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/978.png",
 
@@ -29345,7 +29345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "979",
     "name": "Koby #979",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/979.png",
 
@@ -29375,7 +29375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "980",
     "name": "Koby #980",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/980.png",
 
@@ -29405,7 +29405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "981",
     "name": "Koby #981",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/981.png",
 
@@ -29435,7 +29435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "982",
     "name": "Koby #982",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/982.png",
 
@@ -29465,7 +29465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "983",
     "name": "Koby #983",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/983.png",
 
@@ -29495,7 +29495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "984",
     "name": "Koby #984",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/984.png",
 
@@ -29525,7 +29525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "985",
     "name": "Koby #985",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/985.png",
 
@@ -29555,7 +29555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "986",
     "name": "Koby #986",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/986.png",
 
@@ -29585,7 +29585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "987",
     "name": "Koby #987",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/987.png",
 
@@ -29615,7 +29615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "988",
     "name": "Koby #988",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/988.png",
 
@@ -29645,7 +29645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "989",
     "name": "Koby #989",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/989.png",
 
@@ -29675,7 +29675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "990",
     "name": "Koby #990",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/990.png",
 
@@ -29705,7 +29705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "991",
     "name": "Koby #991",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/991.png",
 
@@ -29735,7 +29735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "992",
     "name": "Koby #992",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/992.png",
 
@@ -29765,7 +29765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "993",
     "name": "Koby #993",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/993.png",
 
@@ -29795,7 +29795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "994",
     "name": "Koby #994",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/994.png",
 
@@ -29825,7 +29825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "995",
     "name": "Koby #995",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/995.png",
 
@@ -29855,7 +29855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "996",
     "name": "Koby #996",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/996.png",
 
@@ -29885,7 +29885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "997",
     "name": "Koby #997",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/997.png",
 
@@ -29915,7 +29915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "998",
     "name": "Koby #998",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/998.png",
 
@@ -29945,7 +29945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "999",
     "name": "Koby #999",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/999.png",
 
@@ -29975,7 +29975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1000",
     "name": "Koby #1000",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1000.png",
 
@@ -30005,7 +30005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1001",
     "name": "Koby #1001",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1001.png",
 
@@ -30035,7 +30035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1002",
     "name": "Koby #1002",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1002.png",
 
@@ -30065,7 +30065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1003",
     "name": "Koby #1003",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1003.png",
 
@@ -30095,7 +30095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1004",
     "name": "Koby #1004",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1004.png",
 
@@ -30125,7 +30125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1005",
     "name": "Koby #1005",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1005.png",
 
@@ -30155,7 +30155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1006",
     "name": "Koby #1006",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1006.png",
 
@@ -30185,7 +30185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1007",
     "name": "Koby #1007",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1007.png",
 
@@ -30215,7 +30215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1008",
     "name": "Koby #1008",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1008.png",
 
@@ -30245,7 +30245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1009",
     "name": "Koby #1009",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1009.png",
 
@@ -30275,7 +30275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1010",
     "name": "Koby #1010",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1010.png",
 
@@ -30305,7 +30305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1011",
     "name": "Koby #1011",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1011.png",
 
@@ -30335,7 +30335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1012",
     "name": "Koby #1012",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1012.png",
 
@@ -30365,7 +30365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1013",
     "name": "Koby #1013",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1013.png",
 
@@ -30395,7 +30395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1014",
     "name": "Koby #1014",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1014.png",
 
@@ -30425,7 +30425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1015",
     "name": "Koby #1015",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1015.png",
 
@@ -30455,7 +30455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1016",
     "name": "Koby #1016",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1016.png",
 
@@ -30485,7 +30485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1017",
     "name": "Koby #1017",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1017.png",
 
@@ -30515,7 +30515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1018",
     "name": "Koby #1018",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1018.png",
 
@@ -30545,7 +30545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1019",
     "name": "Koby #1019",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1019.png",
 
@@ -30575,7 +30575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1020",
     "name": "Koby #1020",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1020.png",
 
@@ -30605,7 +30605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1021",
     "name": "Koby #1021",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1021.png",
 
@@ -30635,7 +30635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1022",
     "name": "Koby #1022",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1022.png",
 
@@ -30665,7 +30665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1023",
     "name": "Koby #1023",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1023.png",
 
@@ -30695,7 +30695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1024",
     "name": "Koby #1024",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1024.png",
 
@@ -30725,7 +30725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1025",
     "name": "Koby #1025",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1025.png",
 
@@ -30755,7 +30755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1026",
     "name": "Koby #1026",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1026.png",
 
@@ -30785,7 +30785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1027",
     "name": "Koby #1027",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1027.png",
 
@@ -30815,7 +30815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1028",
     "name": "Koby #1028",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1028.png",
 
@@ -30845,7 +30845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1029",
     "name": "Koby #1029",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1029.png",
 
@@ -30875,7 +30875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1030",
     "name": "Koby #1030",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1030.png",
 
@@ -30905,7 +30905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1031",
     "name": "Koby #1031",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1031.png",
 
@@ -30935,7 +30935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1032",
     "name": "Koby #1032",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1032.png",
 
@@ -30965,7 +30965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1033",
     "name": "Koby #1033",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1033.png",
 
@@ -30995,7 +30995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1034",
     "name": "Koby #1034",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1034.png",
 
@@ -31025,7 +31025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1035",
     "name": "Koby #1035",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1035.png",
 
@@ -31055,7 +31055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1036",
     "name": "Koby #1036",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1036.png",
 
@@ -31085,7 +31085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1037",
     "name": "Koby #1037",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1037.png",
 
@@ -31115,7 +31115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1038",
     "name": "Koby #1038",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1038.png",
 
@@ -31145,7 +31145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1039",
     "name": "Koby #1039",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1039.png",
 
@@ -31175,7 +31175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1040",
     "name": "Koby #1040",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1040.png",
 
@@ -31205,7 +31205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1041",
     "name": "Koby #1041",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1041.png",
 
@@ -31235,7 +31235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1042",
     "name": "Koby #1042",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1042.png",
 
@@ -31265,7 +31265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1043",
     "name": "Koby #1043",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1043.png",
 
@@ -31295,7 +31295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1044",
     "name": "Koby #1044",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1044.png",
 
@@ -31325,7 +31325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1045",
     "name": "Koby #1045",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1045.png",
 
@@ -31355,7 +31355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1046",
     "name": "Koby #1046",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1046.png",
 
@@ -31385,7 +31385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1047",
     "name": "Koby #1047",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1047.png",
 
@@ -31415,7 +31415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1048",
     "name": "Koby #1048",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1048.png",
 
@@ -31445,7 +31445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1049",
     "name": "Koby #1049",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1049.png",
 
@@ -31475,7 +31475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1050",
     "name": "Koby #1050",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1050.png",
 
@@ -31505,7 +31505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1051",
     "name": "Koby #1051",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1051.png",
 
@@ -31535,7 +31535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1052",
     "name": "Koby #1052",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1052.png",
 
@@ -31565,7 +31565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1053",
     "name": "Koby #1053",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1053.png",
 
@@ -31595,7 +31595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1054",
     "name": "Koby #1054",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1054.png",
 
@@ -31625,7 +31625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1055",
     "name": "Koby #1055",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1055.png",
 
@@ -31655,7 +31655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1056",
     "name": "Koby #1056",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1056.png",
 
@@ -31685,7 +31685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1057",
     "name": "Koby #1057",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1057.png",
 
@@ -31715,7 +31715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1058",
     "name": "Koby #1058",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1058.png",
 
@@ -31745,7 +31745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1059",
     "name": "Koby #1059",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1059.png",
 
@@ -31775,7 +31775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1060",
     "name": "Koby #1060",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1060.png",
 
@@ -31805,7 +31805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1061",
     "name": "Koby #1061",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1061.png",
 
@@ -31835,7 +31835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1062",
     "name": "Koby #1062",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1062.png",
 
@@ -31865,7 +31865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1063",
     "name": "Koby #1063",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1063.png",
 
@@ -31895,7 +31895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1064",
     "name": "Koby #1064",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1064.png",
 
@@ -31925,7 +31925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1065",
     "name": "Koby #1065",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1065.png",
 
@@ -31955,7 +31955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1066",
     "name": "Koby #1066",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1066.png",
 
@@ -31985,7 +31985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1067",
     "name": "Koby #1067",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1067.png",
 
@@ -32015,7 +32015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1068",
     "name": "Koby #1068",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1068.png",
 
@@ -32045,7 +32045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1069",
     "name": "Koby #1069",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1069.png",
 
@@ -32075,7 +32075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1070",
     "name": "Koby #1070",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1070.png",
 
@@ -32105,7 +32105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1071",
     "name": "Koby #1071",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1071.png",
 
@@ -32135,7 +32135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1072",
     "name": "Koby #1072",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1072.png",
 
@@ -32165,7 +32165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1073",
     "name": "Koby #1073",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1073.png",
 
@@ -32195,7 +32195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1074",
     "name": "Koby #1074",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1074.png",
 
@@ -32225,7 +32225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1075",
     "name": "Koby #1075",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1075.png",
 
@@ -32255,7 +32255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1076",
     "name": "Koby #1076",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1076.png",
 
@@ -32285,7 +32285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1077",
     "name": "Koby #1077",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1077.png",
 
@@ -32315,7 +32315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1078",
     "name": "Koby #1078",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1078.png",
 
@@ -32345,7 +32345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1079",
     "name": "Koby #1079",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1079.png",
 
@@ -32375,7 +32375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1080",
     "name": "Koby #1080",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1080.png",
 
@@ -32405,7 +32405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1081",
     "name": "Koby #1081",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1081.png",
 
@@ -32435,7 +32435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1082",
     "name": "Koby #1082",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1082.png",
 
@@ -32465,7 +32465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1083",
     "name": "Koby #1083",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1083.png",
 
@@ -32495,7 +32495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1084",
     "name": "Koby #1084",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1084.png",
 
@@ -32525,7 +32525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1085",
     "name": "Koby #1085",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1085.png",
 
@@ -32555,7 +32555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1086",
     "name": "Koby #1086",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1086.png",
 
@@ -32585,7 +32585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1087",
     "name": "Koby #1087",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1087.png",
 
@@ -32615,7 +32615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1088",
     "name": "Koby #1088",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1088.png",
 
@@ -32645,7 +32645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1089",
     "name": "Koby #1089",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1089.png",
 
@@ -32675,7 +32675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1090",
     "name": "Koby #1090",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1090.png",
 
@@ -32705,7 +32705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1091",
     "name": "Koby #1091",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1091.png",
 
@@ -32735,7 +32735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1092",
     "name": "Koby #1092",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1092.png",
 
@@ -32765,7 +32765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1093",
     "name": "Koby #1093",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1093.png",
 
@@ -32795,7 +32795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1094",
     "name": "Koby #1094",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1094.png",
 
@@ -32825,7 +32825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1095",
     "name": "Koby #1095",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1095.png",
 
@@ -32855,7 +32855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1096",
     "name": "Koby #1096",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1096.png",
 
@@ -32885,7 +32885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1097",
     "name": "Koby #1097",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1097.png",
 
@@ -32915,7 +32915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1098",
     "name": "Koby #1098",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1098.png",
 
@@ -32945,7 +32945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1099",
     "name": "Koby #1099",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1099.png",
 
@@ -32975,7 +32975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1100",
     "name": "Koby #1100",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1100.png",
 
@@ -33005,7 +33005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1101",
     "name": "Koby #1101",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1101.png",
 
@@ -33035,7 +33035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1102",
     "name": "Koby #1102",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1102.png",
 
@@ -33065,7 +33065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1103",
     "name": "Koby #1103",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1103.png",
 
@@ -33095,7 +33095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1104",
     "name": "Koby #1104",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1104.png",
 
@@ -33125,7 +33125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1105",
     "name": "Koby #1105",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1105.png",
 
@@ -33155,7 +33155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1106",
     "name": "Koby #1106",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1106.png",
 
@@ -33185,7 +33185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1107",
     "name": "Koby #1107",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1107.png",
 
@@ -33215,7 +33215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1108",
     "name": "Koby #1108",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1108.png",
 
@@ -33245,7 +33245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1109",
     "name": "Koby #1109",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1109.png",
 
@@ -33275,7 +33275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1110",
     "name": "Koby #1110",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1110.png",
 
@@ -33305,7 +33305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1111",
     "name": "Koby #1111",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1111.png",
 
@@ -33335,7 +33335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1112",
     "name": "Koby #1112",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1112.png",
 
@@ -33365,7 +33365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1113",
     "name": "Koby #1113",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1113.png",
 
@@ -33395,7 +33395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1114",
     "name": "Koby #1114",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1114.png",
 
@@ -33425,7 +33425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1115",
     "name": "Koby #1115",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1115.png",
 
@@ -33455,7 +33455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1116",
     "name": "Koby #1116",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1116.png",
 
@@ -33485,7 +33485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1117",
     "name": "Koby #1117",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1117.png",
 
@@ -33515,7 +33515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1118",
     "name": "Koby #1118",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1118.png",
 
@@ -33545,7 +33545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1119",
     "name": "Koby #1119",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1119.png",
 
@@ -33575,7 +33575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1120",
     "name": "Koby #1120",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1120.png",
 
@@ -33605,7 +33605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1121",
     "name": "Koby #1121",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1121.png",
 
@@ -33635,7 +33635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1122",
     "name": "Koby #1122",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1122.png",
 
@@ -33665,7 +33665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1123",
     "name": "Koby #1123",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1123.png",
 
@@ -33695,7 +33695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1124",
     "name": "Koby #1124",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1124.png",
 
@@ -33725,7 +33725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1125",
     "name": "Koby #1125",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1125.png",
 
@@ -33755,7 +33755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1126",
     "name": "Koby #1126",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1126.png",
 
@@ -33785,7 +33785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1127",
     "name": "Koby #1127",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1127.png",
 
@@ -33815,7 +33815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1128",
     "name": "Koby #1128",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1128.png",
 
@@ -33845,7 +33845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1129",
     "name": "Koby #1129",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1129.png",
 
@@ -33875,7 +33875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1130",
     "name": "Koby #1130",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1130.png",
 
@@ -33905,7 +33905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1131",
     "name": "Koby #1131",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1131.png",
 
@@ -33935,7 +33935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1132",
     "name": "Koby #1132",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1132.png",
 
@@ -33965,7 +33965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1133",
     "name": "Koby #1133",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1133.png",
 
@@ -33995,7 +33995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1134",
     "name": "Koby #1134",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1134.png",
 
@@ -34025,7 +34025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1135",
     "name": "Koby #1135",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1135.png",
 
@@ -34055,7 +34055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1136",
     "name": "Koby #1136",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1136.png",
 
@@ -34085,7 +34085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1137",
     "name": "Koby #1137",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1137.png",
 
@@ -34115,7 +34115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1138",
     "name": "Koby #1138",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1138.png",
 
@@ -34145,7 +34145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1139",
     "name": "Koby #1139",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1139.png",
 
@@ -34175,7 +34175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1140",
     "name": "Koby #1140",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1140.png",
 
@@ -34205,7 +34205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1141",
     "name": "Koby #1141",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1141.png",
 
@@ -34235,7 +34235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1142",
     "name": "Koby #1142",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1142.png",
 
@@ -34265,7 +34265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1143",
     "name": "Koby #1143",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1143.png",
 
@@ -34295,7 +34295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1144",
     "name": "Koby #1144",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1144.png",
 
@@ -34325,7 +34325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1145",
     "name": "Koby #1145",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1145.png",
 
@@ -34355,7 +34355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1146",
     "name": "Koby #1146",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1146.png",
 
@@ -34385,7 +34385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1147",
     "name": "Koby #1147",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1147.png",
 
@@ -34415,7 +34415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1148",
     "name": "Koby #1148",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1148.png",
 
@@ -34445,7 +34445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1149",
     "name": "Koby #1149",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1149.png",
 
@@ -34475,7 +34475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1150",
     "name": "Koby #1150",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1150.png",
 
@@ -34505,7 +34505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1151",
     "name": "Koby #1151",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1151.png",
 
@@ -34535,7 +34535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1152",
     "name": "Koby #1152",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1152.png",
 
@@ -34565,7 +34565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1153",
     "name": "Koby #1153",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1153.png",
 
@@ -34595,7 +34595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1154",
     "name": "Koby #1154",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1154.png",
 
@@ -34625,7 +34625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1155",
     "name": "Koby #1155",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1155.png",
 
@@ -34655,7 +34655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1156",
     "name": "Koby #1156",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1156.png",
 
@@ -34685,7 +34685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1157",
     "name": "Koby #1157",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1157.png",
 
@@ -34715,7 +34715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1158",
     "name": "Koby #1158",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1158.png",
 
@@ -34745,7 +34745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1159",
     "name": "Koby #1159",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1159.png",
 
@@ -34775,7 +34775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1160",
     "name": "Koby #1160",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1160.png",
 
@@ -34805,7 +34805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1161",
     "name": "Koby #1161",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1161.png",
 
@@ -34835,7 +34835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1162",
     "name": "Koby #1162",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1162.png",
 
@@ -34865,7 +34865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1163",
     "name": "Koby #1163",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1163.png",
 
@@ -34895,7 +34895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1164",
     "name": "Koby #1164",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1164.png",
 
@@ -34925,7 +34925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1165",
     "name": "Koby #1165",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1165.png",
 
@@ -34955,7 +34955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1166",
     "name": "Koby #1166",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1166.png",
 
@@ -34985,7 +34985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1167",
     "name": "Koby #1167",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1167.png",
 
@@ -35015,7 +35015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1168",
     "name": "Koby #1168",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1168.png",
 
@@ -35045,7 +35045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1169",
     "name": "Koby #1169",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1169.png",
 
@@ -35075,7 +35075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1170",
     "name": "Koby #1170",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1170.png",
 
@@ -35105,7 +35105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1171",
     "name": "Koby #1171",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1171.png",
 
@@ -35135,7 +35135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1172",
     "name": "Koby #1172",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1172.png",
 
@@ -35165,7 +35165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1173",
     "name": "Koby #1173",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1173.png",
 
@@ -35195,7 +35195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1174",
     "name": "Koby #1174",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1174.png",
 
@@ -35225,7 +35225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1175",
     "name": "Koby #1175",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1175.png",
 
@@ -35255,7 +35255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1176",
     "name": "Koby #1176",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1176.png",
 
@@ -35285,7 +35285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1177",
     "name": "Koby #1177",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1177.png",
 
@@ -35315,7 +35315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1178",
     "name": "Koby #1178",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1178.png",
 
@@ -35345,7 +35345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1179",
     "name": "Koby #1179",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1179.png",
 
@@ -35375,7 +35375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1180",
     "name": "Koby #1180",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1180.png",
 
@@ -35405,7 +35405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1181",
     "name": "Koby #1181",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1181.png",
 
@@ -35435,7 +35435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1182",
     "name": "Koby #1182",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1182.png",
 
@@ -35465,7 +35465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1183",
     "name": "Koby #1183",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1183.png",
 
@@ -35495,7 +35495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1184",
     "name": "Koby #1184",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1184.png",
 
@@ -35525,7 +35525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1185",
     "name": "Koby #1185",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1185.png",
 
@@ -35555,7 +35555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1186",
     "name": "Koby #1186",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1186.png",
 
@@ -35585,7 +35585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1187",
     "name": "Koby #1187",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1187.png",
 
@@ -35615,7 +35615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1188",
     "name": "Koby #1188",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1188.png",
 
@@ -35645,7 +35645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1189",
     "name": "Koby #1189",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1189.png",
 
@@ -35675,7 +35675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1190",
     "name": "Koby #1190",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1190.png",
 
@@ -35705,7 +35705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1191",
     "name": "Koby #1191",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1191.png",
 
@@ -35735,7 +35735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1192",
     "name": "Koby #1192",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1192.png",
 
@@ -35765,7 +35765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1193",
     "name": "Koby #1193",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1193.png",
 
@@ -35795,7 +35795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1194",
     "name": "Koby #1194",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1194.png",
 
@@ -35825,7 +35825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1195",
     "name": "Koby #1195",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1195.png",
 
@@ -35855,7 +35855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1196",
     "name": "Koby #1196",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1196.png",
 
@@ -35885,7 +35885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1197",
     "name": "Koby #1197",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1197.png",
 
@@ -35915,7 +35915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1198",
     "name": "Koby #1198",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1198.png",
 
@@ -35945,7 +35945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1199",
     "name": "Koby #1199",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1199.png",
 
@@ -35975,7 +35975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1200",
     "name": "Koby #1200",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1200.png",
 
@@ -36005,7 +36005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1201",
     "name": "Koby #1201",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1201.png",
 
@@ -36035,7 +36035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1202",
     "name": "Koby #1202",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1202.png",
 
@@ -36065,7 +36065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1203",
     "name": "Koby #1203",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1203.png",
 
@@ -36095,7 +36095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1204",
     "name": "Koby #1204",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1204.png",
 
@@ -36125,7 +36125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1205",
     "name": "Koby #1205",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1205.png",
 
@@ -36155,7 +36155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1206",
     "name": "Koby #1206",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1206.png",
 
@@ -36185,7 +36185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1207",
     "name": "Koby #1207",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1207.png",
 
@@ -36215,7 +36215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1208",
     "name": "Koby #1208",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1208.png",
 
@@ -36245,7 +36245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1209",
     "name": "Koby #1209",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1209.png",
 
@@ -36275,7 +36275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1210",
     "name": "Koby #1210",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1210.png",
 
@@ -36305,7 +36305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1211",
     "name": "Koby #1211",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1211.png",
 
@@ -36335,7 +36335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1212",
     "name": "Koby #1212",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1212.png",
 
@@ -36365,7 +36365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1213",
     "name": "Koby #1213",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1213.png",
 
@@ -36395,7 +36395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1214",
     "name": "Koby #1214",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1214.png",
 
@@ -36425,7 +36425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1215",
     "name": "Koby #1215",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1215.png",
 
@@ -36455,7 +36455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1216",
     "name": "Koby #1216",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1216.png",
 
@@ -36485,7 +36485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1217",
     "name": "Koby #1217",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1217.png",
 
@@ -36515,7 +36515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1218",
     "name": "Koby #1218",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1218.png",
 
@@ -36545,7 +36545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1219",
     "name": "Koby #1219",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1219.png",
 
@@ -36575,7 +36575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1220",
     "name": "Koby #1220",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1220.png",
 
@@ -36605,7 +36605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1221",
     "name": "Koby #1221",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1221.png",
 
@@ -36635,7 +36635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1222",
     "name": "Koby #1222",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1222.png",
 
@@ -36665,7 +36665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1223",
     "name": "Koby #1223",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1223.png",
 
@@ -36695,7 +36695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1224",
     "name": "Koby #1224",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1224.png",
 
@@ -36725,7 +36725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1225",
     "name": "Koby #1225",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1225.png",
 
@@ -36755,7 +36755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1226",
     "name": "Koby #1226",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1226.png",
 
@@ -36785,7 +36785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1227",
     "name": "Koby #1227",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1227.png",
 
@@ -36815,7 +36815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1228",
     "name": "Koby #1228",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1228.png",
 
@@ -36845,7 +36845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1229",
     "name": "Koby #1229",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1229.png",
 
@@ -36875,7 +36875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1230",
     "name": "Koby #1230",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1230.png",
 
@@ -36905,7 +36905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1231",
     "name": "Koby #1231",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1231.png",
 
@@ -36935,7 +36935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1232",
     "name": "Koby #1232",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1232.png",
 
@@ -36965,7 +36965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1233",
     "name": "Koby #1233",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1233.png",
 
@@ -36995,7 +36995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1234",
     "name": "Koby #1234",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1234.png",
 
@@ -37025,7 +37025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1235",
     "name": "Koby #1235",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1235.png",
 
@@ -37055,7 +37055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1236",
     "name": "Koby #1236",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1236.png",
 
@@ -37085,7 +37085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1237",
     "name": "Koby #1237",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1237.png",
 
@@ -37115,7 +37115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1238",
     "name": "Koby #1238",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1238.png",
 
@@ -37145,7 +37145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1239",
     "name": "Koby #1239",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1239.png",
 
@@ -37175,7 +37175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1240",
     "name": "Koby #1240",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1240.png",
 
@@ -37205,7 +37205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1241",
     "name": "Koby #1241",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1241.png",
 
@@ -37235,7 +37235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1242",
     "name": "Koby #1242",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1242.png",
 
@@ -37265,7 +37265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1243",
     "name": "Koby #1243",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1243.png",
 
@@ -37295,7 +37295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1244",
     "name": "Koby #1244",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1244.png",
 
@@ -37325,7 +37325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1245",
     "name": "Koby #1245",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1245.png",
 
@@ -37355,7 +37355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1246",
     "name": "Koby #1246",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1246.png",
 
@@ -37385,7 +37385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1247",
     "name": "Koby #1247",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1247.png",
 
@@ -37415,7 +37415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1248",
     "name": "Koby #1248",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1248.png",
 
@@ -37445,7 +37445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1249",
     "name": "Koby #1249",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1249.png",
 
@@ -37475,7 +37475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1250",
     "name": "Koby #1250",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1250.png",
 
@@ -37505,7 +37505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1251",
     "name": "Koby #1251",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1251.png",
 
@@ -37535,7 +37535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1252",
     "name": "Koby #1252",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1252.png",
 
@@ -37565,7 +37565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1253",
     "name": "Koby #1253",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1253.png",
 
@@ -37595,7 +37595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1254",
     "name": "Koby #1254",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1254.png",
 
@@ -37625,7 +37625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1255",
     "name": "Koby #1255",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1255.png",
 
@@ -37655,7 +37655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1256",
     "name": "Koby #1256",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1256.png",
 
@@ -37685,7 +37685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1257",
     "name": "Koby #1257",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1257.png",
 
@@ -37715,7 +37715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1258",
     "name": "Koby #1258",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1258.png",
 
@@ -37745,7 +37745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1259",
     "name": "Koby #1259",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1259.png",
 
@@ -37775,7 +37775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1260",
     "name": "Koby #1260",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1260.png",
 
@@ -37805,7 +37805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1261",
     "name": "Koby #1261",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1261.png",
 
@@ -37835,7 +37835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1262",
     "name": "Koby #1262",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1262.png",
 
@@ -37865,7 +37865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1263",
     "name": "Koby #1263",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1263.png",
 
@@ -37895,7 +37895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1264",
     "name": "Koby #1264",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1264.png",
 
@@ -37925,7 +37925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1265",
     "name": "Koby #1265",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1265.png",
 
@@ -37955,7 +37955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1266",
     "name": "Koby #1266",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1266.png",
 
@@ -37985,7 +37985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1267",
     "name": "Koby #1267",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1267.png",
 
@@ -38015,7 +38015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1268",
     "name": "Koby #1268",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1268.png",
 
@@ -38045,7 +38045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1269",
     "name": "Koby #1269",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1269.png",
 
@@ -38075,7 +38075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1270",
     "name": "Koby #1270",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1270.png",
 
@@ -38105,7 +38105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1271",
     "name": "Koby #1271",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1271.png",
 
@@ -38135,7 +38135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1272",
     "name": "Koby #1272",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1272.png",
 
@@ -38165,7 +38165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1273",
     "name": "Koby #1273",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1273.png",
 
@@ -38195,7 +38195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1274",
     "name": "Koby #1274",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1274.png",
 
@@ -38225,7 +38225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1275",
     "name": "Koby #1275",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1275.png",
 
@@ -38255,7 +38255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1276",
     "name": "Koby #1276",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1276.png",
 
@@ -38285,7 +38285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1277",
     "name": "Koby #1277",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1277.png",
 
@@ -38315,7 +38315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1278",
     "name": "Koby #1278",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1278.png",
 
@@ -38345,7 +38345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1279",
     "name": "Koby #1279",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1279.png",
 
@@ -38375,7 +38375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1280",
     "name": "Koby #1280",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1280.png",
 
@@ -38405,7 +38405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1281",
     "name": "Koby #1281",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1281.png",
 
@@ -38435,7 +38435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1282",
     "name": "Koby #1282",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1282.png",
 
@@ -38465,7 +38465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1283",
     "name": "Koby #1283",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1283.png",
 
@@ -38495,7 +38495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1284",
     "name": "Koby #1284",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1284.png",
 
@@ -38525,7 +38525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1285",
     "name": "Koby #1285",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1285.png",
 
@@ -38555,7 +38555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1286",
     "name": "Koby #1286",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1286.png",
 
@@ -38585,7 +38585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1287",
     "name": "Koby #1287",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1287.png",
 
@@ -38615,7 +38615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1288",
     "name": "Koby #1288",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1288.png",
 
@@ -38645,7 +38645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1289",
     "name": "Koby #1289",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1289.png",
 
@@ -38675,7 +38675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1290",
     "name": "Koby #1290",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1290.png",
 
@@ -38705,7 +38705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1291",
     "name": "Koby #1291",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1291.png",
 
@@ -38735,7 +38735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1292",
     "name": "Koby #1292",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1292.png",
 
@@ -38765,7 +38765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1293",
     "name": "Koby #1293",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1293.png",
 
@@ -38795,7 +38795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1294",
     "name": "Koby #1294",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1294.png",
 
@@ -38825,7 +38825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1295",
     "name": "Koby #1295",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1295.png",
 
@@ -38855,7 +38855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1296",
     "name": "Koby #1296",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1296.png",
 
@@ -38885,7 +38885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1297",
     "name": "Koby #1297",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1297.png",
 
@@ -38915,7 +38915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1298",
     "name": "Koby #1298",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1298.png",
 
@@ -38945,7 +38945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1299",
     "name": "Koby #1299",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1299.png",
 
@@ -38975,7 +38975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1300",
     "name": "Koby #1300",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1300.png",
 
@@ -39005,7 +39005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1301",
     "name": "Koby #1301",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1301.png",
 
@@ -39035,7 +39035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1302",
     "name": "Koby #1302",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1302.png",
 
@@ -39065,7 +39065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1303",
     "name": "Koby #1303",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1303.png",
 
@@ -39095,7 +39095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1304",
     "name": "Koby #1304",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1304.png",
 
@@ -39125,7 +39125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1305",
     "name": "Koby #1305",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1305.png",
 
@@ -39155,7 +39155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1306",
     "name": "Koby #1306",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1306.png",
 
@@ -39185,7 +39185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1307",
     "name": "Koby #1307",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1307.png",
 
@@ -39215,7 +39215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1308",
     "name": "Koby #1308",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1308.png",
 
@@ -39245,7 +39245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1309",
     "name": "Koby #1309",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1309.png",
 
@@ -39275,7 +39275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1310",
     "name": "Koby #1310",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1310.png",
 
@@ -39305,7 +39305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1311",
     "name": "Koby #1311",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1311.png",
 
@@ -39335,7 +39335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1312",
     "name": "Koby #1312",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1312.png",
 
@@ -39365,7 +39365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1313",
     "name": "Koby #1313",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1313.png",
 
@@ -39395,7 +39395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1314",
     "name": "Koby #1314",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1314.png",
 
@@ -39425,7 +39425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1315",
     "name": "Koby #1315",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1315.png",
 
@@ -39455,7 +39455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1316",
     "name": "Koby #1316",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1316.png",
 
@@ -39485,7 +39485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1317",
     "name": "Koby #1317",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1317.png",
 
@@ -39515,7 +39515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1318",
     "name": "Koby #1318",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1318.png",
 
@@ -39545,7 +39545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1319",
     "name": "Koby #1319",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1319.png",
 
@@ -39575,7 +39575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1320",
     "name": "Koby #1320",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1320.png",
 
@@ -39605,7 +39605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1321",
     "name": "Koby #1321",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1321.png",
 
@@ -39635,7 +39635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1322",
     "name": "Koby #1322",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1322.png",
 
@@ -39665,7 +39665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1323",
     "name": "Koby #1323",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1323.png",
 
@@ -39695,7 +39695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1324",
     "name": "Koby #1324",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1324.png",
 
@@ -39725,7 +39725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1325",
     "name": "Koby #1325",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1325.png",
 
@@ -39755,7 +39755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1326",
     "name": "Koby #1326",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1326.png",
 
@@ -39785,7 +39785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1327",
     "name": "Koby #1327",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1327.png",
 
@@ -39815,7 +39815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1328",
     "name": "Koby #1328",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1328.png",
 
@@ -39845,7 +39845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1329",
     "name": "Koby #1329",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1329.png",
 
@@ -39875,7 +39875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1330",
     "name": "Koby #1330",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1330.png",
 
@@ -39905,7 +39905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1331",
     "name": "Koby #1331",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1331.png",
 
@@ -39935,7 +39935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1332",
     "name": "Koby #1332",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1332.png",
 
@@ -39965,7 +39965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1333",
     "name": "Koby #1333",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1333.png",
 
@@ -39995,7 +39995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1334",
     "name": "Koby #1334",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1334.png",
 
@@ -40025,7 +40025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1335",
     "name": "Koby #1335",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1335.png",
 
@@ -40055,7 +40055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1336",
     "name": "Koby #1336",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1336.png",
 
@@ -40085,7 +40085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1337",
     "name": "Koby #1337",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1337.png",
 
@@ -40115,7 +40115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1338",
     "name": "Koby #1338",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1338.png",
 
@@ -40145,7 +40145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1339",
     "name": "Koby #1339",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1339.png",
 
@@ -40175,7 +40175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1340",
     "name": "Koby #1340",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1340.png",
 
@@ -40205,7 +40205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1341",
     "name": "Koby #1341",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1341.png",
 
@@ -40235,7 +40235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1342",
     "name": "Koby #1342",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1342.png",
 
@@ -40265,7 +40265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1343",
     "name": "Koby #1343",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1343.png",
 
@@ -40295,7 +40295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1344",
     "name": "Koby #1344",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1344.png",
 
@@ -40325,7 +40325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1345",
     "name": "Koby #1345",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1345.png",
 
@@ -40355,7 +40355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1346",
     "name": "Koby #1346",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1346.png",
 
@@ -40385,7 +40385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1347",
     "name": "Koby #1347",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1347.png",
 
@@ -40415,7 +40415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1348",
     "name": "Koby #1348",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1348.png",
 
@@ -40445,7 +40445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1349",
     "name": "Koby #1349",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1349.png",
 
@@ -40475,7 +40475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1350",
     "name": "Koby #1350",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1350.png",
 
@@ -40505,7 +40505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1351",
     "name": "Koby #1351",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1351.png",
 
@@ -40535,7 +40535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1352",
     "name": "Koby #1352",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1352.png",
 
@@ -40565,7 +40565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1353",
     "name": "Koby #1353",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1353.png",
 
@@ -40595,7 +40595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1354",
     "name": "Koby #1354",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1354.png",
 
@@ -40625,7 +40625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1355",
     "name": "Koby #1355",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1355.png",
 
@@ -40655,7 +40655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1356",
     "name": "Koby #1356",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1356.png",
 
@@ -40685,7 +40685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1357",
     "name": "Koby #1357",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1357.png",
 
@@ -40715,7 +40715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1358",
     "name": "Koby #1358",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1358.png",
 
@@ -40745,7 +40745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1359",
     "name": "Koby #1359",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1359.png",
 
@@ -40775,7 +40775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1360",
     "name": "Koby #1360",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1360.png",
 
@@ -40805,7 +40805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1361",
     "name": "Koby #1361",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1361.png",
 
@@ -40835,7 +40835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1362",
     "name": "Koby #1362",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1362.png",
 
@@ -40865,7 +40865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1363",
     "name": "Koby #1363",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1363.png",
 
@@ -40895,7 +40895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1364",
     "name": "Koby #1364",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1364.png",
 
@@ -40925,7 +40925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1365",
     "name": "Koby #1365",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1365.png",
 
@@ -40955,7 +40955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1366",
     "name": "Koby #1366",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1366.png",
 
@@ -40985,7 +40985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1367",
     "name": "Koby #1367",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1367.png",
 
@@ -41015,7 +41015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1368",
     "name": "Koby #1368",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1368.png",
 
@@ -41045,7 +41045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1369",
     "name": "Koby #1369",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1369.png",
 
@@ -41075,7 +41075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1370",
     "name": "Koby #1370",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1370.png",
 
@@ -41105,7 +41105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1371",
     "name": "Koby #1371",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1371.png",
 
@@ -41135,7 +41135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1372",
     "name": "Koby #1372",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1372.png",
 
@@ -41165,7 +41165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1373",
     "name": "Koby #1373",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1373.png",
 
@@ -41195,7 +41195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1374",
     "name": "Koby #1374",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1374.png",
 
@@ -41225,7 +41225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1375",
     "name": "Koby #1375",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1375.png",
 
@@ -41255,7 +41255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1376",
     "name": "Koby #1376",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1376.png",
 
@@ -41285,7 +41285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1377",
     "name": "Koby #1377",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1377.png",
 
@@ -41315,7 +41315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1378",
     "name": "Koby #1378",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1378.png",
 
@@ -41345,7 +41345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1379",
     "name": "Koby #1379",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1379.png",
 
@@ -41375,7 +41375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1380",
     "name": "Koby #1380",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1380.png",
 
@@ -41405,7 +41405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1381",
     "name": "Koby #1381",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1381.png",
 
@@ -41435,7 +41435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1382",
     "name": "Koby #1382",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1382.png",
 
@@ -41465,7 +41465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1383",
     "name": "Koby #1383",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1383.png",
 
@@ -41495,7 +41495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1384",
     "name": "Koby #1384",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1384.png",
 
@@ -41525,7 +41525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1385",
     "name": "Koby #1385",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1385.png",
 
@@ -41555,7 +41555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1386",
     "name": "Koby #1386",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1386.png",
 
@@ -41585,7 +41585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1387",
     "name": "Koby #1387",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1387.png",
 
@@ -41615,7 +41615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1388",
     "name": "Koby #1388",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1388.png",
 
@@ -41645,7 +41645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1389",
     "name": "Koby #1389",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1389.png",
 
@@ -41675,7 +41675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1390",
     "name": "Koby #1390",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1390.png",
 
@@ -41705,7 +41705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1391",
     "name": "Koby #1391",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1391.png",
 
@@ -41735,7 +41735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1392",
     "name": "Koby #1392",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1392.png",
 
@@ -41765,7 +41765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1393",
     "name": "Koby #1393",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1393.png",
 
@@ -41795,7 +41795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1394",
     "name": "Koby #1394",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1394.png",
 
@@ -41825,7 +41825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1395",
     "name": "Koby #1395",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1395.png",
 
@@ -41855,7 +41855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1396",
     "name": "Koby #1396",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1396.png",
 
@@ -41885,7 +41885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1397",
     "name": "Koby #1397",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1397.png",
 
@@ -41915,7 +41915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1398",
     "name": "Koby #1398",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1398.png",
 
@@ -41945,7 +41945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1399",
     "name": "Koby #1399",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1399.png",
 
@@ -41975,7 +41975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1400",
     "name": "Koby #1400",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1400.png",
 
@@ -42005,7 +42005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1401",
     "name": "Koby #1401",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1401.png",
 
@@ -42035,7 +42035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1402",
     "name": "Koby #1402",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1402.png",
 
@@ -42065,7 +42065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1403",
     "name": "Koby #1403",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1403.png",
 
@@ -42095,7 +42095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1404",
     "name": "Koby #1404",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1404.png",
 
@@ -42125,7 +42125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1405",
     "name": "Koby #1405",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1405.png",
 
@@ -42155,7 +42155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1406",
     "name": "Koby #1406",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1406.png",
 
@@ -42185,7 +42185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1407",
     "name": "Koby #1407",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1407.png",
 
@@ -42215,7 +42215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1408",
     "name": "Koby #1408",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1408.png",
 
@@ -42245,7 +42245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1409",
     "name": "Koby #1409",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1409.png",
 
@@ -42275,7 +42275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1410",
     "name": "Koby #1410",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1410.png",
 
@@ -42305,7 +42305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1411",
     "name": "Koby #1411",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1411.png",
 
@@ -42335,7 +42335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1412",
     "name": "Koby #1412",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1412.png",
 
@@ -42365,7 +42365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1413",
     "name": "Koby #1413",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1413.png",
 
@@ -42395,7 +42395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1414",
     "name": "Koby #1414",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1414.png",
 
@@ -42425,7 +42425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1415",
     "name": "Koby #1415",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1415.png",
 
@@ -42455,7 +42455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1416",
     "name": "Koby #1416",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1416.png",
 
@@ -42485,7 +42485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1417",
     "name": "Koby #1417",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1417.png",
 
@@ -42515,7 +42515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1418",
     "name": "Koby #1418",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1418.png",
 
@@ -42545,7 +42545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1419",
     "name": "Koby #1419",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1419.png",
 
@@ -42575,7 +42575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1420",
     "name": "Koby #1420",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1420.png",
 
@@ -42605,7 +42605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1421",
     "name": "Koby #1421",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1421.png",
 
@@ -42635,7 +42635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1422",
     "name": "Koby #1422",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1422.png",
 
@@ -42665,7 +42665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1423",
     "name": "Koby #1423",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1423.png",
 
@@ -42695,7 +42695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1424",
     "name": "Koby #1424",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1424.png",
 
@@ -42725,7 +42725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1425",
     "name": "Koby #1425",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1425.png",
 
@@ -42755,7 +42755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1426",
     "name": "Koby #1426",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1426.png",
 
@@ -42785,7 +42785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1427",
     "name": "Koby #1427",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1427.png",
 
@@ -42815,7 +42815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1428",
     "name": "Koby #1428",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1428.png",
 
@@ -42845,7 +42845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1429",
     "name": "Koby #1429",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1429.png",
 
@@ -42875,7 +42875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1430",
     "name": "Koby #1430",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1430.png",
 
@@ -42905,7 +42905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1431",
     "name": "Koby #1431",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1431.png",
 
@@ -42935,7 +42935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1432",
     "name": "Koby #1432",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1432.png",
 
@@ -42965,7 +42965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1433",
     "name": "Koby #1433",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1433.png",
 
@@ -42995,7 +42995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1434",
     "name": "Koby #1434",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1434.png",
 
@@ -43025,7 +43025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1435",
     "name": "Koby #1435",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1435.png",
 
@@ -43055,7 +43055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1436",
     "name": "Koby #1436",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1436.png",
 
@@ -43085,7 +43085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1437",
     "name": "Koby #1437",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1437.png",
 
@@ -43115,7 +43115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1438",
     "name": "Koby #1438",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1438.png",
 
@@ -43145,7 +43145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1439",
     "name": "Koby #1439",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1439.png",
 
@@ -43175,7 +43175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1440",
     "name": "Koby #1440",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1440.png",
 
@@ -43205,7 +43205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1441",
     "name": "Koby #1441",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1441.png",
 
@@ -43235,7 +43235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1442",
     "name": "Koby #1442",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1442.png",
 
@@ -43265,7 +43265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1443",
     "name": "Koby #1443",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1443.png",
 
@@ -43295,7 +43295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1444",
     "name": "Koby #1444",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1444.png",
 
@@ -43325,7 +43325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1445",
     "name": "Koby #1445",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1445.png",
 
@@ -43355,7 +43355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1446",
     "name": "Koby #1446",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1446.png",
 
@@ -43385,7 +43385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1447",
     "name": "Koby #1447",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1447.png",
 
@@ -43415,7 +43415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1448",
     "name": "Koby #1448",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1448.png",
 
@@ -43445,7 +43445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1449",
     "name": "Koby #1449",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1449.png",
 
@@ -43475,7 +43475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1450",
     "name": "Koby #1450",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1450.png",
 
@@ -43505,7 +43505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1451",
     "name": "Koby #1451",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1451.png",
 
@@ -43535,7 +43535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1452",
     "name": "Koby #1452",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1452.png",
 
@@ -43565,7 +43565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1453",
     "name": "Koby #1453",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1453.png",
 
@@ -43595,7 +43595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1454",
     "name": "Koby #1454",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1454.png",
 
@@ -43625,7 +43625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1455",
     "name": "Koby #1455",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1455.png",
 
@@ -43655,7 +43655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1456",
     "name": "Koby #1456",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1456.png",
 
@@ -43685,7 +43685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1457",
     "name": "Koby #1457",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1457.png",
 
@@ -43715,7 +43715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1458",
     "name": "Koby #1458",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1458.png",
 
@@ -43745,7 +43745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1459",
     "name": "Koby #1459",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1459.png",
 
@@ -43775,7 +43775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1460",
     "name": "Koby #1460",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1460.png",
 
@@ -43805,7 +43805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1461",
     "name": "Koby #1461",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1461.png",
 
@@ -43835,7 +43835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1462",
     "name": "Koby #1462",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1462.png",
 
@@ -43865,7 +43865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1463",
     "name": "Koby #1463",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1463.png",
 
@@ -43895,7 +43895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1464",
     "name": "Koby #1464",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1464.png",
 
@@ -43925,7 +43925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1465",
     "name": "Koby #1465",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1465.png",
 
@@ -43955,7 +43955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1466",
     "name": "Koby #1466",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1466.png",
 
@@ -43985,7 +43985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1467",
     "name": "Koby #1467",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1467.png",
 
@@ -44015,7 +44015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1468",
     "name": "Koby #1468",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1468.png",
 
@@ -44045,7 +44045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1469",
     "name": "Koby #1469",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1469.png",
 
@@ -44075,7 +44075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1470",
     "name": "Koby #1470",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1470.png",
 
@@ -44105,7 +44105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1471",
     "name": "Koby #1471",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1471.png",
 
@@ -44135,7 +44135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1472",
     "name": "Koby #1472",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1472.png",
 
@@ -44165,7 +44165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1473",
     "name": "Koby #1473",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1473.png",
 
@@ -44195,7 +44195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1474",
     "name": "Koby #1474",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1474.png",
 
@@ -44225,7 +44225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1475",
     "name": "Koby #1475",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1475.png",
 
@@ -44255,7 +44255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1476",
     "name": "Koby #1476",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1476.png",
 
@@ -44285,7 +44285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1477",
     "name": "Koby #1477",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1477.png",
 
@@ -44315,7 +44315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1478",
     "name": "Koby #1478",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1478.png",
 
@@ -44345,7 +44345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1479",
     "name": "Koby #1479",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1479.png",
 
@@ -44375,7 +44375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1480",
     "name": "Koby #1480",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1480.png",
 
@@ -44405,7 +44405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1481",
     "name": "Koby #1481",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1481.png",
 
@@ -44435,7 +44435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1482",
     "name": "Koby #1482",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1482.png",
 
@@ -44465,7 +44465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1483",
     "name": "Koby #1483",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1483.png",
 
@@ -44495,7 +44495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1484",
     "name": "Koby #1484",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1484.png",
 
@@ -44525,7 +44525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1485",
     "name": "Koby #1485",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1485.png",
 
@@ -44555,7 +44555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1486",
     "name": "Koby #1486",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1486.png",
 
@@ -44585,7 +44585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1487",
     "name": "Koby #1487",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1487.png",
 
@@ -44615,7 +44615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1488",
     "name": "Koby #1488",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1488.png",
 
@@ -44645,7 +44645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1489",
     "name": "Koby #1489",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1489.png",
 
@@ -44675,7 +44675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1490",
     "name": "Koby #1490",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1490.png",
 
@@ -44705,7 +44705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1491",
     "name": "Koby #1491",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1491.png",
 
@@ -44735,7 +44735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1492",
     "name": "Koby #1492",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1492.png",
 
@@ -44765,7 +44765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1493",
     "name": "Koby #1493",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1493.png",
 
@@ -44795,7 +44795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1494",
     "name": "Koby #1494",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1494.png",
 
@@ -44825,7 +44825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1495",
     "name": "Koby #1495",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1495.png",
 
@@ -44855,7 +44855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1496",
     "name": "Koby #1496",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1496.png",
 
@@ -44885,7 +44885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1497",
     "name": "Koby #1497",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1497.png",
 
@@ -44915,7 +44915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1498",
     "name": "Koby #1498",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1498.png",
 
@@ -44945,7 +44945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1499",
     "name": "Koby #1499",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1499.png",
 
@@ -44975,7 +44975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1500",
     "name": "Koby #1500",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1500.png",
 
@@ -45005,7 +45005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1501",
     "name": "Koby #1501",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1501.png",
 
@@ -45035,7 +45035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1502",
     "name": "Koby #1502",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1502.png",
 
@@ -45065,7 +45065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1503",
     "name": "Koby #1503",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1503.png",
 
@@ -45095,7 +45095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1504",
     "name": "Koby #1504",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1504.png",
 
@@ -45125,7 +45125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1505",
     "name": "Koby #1505",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1505.png",
 
@@ -45155,7 +45155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1506",
     "name": "Koby #1506",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1506.png",
 
@@ -45185,7 +45185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1507",
     "name": "Koby #1507",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1507.png",
 
@@ -45215,7 +45215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1508",
     "name": "Koby #1508",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1508.png",
 
@@ -45245,7 +45245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1509",
     "name": "Koby #1509",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1509.png",
 
@@ -45275,7 +45275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1510",
     "name": "Koby #1510",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1510.png",
 
@@ -45305,7 +45305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1511",
     "name": "Koby #1511",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1511.png",
 
@@ -45335,7 +45335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1512",
     "name": "Koby #1512",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1512.png",
 
@@ -45365,7 +45365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1513",
     "name": "Koby #1513",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1513.png",
 
@@ -45395,7 +45395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1514",
     "name": "Koby #1514",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1514.png",
 
@@ -45425,7 +45425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1515",
     "name": "Koby #1515",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1515.png",
 
@@ -45455,7 +45455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1516",
     "name": "Koby #1516",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1516.png",
 
@@ -45485,7 +45485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1517",
     "name": "Koby #1517",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1517.png",
 
@@ -45515,7 +45515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1518",
     "name": "Koby #1518",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1518.png",
 
@@ -45545,7 +45545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1519",
     "name": "Koby #1519",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1519.png",
 
@@ -45575,7 +45575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1520",
     "name": "Koby #1520",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1520.png",
 
@@ -45605,7 +45605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1521",
     "name": "Koby #1521",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1521.png",
 
@@ -45635,7 +45635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1522",
     "name": "Koby #1522",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1522.png",
 
@@ -45665,7 +45665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1523",
     "name": "Koby #1523",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1523.png",
 
@@ -45695,7 +45695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1524",
     "name": "Koby #1524",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1524.png",
 
@@ -45725,7 +45725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1525",
     "name": "Koby #1525",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1525.png",
 
@@ -45755,7 +45755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1526",
     "name": "Koby #1526",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1526.png",
 
@@ -45785,7 +45785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1527",
     "name": "Koby #1527",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1527.png",
 
@@ -45815,7 +45815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1528",
     "name": "Koby #1528",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1528.png",
 
@@ -45845,7 +45845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1529",
     "name": "Koby #1529",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1529.png",
 
@@ -45875,7 +45875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1530",
     "name": "Koby #1530",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1530.png",
 
@@ -45905,7 +45905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1531",
     "name": "Koby #1531",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1531.png",
 
@@ -45935,7 +45935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1532",
     "name": "Koby #1532",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1532.png",
 
@@ -45965,7 +45965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1533",
     "name": "Koby #1533",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1533.png",
 
@@ -45995,7 +45995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1534",
     "name": "Koby #1534",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1534.png",
 
@@ -46025,7 +46025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1535",
     "name": "Koby #1535",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1535.png",
 
@@ -46055,7 +46055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1536",
     "name": "Koby #1536",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1536.png",
 
@@ -46085,7 +46085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1537",
     "name": "Koby #1537",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1537.png",
 
@@ -46115,7 +46115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1538",
     "name": "Koby #1538",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1538.png",
 
@@ -46145,7 +46145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1539",
     "name": "Koby #1539",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1539.png",
 
@@ -46175,7 +46175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1540",
     "name": "Koby #1540",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1540.png",
 
@@ -46205,7 +46205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1541",
     "name": "Koby #1541",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1541.png",
 
@@ -46235,7 +46235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1542",
     "name": "Koby #1542",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1542.png",
 
@@ -46265,7 +46265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1543",
     "name": "Koby #1543",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1543.png",
 
@@ -46295,7 +46295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1544",
     "name": "Koby #1544",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1544.png",
 
@@ -46325,7 +46325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1545",
     "name": "Koby #1545",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1545.png",
 
@@ -46355,7 +46355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1546",
     "name": "Koby #1546",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1546.png",
 
@@ -46385,7 +46385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1547",
     "name": "Koby #1547",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1547.png",
 
@@ -46415,7 +46415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1548",
     "name": "Koby #1548",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1548.png",
 
@@ -46445,7 +46445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1549",
     "name": "Koby #1549",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1549.png",
 
@@ -46475,7 +46475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1550",
     "name": "Koby #1550",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1550.png",
 
@@ -46505,7 +46505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1551",
     "name": "Koby #1551",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1551.png",
 
@@ -46535,7 +46535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1552",
     "name": "Koby #1552",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1552.png",
 
@@ -46565,7 +46565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1553",
     "name": "Koby #1553",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1553.png",
 
@@ -46595,7 +46595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1554",
     "name": "Koby #1554",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1554.png",
 
@@ -46625,7 +46625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1555",
     "name": "Koby #1555",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1555.png",
 
@@ -46655,7 +46655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1556",
     "name": "Koby #1556",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1556.png",
 
@@ -46685,7 +46685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1557",
     "name": "Koby #1557",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1557.png",
 
@@ -46715,7 +46715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1558",
     "name": "Koby #1558",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1558.png",
 
@@ -46745,7 +46745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1559",
     "name": "Koby #1559",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1559.png",
 
@@ -46775,7 +46775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1560",
     "name": "Koby #1560",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1560.png",
 
@@ -46805,7 +46805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1561",
     "name": "Koby #1561",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1561.png",
 
@@ -46835,7 +46835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1562",
     "name": "Koby #1562",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1562.png",
 
@@ -46865,7 +46865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1563",
     "name": "Koby #1563",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1563.png",
 
@@ -46895,7 +46895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1564",
     "name": "Koby #1564",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1564.png",
 
@@ -46925,7 +46925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1565",
     "name": "Koby #1565",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1565.png",
 
@@ -46955,7 +46955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1566",
     "name": "Koby #1566",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1566.png",
 
@@ -46985,7 +46985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1567",
     "name": "Koby #1567",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1567.png",
 
@@ -47015,7 +47015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1568",
     "name": "Koby #1568",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1568.png",
 
@@ -47045,7 +47045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1569",
     "name": "Koby #1569",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1569.png",
 
@@ -47075,7 +47075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1570",
     "name": "Koby #1570",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1570.png",
 
@@ -47105,7 +47105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1571",
     "name": "Koby #1571",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1571.png",
 
@@ -47135,7 +47135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1572",
     "name": "Koby #1572",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1572.png",
 
@@ -47165,7 +47165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1573",
     "name": "Koby #1573",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1573.png",
 
@@ -47195,7 +47195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1574",
     "name": "Koby #1574",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1574.png",
 
@@ -47225,7 +47225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1575",
     "name": "Koby #1575",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1575.png",
 
@@ -47255,7 +47255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1576",
     "name": "Koby #1576",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1576.png",
 
@@ -47285,7 +47285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1577",
     "name": "Koby #1577",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1577.png",
 
@@ -47315,7 +47315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1578",
     "name": "Koby #1578",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1578.png",
 
@@ -47345,7 +47345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1579",
     "name": "Koby #1579",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1579.png",
 
@@ -47375,7 +47375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1580",
     "name": "Koby #1580",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1580.png",
 
@@ -47405,7 +47405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1581",
     "name": "Koby #1581",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1581.png",
 
@@ -47435,7 +47435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1582",
     "name": "Koby #1582",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1582.png",
 
@@ -47465,7 +47465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1583",
     "name": "Koby #1583",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1583.png",
 
@@ -47495,7 +47495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1584",
     "name": "Koby #1584",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1584.png",
 
@@ -47525,7 +47525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1585",
     "name": "Koby #1585",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1585.png",
 
@@ -47555,7 +47555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1586",
     "name": "Koby #1586",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1586.png",
 
@@ -47585,7 +47585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1587",
     "name": "Koby #1587",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1587.png",
 
@@ -47615,7 +47615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1588",
     "name": "Koby #1588",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1588.png",
 
@@ -47645,7 +47645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1589",
     "name": "Koby #1589",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1589.png",
 
@@ -47675,7 +47675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1590",
     "name": "Koby #1590",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1590.png",
 
@@ -47705,7 +47705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1591",
     "name": "Koby #1591",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1591.png",
 
@@ -47735,7 +47735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1592",
     "name": "Koby #1592",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1592.png",
 
@@ -47765,7 +47765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1593",
     "name": "Koby #1593",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1593.png",
 
@@ -47795,7 +47795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1594",
     "name": "Koby #1594",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1594.png",
 
@@ -47825,7 +47825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1595",
     "name": "Koby #1595",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1595.png",
 
@@ -47855,7 +47855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1596",
     "name": "Koby #1596",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1596.png",
 
@@ -47885,7 +47885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1597",
     "name": "Koby #1597",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1597.png",
 
@@ -47915,7 +47915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1598",
     "name": "Koby #1598",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1598.png",
 
@@ -47945,7 +47945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1599",
     "name": "Koby #1599",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1599.png",
 
@@ -47975,7 +47975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1600",
     "name": "Koby #1600",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1600.png",
 
@@ -48005,7 +48005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1601",
     "name": "Koby #1601",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1601.png",
 
@@ -48035,7 +48035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1602",
     "name": "Koby #1602",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1602.png",
 
@@ -48065,7 +48065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1603",
     "name": "Koby #1603",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1603.png",
 
@@ -48095,7 +48095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1604",
     "name": "Koby #1604",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1604.png",
 
@@ -48125,7 +48125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1605",
     "name": "Koby #1605",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1605.png",
 
@@ -48155,7 +48155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1606",
     "name": "Koby #1606",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1606.png",
 
@@ -48185,7 +48185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1607",
     "name": "Koby #1607",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1607.png",
 
@@ -48215,7 +48215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1608",
     "name": "Koby #1608",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1608.png",
 
@@ -48245,7 +48245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1609",
     "name": "Koby #1609",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1609.png",
 
@@ -48275,7 +48275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1610",
     "name": "Koby #1610",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1610.png",
 
@@ -48305,7 +48305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1611",
     "name": "Koby #1611",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1611.png",
 
@@ -48335,7 +48335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1612",
     "name": "Koby #1612",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1612.png",
 
@@ -48365,7 +48365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1613",
     "name": "Koby #1613",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1613.png",
 
@@ -48395,7 +48395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1614",
     "name": "Koby #1614",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1614.png",
 
@@ -48425,7 +48425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1615",
     "name": "Koby #1615",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1615.png",
 
@@ -48455,7 +48455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1616",
     "name": "Koby #1616",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1616.png",
 
@@ -48485,7 +48485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1617",
     "name": "Koby #1617",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1617.png",
 
@@ -48515,7 +48515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1618",
     "name": "Koby #1618",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1618.png",
 
@@ -48545,7 +48545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1619",
     "name": "Koby #1619",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1619.png",
 
@@ -48575,7 +48575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1620",
     "name": "Koby #1620",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1620.png",
 
@@ -48605,7 +48605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1621",
     "name": "Koby #1621",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1621.png",
 
@@ -48635,7 +48635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1622",
     "name": "Koby #1622",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1622.png",
 
@@ -48665,7 +48665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1623",
     "name": "Koby #1623",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1623.png",
 
@@ -48695,7 +48695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1624",
     "name": "Koby #1624",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1624.png",
 
@@ -48725,7 +48725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1625",
     "name": "Koby #1625",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1625.png",
 
@@ -48755,7 +48755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1626",
     "name": "Koby #1626",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1626.png",
 
@@ -48785,7 +48785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1627",
     "name": "Koby #1627",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1627.png",
 
@@ -48815,7 +48815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1628",
     "name": "Koby #1628",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1628.png",
 
@@ -48845,7 +48845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1629",
     "name": "Koby #1629",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1629.png",
 
@@ -48875,7 +48875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1630",
     "name": "Koby #1630",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1630.png",
 
@@ -48905,7 +48905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1631",
     "name": "Koby #1631",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1631.png",
 
@@ -48935,7 +48935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1632",
     "name": "Koby #1632",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1632.png",
 
@@ -48965,7 +48965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1633",
     "name": "Koby #1633",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1633.png",
 
@@ -48995,7 +48995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1634",
     "name": "Koby #1634",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1634.png",
 
@@ -49025,7 +49025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1635",
     "name": "Koby #1635",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1635.png",
 
@@ -49055,7 +49055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1636",
     "name": "Koby #1636",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1636.png",
 
@@ -49085,7 +49085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1637",
     "name": "Koby #1637",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1637.png",
 
@@ -49115,7 +49115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1638",
     "name": "Koby #1638",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1638.png",
 
@@ -49145,7 +49145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1639",
     "name": "Koby #1639",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1639.png",
 
@@ -49175,7 +49175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1640",
     "name": "Koby #1640",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1640.png",
 
@@ -49205,7 +49205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1641",
     "name": "Koby #1641",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1641.png",
 
@@ -49235,7 +49235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1642",
     "name": "Koby #1642",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1642.png",
 
@@ -49265,7 +49265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1643",
     "name": "Koby #1643",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1643.png",
 
@@ -49295,7 +49295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1644",
     "name": "Koby #1644",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1644.png",
 
@@ -49325,7 +49325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1645",
     "name": "Koby #1645",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1645.png",
 
@@ -49355,7 +49355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1646",
     "name": "Koby #1646",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1646.png",
 
@@ -49385,7 +49385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1647",
     "name": "Koby #1647",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1647.png",
 
@@ -49415,7 +49415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1648",
     "name": "Koby #1648",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1648.png",
 
@@ -49445,7 +49445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1649",
     "name": "Koby #1649",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1649.png",
 
@@ -49475,7 +49475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1650",
     "name": "Koby #1650",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1650.png",
 
@@ -49505,7 +49505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1651",
     "name": "Koby #1651",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1651.png",
 
@@ -49535,7 +49535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1652",
     "name": "Koby #1652",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1652.png",
 
@@ -49565,7 +49565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1653",
     "name": "Koby #1653",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1653.png",
 
@@ -49595,7 +49595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1654",
     "name": "Koby #1654",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1654.png",
 
@@ -49625,7 +49625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1655",
     "name": "Koby #1655",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1655.png",
 
@@ -49655,7 +49655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1656",
     "name": "Koby #1656",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1656.png",
 
@@ -49685,7 +49685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1657",
     "name": "Koby #1657",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1657.png",
 
@@ -49715,7 +49715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1658",
     "name": "Koby #1658",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1658.png",
 
@@ -49745,7 +49745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1659",
     "name": "Koby #1659",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1659.png",
 
@@ -49775,7 +49775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1660",
     "name": "Koby #1660",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1660.png",
 
@@ -49805,7 +49805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1661",
     "name": "Koby #1661",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1661.png",
 
@@ -49835,7 +49835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1662",
     "name": "Koby #1662",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1662.png",
 
@@ -49865,7 +49865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1663",
     "name": "Koby #1663",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1663.png",
 
@@ -49895,7 +49895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1664",
     "name": "Koby #1664",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1664.png",
 
@@ -49925,7 +49925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1665",
     "name": "Koby #1665",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1665.png",
 
@@ -49955,7 +49955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1666",
     "name": "Koby #1666",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1666.png",
 
@@ -49985,7 +49985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1667",
     "name": "Koby #1667",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1667.png",
 
@@ -50015,7 +50015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1668",
     "name": "Koby #1668",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1668.png",
 
@@ -50045,7 +50045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1669",
     "name": "Koby #1669",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1669.png",
 
@@ -50075,7 +50075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1670",
     "name": "Koby #1670",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1670.png",
 
@@ -50105,7 +50105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1671",
     "name": "Koby #1671",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1671.png",
 
@@ -50135,7 +50135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1672",
     "name": "Koby #1672",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1672.png",
 
@@ -50165,7 +50165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1673",
     "name": "Koby #1673",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1673.png",
 
@@ -50195,7 +50195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1674",
     "name": "Koby #1674",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1674.png",
 
@@ -50225,7 +50225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1675",
     "name": "Koby #1675",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1675.png",
 
@@ -50255,7 +50255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1676",
     "name": "Koby #1676",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1676.png",
 
@@ -50285,7 +50285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1677",
     "name": "Koby #1677",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1677.png",
 
@@ -50315,7 +50315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1678",
     "name": "Koby #1678",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1678.png",
 
@@ -50345,7 +50345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1679",
     "name": "Koby #1679",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1679.png",
 
@@ -50375,7 +50375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1680",
     "name": "Koby #1680",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1680.png",
 
@@ -50405,7 +50405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1681",
     "name": "Koby #1681",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1681.png",
 
@@ -50435,7 +50435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1682",
     "name": "Koby #1682",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1682.png",
 
@@ -50465,7 +50465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1683",
     "name": "Koby #1683",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1683.png",
 
@@ -50495,7 +50495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1684",
     "name": "Koby #1684",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1684.png",
 
@@ -50525,7 +50525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1685",
     "name": "Koby #1685",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1685.png",
 
@@ -50555,7 +50555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1686",
     "name": "Koby #1686",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1686.png",
 
@@ -50585,7 +50585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1687",
     "name": "Koby #1687",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1687.png",
 
@@ -50615,7 +50615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1688",
     "name": "Koby #1688",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1688.png",
 
@@ -50645,7 +50645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1689",
     "name": "Koby #1689",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1689.png",
 
@@ -50675,7 +50675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1690",
     "name": "Koby #1690",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1690.png",
 
@@ -50705,7 +50705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1691",
     "name": "Koby #1691",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1691.png",
 
@@ -50735,7 +50735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1692",
     "name": "Koby #1692",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1692.png",
 
@@ -50765,7 +50765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1693",
     "name": "Koby #1693",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1693.png",
 
@@ -50795,7 +50795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1694",
     "name": "Koby #1694",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1694.png",
 
@@ -50825,7 +50825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1695",
     "name": "Koby #1695",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1695.png",
 
@@ -50855,7 +50855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1696",
     "name": "Koby #1696",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1696.png",
 
@@ -50885,7 +50885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1697",
     "name": "Koby #1697",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1697.png",
 
@@ -50915,7 +50915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1698",
     "name": "Koby #1698",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1698.png",
 
@@ -50945,7 +50945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1699",
     "name": "Koby #1699",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1699.png",
 
@@ -50975,7 +50975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1700",
     "name": "Koby #1700",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1700.png",
 
@@ -51005,7 +51005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1701",
     "name": "Koby #1701",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1701.png",
 
@@ -51035,7 +51035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1702",
     "name": "Koby #1702",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1702.png",
 
@@ -51065,7 +51065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1703",
     "name": "Koby #1703",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1703.png",
 
@@ -51095,7 +51095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1704",
     "name": "Koby #1704",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1704.png",
 
@@ -51125,7 +51125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1705",
     "name": "Koby #1705",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1705.png",
 
@@ -51155,7 +51155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1706",
     "name": "Koby #1706",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1706.png",
 
@@ -51185,7 +51185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1707",
     "name": "Koby #1707",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1707.png",
 
@@ -51215,7 +51215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1708",
     "name": "Koby #1708",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1708.png",
 
@@ -51245,7 +51245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1709",
     "name": "Koby #1709",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1709.png",
 
@@ -51275,7 +51275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1710",
     "name": "Koby #1710",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1710.png",
 
@@ -51305,7 +51305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1711",
     "name": "Koby #1711",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1711.png",
 
@@ -51335,7 +51335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1712",
     "name": "Koby #1712",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1712.png",
 
@@ -51365,7 +51365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1713",
     "name": "Koby #1713",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1713.png",
 
@@ -51395,7 +51395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1714",
     "name": "Koby #1714",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1714.png",
 
@@ -51425,7 +51425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1715",
     "name": "Koby #1715",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1715.png",
 
@@ -51455,7 +51455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1716",
     "name": "Koby #1716",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1716.png",
 
@@ -51485,7 +51485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1717",
     "name": "Koby #1717",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1717.png",
 
@@ -51515,7 +51515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1718",
     "name": "Koby #1718",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1718.png",
 
@@ -51545,7 +51545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1719",
     "name": "Koby #1719",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1719.png",
 
@@ -51575,7 +51575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1720",
     "name": "Koby #1720",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1720.png",
 
@@ -51605,7 +51605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1721",
     "name": "Koby #1721",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1721.png",
 
@@ -51635,7 +51635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1722",
     "name": "Koby #1722",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1722.png",
 
@@ -51665,7 +51665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1723",
     "name": "Koby #1723",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1723.png",
 
@@ -51695,7 +51695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1724",
     "name": "Koby #1724",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1724.png",
 
@@ -51725,7 +51725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1725",
     "name": "Koby #1725",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1725.png",
 
@@ -51755,7 +51755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1726",
     "name": "Koby #1726",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1726.png",
 
@@ -51785,7 +51785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1727",
     "name": "Koby #1727",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1727.png",
 
@@ -51815,7 +51815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1728",
     "name": "Koby #1728",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1728.png",
 
@@ -51845,7 +51845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1729",
     "name": "Koby #1729",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1729.png",
 
@@ -51875,7 +51875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1730",
     "name": "Koby #1730",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1730.png",
 
@@ -51905,7 +51905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1731",
     "name": "Koby #1731",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1731.png",
 
@@ -51935,7 +51935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1732",
     "name": "Koby #1732",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1732.png",
 
@@ -51965,7 +51965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1733",
     "name": "Koby #1733",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1733.png",
 
@@ -51995,7 +51995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1734",
     "name": "Koby #1734",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1734.png",
 
@@ -52025,7 +52025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1735",
     "name": "Koby #1735",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1735.png",
 
@@ -52055,7 +52055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1736",
     "name": "Koby #1736",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1736.png",
 
@@ -52085,7 +52085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1737",
     "name": "Koby #1737",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1737.png",
 
@@ -52115,7 +52115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1738",
     "name": "Koby #1738",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1738.png",
 
@@ -52145,7 +52145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1739",
     "name": "Koby #1739",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1739.png",
 
@@ -52175,7 +52175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1740",
     "name": "Koby #1740",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1740.png",
 
@@ -52205,7 +52205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1741",
     "name": "Koby #1741",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1741.png",
 
@@ -52235,7 +52235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1742",
     "name": "Koby #1742",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1742.png",
 
@@ -52265,7 +52265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1743",
     "name": "Koby #1743",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1743.png",
 
@@ -52295,7 +52295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1744",
     "name": "Koby #1744",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1744.png",
 
@@ -52325,7 +52325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1745",
     "name": "Koby #1745",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1745.png",
 
@@ -52355,7 +52355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1746",
     "name": "Koby #1746",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1746.png",
 
@@ -52385,7 +52385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1747",
     "name": "Koby #1747",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1747.png",
 
@@ -52415,7 +52415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1748",
     "name": "Koby #1748",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1748.png",
 
@@ -52445,7 +52445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1749",
     "name": "Koby #1749",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1749.png",
 
@@ -52475,7 +52475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1750",
     "name": "Koby #1750",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1750.png",
 
@@ -52505,7 +52505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1751",
     "name": "Koby #1751",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1751.png",
 
@@ -52535,7 +52535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1752",
     "name": "Koby #1752",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1752.png",
 
@@ -52565,7 +52565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1753",
     "name": "Koby #1753",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1753.png",
 
@@ -52595,7 +52595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1754",
     "name": "Koby #1754",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1754.png",
 
@@ -52625,7 +52625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1755",
     "name": "Koby #1755",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1755.png",
 
@@ -52655,7 +52655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1756",
     "name": "Koby #1756",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1756.png",
 
@@ -52685,7 +52685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1757",
     "name": "Koby #1757",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1757.png",
 
@@ -52715,7 +52715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1758",
     "name": "Koby #1758",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1758.png",
 
@@ -52745,7 +52745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1759",
     "name": "Koby #1759",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1759.png",
 
@@ -52775,7 +52775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1760",
     "name": "Koby #1760",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1760.png",
 
@@ -52805,7 +52805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1761",
     "name": "Koby #1761",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1761.png",
 
@@ -52835,7 +52835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1762",
     "name": "Koby #1762",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1762.png",
 
@@ -52865,7 +52865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1763",
     "name": "Koby #1763",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1763.png",
 
@@ -52895,7 +52895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1764",
     "name": "Koby #1764",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1764.png",
 
@@ -52925,7 +52925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1765",
     "name": "Koby #1765",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1765.png",
 
@@ -52955,7 +52955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1766",
     "name": "Koby #1766",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1766.png",
 
@@ -52985,7 +52985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1767",
     "name": "Koby #1767",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1767.png",
 
@@ -53015,7 +53015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1768",
     "name": "Koby #1768",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1768.png",
 
@@ -53045,7 +53045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1769",
     "name": "Koby #1769",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1769.png",
 
@@ -53075,7 +53075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1770",
     "name": "Koby #1770",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1770.png",
 
@@ -53105,7 +53105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1771",
     "name": "Koby #1771",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1771.png",
 
@@ -53135,7 +53135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1772",
     "name": "Koby #1772",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1772.png",
 
@@ -53165,7 +53165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1773",
     "name": "Koby #1773",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1773.png",
 
@@ -53195,7 +53195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1774",
     "name": "Koby #1774",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1774.png",
 
@@ -53225,7 +53225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1775",
     "name": "Koby #1775",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1775.png",
 
@@ -53255,7 +53255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1776",
     "name": "Koby #1776",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1776.png",
 
@@ -53285,7 +53285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1777",
     "name": "Koby #1777",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1777.png",
 
@@ -53315,7 +53315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1778",
     "name": "Koby #1778",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1778.png",
 
@@ -53345,7 +53345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1779",
     "name": "Koby #1779",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1779.png",
 
@@ -53375,7 +53375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1780",
     "name": "Koby #1780",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1780.png",
 
@@ -53405,7 +53405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1781",
     "name": "Koby #1781",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1781.png",
 
@@ -53435,7 +53435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1782",
     "name": "Koby #1782",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1782.png",
 
@@ -53465,7 +53465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1783",
     "name": "Koby #1783",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1783.png",
 
@@ -53495,7 +53495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1784",
     "name": "Koby #1784",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1784.png",
 
@@ -53525,7 +53525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1785",
     "name": "Koby #1785",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1785.png",
 
@@ -53555,7 +53555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1786",
     "name": "Koby #1786",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1786.png",
 
@@ -53585,7 +53585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1787",
     "name": "Koby #1787",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1787.png",
 
@@ -53615,7 +53615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1788",
     "name": "Koby #1788",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1788.png",
 
@@ -53645,7 +53645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1789",
     "name": "Koby #1789",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1789.png",
 
@@ -53675,7 +53675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1790",
     "name": "Koby #1790",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1790.png",
 
@@ -53705,7 +53705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1791",
     "name": "Koby #1791",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1791.png",
 
@@ -53735,7 +53735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1792",
     "name": "Koby #1792",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1792.png",
 
@@ -53765,7 +53765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1793",
     "name": "Koby #1793",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1793.png",
 
@@ -53795,7 +53795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1794",
     "name": "Koby #1794",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1794.png",
 
@@ -53825,7 +53825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1795",
     "name": "Koby #1795",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1795.png",
 
@@ -53855,7 +53855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1796",
     "name": "Koby #1796",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1796.png",
 
@@ -53885,7 +53885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1797",
     "name": "Koby #1797",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1797.png",
 
@@ -53915,7 +53915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1798",
     "name": "Koby #1798",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1798.png",
 
@@ -53945,7 +53945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1799",
     "name": "Koby #1799",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1799.png",
 
@@ -53975,7 +53975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1800",
     "name": "Koby #1800",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1800.png",
 
@@ -54005,7 +54005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1801",
     "name": "Koby #1801",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1801.png",
 
@@ -54035,7 +54035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1802",
     "name": "Koby #1802",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1802.png",
 
@@ -54065,7 +54065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1803",
     "name": "Koby #1803",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1803.png",
 
@@ -54095,7 +54095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1804",
     "name": "Koby #1804",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1804.png",
 
@@ -54125,7 +54125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1805",
     "name": "Koby #1805",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1805.png",
 
@@ -54155,7 +54155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1806",
     "name": "Koby #1806",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1806.png",
 
@@ -54185,7 +54185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1807",
     "name": "Koby #1807",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1807.png",
 
@@ -54215,7 +54215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1808",
     "name": "Koby #1808",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1808.png",
 
@@ -54245,7 +54245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1809",
     "name": "Koby #1809",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1809.png",
 
@@ -54275,7 +54275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1810",
     "name": "Koby #1810",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1810.png",
 
@@ -54305,7 +54305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1811",
     "name": "Koby #1811",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1811.png",
 
@@ -54335,7 +54335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1812",
     "name": "Koby #1812",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1812.png",
 
@@ -54365,7 +54365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1813",
     "name": "Koby #1813",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1813.png",
 
@@ -54395,7 +54395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1814",
     "name": "Koby #1814",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1814.png",
 
@@ -54425,7 +54425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1815",
     "name": "Koby #1815",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1815.png",
 
@@ -54455,7 +54455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1816",
     "name": "Koby #1816",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1816.png",
 
@@ -54485,7 +54485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1817",
     "name": "Koby #1817",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1817.png",
 
@@ -54515,7 +54515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1818",
     "name": "Koby #1818",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1818.png",
 
@@ -54545,7 +54545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1819",
     "name": "Koby #1819",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1819.png",
 
@@ -54575,7 +54575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1820",
     "name": "Koby #1820",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1820.png",
 
@@ -54605,7 +54605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1821",
     "name": "Koby #1821",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1821.png",
 
@@ -54635,7 +54635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1822",
     "name": "Koby #1822",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1822.png",
 
@@ -54665,7 +54665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1823",
     "name": "Koby #1823",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1823.png",
 
@@ -54695,7 +54695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1824",
     "name": "Koby #1824",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1824.png",
 
@@ -54725,7 +54725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1825",
     "name": "Koby #1825",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1825.png",
 
@@ -54755,7 +54755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1826",
     "name": "Koby #1826",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1826.png",
 
@@ -54785,7 +54785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1827",
     "name": "Koby #1827",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1827.png",
 
@@ -54815,7 +54815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1828",
     "name": "Koby #1828",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1828.png",
 
@@ -54845,7 +54845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1829",
     "name": "Koby #1829",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1829.png",
 
@@ -54875,7 +54875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1830",
     "name": "Koby #1830",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1830.png",
 
@@ -54905,7 +54905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1831",
     "name": "Koby #1831",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1831.png",
 
@@ -54935,7 +54935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1832",
     "name": "Koby #1832",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1832.png",
 
@@ -54965,7 +54965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1833",
     "name": "Koby #1833",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1833.png",
 
@@ -54995,7 +54995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1834",
     "name": "Koby #1834",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1834.png",
 
@@ -55025,7 +55025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1835",
     "name": "Koby #1835",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1835.png",
 
@@ -55055,7 +55055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1836",
     "name": "Koby #1836",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1836.png",
 
@@ -55085,7 +55085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1837",
     "name": "Koby #1837",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1837.png",
 
@@ -55115,7 +55115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1838",
     "name": "Koby #1838",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1838.png",
 
@@ -55145,7 +55145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1839",
     "name": "Koby #1839",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1839.png",
 
@@ -55175,7 +55175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1840",
     "name": "Koby #1840",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1840.png",
 
@@ -55205,7 +55205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1841",
     "name": "Koby #1841",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1841.png",
 
@@ -55235,7 +55235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1842",
     "name": "Koby #1842",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1842.png",
 
@@ -55265,7 +55265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1843",
     "name": "Koby #1843",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1843.png",
 
@@ -55295,7 +55295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1844",
     "name": "Koby #1844",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1844.png",
 
@@ -55325,7 +55325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1845",
     "name": "Koby #1845",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1845.png",
 
@@ -55355,7 +55355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1846",
     "name": "Koby #1846",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1846.png",
 
@@ -55385,7 +55385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1847",
     "name": "Koby #1847",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1847.png",
 
@@ -55415,7 +55415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1848",
     "name": "Koby #1848",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1848.png",
 
@@ -55445,7 +55445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1849",
     "name": "Koby #1849",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1849.png",
 
@@ -55475,7 +55475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1850",
     "name": "Koby #1850",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1850.png",
 
@@ -55505,7 +55505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1851",
     "name": "Koby #1851",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1851.png",
 
@@ -55535,7 +55535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1852",
     "name": "Koby #1852",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1852.png",
 
@@ -55565,7 +55565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1853",
     "name": "Koby #1853",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1853.png",
 
@@ -55595,7 +55595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1854",
     "name": "Koby #1854",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1854.png",
 
@@ -55625,7 +55625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1855",
     "name": "Koby #1855",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1855.png",
 
@@ -55655,7 +55655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1856",
     "name": "Koby #1856",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1856.png",
 
@@ -55685,7 +55685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1857",
     "name": "Koby #1857",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1857.png",
 
@@ -55715,7 +55715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1858",
     "name": "Koby #1858",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1858.png",
 
@@ -55745,7 +55745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1859",
     "name": "Koby #1859",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1859.png",
 
@@ -55775,7 +55775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1860",
     "name": "Koby #1860",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1860.png",
 
@@ -55805,7 +55805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1861",
     "name": "Koby #1861",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1861.png",
 
@@ -55835,7 +55835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1862",
     "name": "Koby #1862",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1862.png",
 
@@ -55865,7 +55865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1863",
     "name": "Koby #1863",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1863.png",
 
@@ -55895,7 +55895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1864",
     "name": "Koby #1864",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1864.png",
 
@@ -55925,7 +55925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1865",
     "name": "Koby #1865",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1865.png",
 
@@ -55955,7 +55955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1866",
     "name": "Koby #1866",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1866.png",
 
@@ -55985,7 +55985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1867",
     "name": "Koby #1867",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1867.png",
 
@@ -56015,7 +56015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1868",
     "name": "Koby #1868",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1868.png",
 
@@ -56045,7 +56045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1869",
     "name": "Koby #1869",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1869.png",
 
@@ -56075,7 +56075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1870",
     "name": "Koby #1870",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1870.png",
 
@@ -56105,7 +56105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1871",
     "name": "Koby #1871",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1871.png",
 
@@ -56135,7 +56135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1872",
     "name": "Koby #1872",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1872.png",
 
@@ -56165,7 +56165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1873",
     "name": "Koby #1873",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1873.png",
 
@@ -56195,7 +56195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1874",
     "name": "Koby #1874",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1874.png",
 
@@ -56225,7 +56225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1875",
     "name": "Koby #1875",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1875.png",
 
@@ -56255,7 +56255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1876",
     "name": "Koby #1876",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1876.png",
 
@@ -56285,7 +56285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1877",
     "name": "Koby #1877",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1877.png",
 
@@ -56315,7 +56315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1878",
     "name": "Koby #1878",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1878.png",
 
@@ -56345,7 +56345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1879",
     "name": "Koby #1879",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1879.png",
 
@@ -56375,7 +56375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1880",
     "name": "Koby #1880",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1880.png",
 
@@ -56405,7 +56405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1881",
     "name": "Koby #1881",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1881.png",
 
@@ -56435,7 +56435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1882",
     "name": "Koby #1882",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1882.png",
 
@@ -56465,7 +56465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1883",
     "name": "Koby #1883",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1883.png",
 
@@ -56495,7 +56495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1884",
     "name": "Koby #1884",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1884.png",
 
@@ -56525,7 +56525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1885",
     "name": "Koby #1885",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1885.png",
 
@@ -56555,7 +56555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1886",
     "name": "Koby #1886",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1886.png",
 
@@ -56585,7 +56585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1887",
     "name": "Koby #1887",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1887.png",
 
@@ -56615,7 +56615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1888",
     "name": "Koby #1888",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1888.png",
 
@@ -56645,7 +56645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1889",
     "name": "Koby #1889",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1889.png",
 
@@ -56675,7 +56675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1890",
     "name": "Koby #1890",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1890.png",
 
@@ -56705,7 +56705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1891",
     "name": "Koby #1891",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1891.png",
 
@@ -56735,7 +56735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1892",
     "name": "Koby #1892",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1892.png",
 
@@ -56765,7 +56765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1893",
     "name": "Koby #1893",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1893.png",
 
@@ -56795,7 +56795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1894",
     "name": "Koby #1894",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1894.png",
 
@@ -56825,7 +56825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1895",
     "name": "Koby #1895",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1895.png",
 
@@ -56855,7 +56855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1896",
     "name": "Koby #1896",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1896.png",
 
@@ -56885,7 +56885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1897",
     "name": "Koby #1897",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1897.png",
 
@@ -56915,7 +56915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1898",
     "name": "Koby #1898",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1898.png",
 
@@ -56945,7 +56945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1899",
     "name": "Koby #1899",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1899.png",
 
@@ -56975,7 +56975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1900",
     "name": "Koby #1900",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1900.png",
 
@@ -57005,7 +57005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1901",
     "name": "Koby #1901",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1901.png",
 
@@ -57035,7 +57035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1902",
     "name": "Koby #1902",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1902.png",
 
@@ -57065,7 +57065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1903",
     "name": "Koby #1903",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1903.png",
 
@@ -57095,7 +57095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1904",
     "name": "Koby #1904",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1904.png",
 
@@ -57125,7 +57125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1905",
     "name": "Koby #1905",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1905.png",
 
@@ -57155,7 +57155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1906",
     "name": "Koby #1906",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1906.png",
 
@@ -57185,7 +57185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1907",
     "name": "Koby #1907",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1907.png",
 
@@ -57215,7 +57215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1908",
     "name": "Koby #1908",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1908.png",
 
@@ -57245,7 +57245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1909",
     "name": "Koby #1909",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1909.png",
 
@@ -57275,7 +57275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1910",
     "name": "Koby #1910",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1910.png",
 
@@ -57305,7 +57305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1911",
     "name": "Koby #1911",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1911.png",
 
@@ -57335,7 +57335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1912",
     "name": "Koby #1912",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1912.png",
 
@@ -57365,7 +57365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1913",
     "name": "Koby #1913",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1913.png",
 
@@ -57395,7 +57395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1914",
     "name": "Koby #1914",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1914.png",
 
@@ -57425,7 +57425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1915",
     "name": "Koby #1915",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1915.png",
 
@@ -57455,7 +57455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1916",
     "name": "Koby #1916",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1916.png",
 
@@ -57485,7 +57485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1917",
     "name": "Koby #1917",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1917.png",
 
@@ -57515,7 +57515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1918",
     "name": "Koby #1918",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1918.png",
 
@@ -57545,7 +57545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1919",
     "name": "Koby #1919",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1919.png",
 
@@ -57575,7 +57575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1920",
     "name": "Koby #1920",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1920.png",
 
@@ -57605,7 +57605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1921",
     "name": "Koby #1921",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1921.png",
 
@@ -57635,7 +57635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1922",
     "name": "Koby #1922",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1922.png",
 
@@ -57665,7 +57665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1923",
     "name": "Koby #1923",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1923.png",
 
@@ -57695,7 +57695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1924",
     "name": "Koby #1924",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1924.png",
 
@@ -57725,7 +57725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1925",
     "name": "Koby #1925",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1925.png",
 
@@ -57755,7 +57755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1926",
     "name": "Koby #1926",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1926.png",
 
@@ -57785,7 +57785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1927",
     "name": "Koby #1927",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1927.png",
 
@@ -57815,7 +57815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1928",
     "name": "Koby #1928",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1928.png",
 
@@ -57845,7 +57845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1929",
     "name": "Koby #1929",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1929.png",
 
@@ -57875,7 +57875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1930",
     "name": "Koby #1930",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1930.png",
 
@@ -57905,7 +57905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1931",
     "name": "Koby #1931",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1931.png",
 
@@ -57935,7 +57935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1932",
     "name": "Koby #1932",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1932.png",
 
@@ -57965,7 +57965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1933",
     "name": "Koby #1933",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1933.png",
 
@@ -57995,7 +57995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1934",
     "name": "Koby #1934",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1934.png",
 
@@ -58025,7 +58025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1935",
     "name": "Koby #1935",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1935.png",
 
@@ -58055,7 +58055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1936",
     "name": "Koby #1936",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1936.png",
 
@@ -58085,7 +58085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1937",
     "name": "Koby #1937",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1937.png",
 
@@ -58115,7 +58115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1938",
     "name": "Koby #1938",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1938.png",
 
@@ -58145,7 +58145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1939",
     "name": "Koby #1939",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1939.png",
 
@@ -58175,7 +58175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1940",
     "name": "Koby #1940",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1940.png",
 
@@ -58205,7 +58205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1941",
     "name": "Koby #1941",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1941.png",
 
@@ -58235,7 +58235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1942",
     "name": "Koby #1942",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1942.png",
 
@@ -58265,7 +58265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1943",
     "name": "Koby #1943",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1943.png",
 
@@ -58295,7 +58295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1944",
     "name": "Koby #1944",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1944.png",
 
@@ -58325,7 +58325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1945",
     "name": "Koby #1945",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1945.png",
 
@@ -58355,7 +58355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1946",
     "name": "Koby #1946",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1946.png",
 
@@ -58385,7 +58385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1947",
     "name": "Koby #1947",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1947.png",
 
@@ -58415,7 +58415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1948",
     "name": "Koby #1948",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1948.png",
 
@@ -58445,7 +58445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1949",
     "name": "Koby #1949",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1949.png",
 
@@ -58475,7 +58475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1950",
     "name": "Koby #1950",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1950.png",
 
@@ -58505,7 +58505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1951",
     "name": "Koby #1951",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1951.png",
 
@@ -58535,7 +58535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1952",
     "name": "Koby #1952",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1952.png",
 
@@ -58565,7 +58565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1953",
     "name": "Koby #1953",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1953.png",
 
@@ -58595,7 +58595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1954",
     "name": "Koby #1954",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1954.png",
 
@@ -58625,7 +58625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1955",
     "name": "Koby #1955",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1955.png",
 
@@ -58655,7 +58655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1956",
     "name": "Koby #1956",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1956.png",
 
@@ -58685,7 +58685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1957",
     "name": "Koby #1957",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1957.png",
 
@@ -58715,7 +58715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1958",
     "name": "Koby #1958",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1958.png",
 
@@ -58745,7 +58745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1959",
     "name": "Koby #1959",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1959.png",
 
@@ -58775,7 +58775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1960",
     "name": "Koby #1960",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1960.png",
 
@@ -58805,7 +58805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1961",
     "name": "Koby #1961",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1961.png",
 
@@ -58835,7 +58835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1962",
     "name": "Koby #1962",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1962.png",
 
@@ -58865,7 +58865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1963",
     "name": "Koby #1963",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1963.png",
 
@@ -58895,7 +58895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1964",
     "name": "Koby #1964",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1964.png",
 
@@ -58925,7 +58925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1965",
     "name": "Koby #1965",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1965.png",
 
@@ -58955,7 +58955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1966",
     "name": "Koby #1966",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1966.png",
 
@@ -58985,7 +58985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1967",
     "name": "Koby #1967",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1967.png",
 
@@ -59015,7 +59015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1968",
     "name": "Koby #1968",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1968.png",
 
@@ -59045,7 +59045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1969",
     "name": "Koby #1969",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1969.png",
 
@@ -59075,7 +59075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1970",
     "name": "Koby #1970",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1970.png",
 
@@ -59105,7 +59105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1971",
     "name": "Koby #1971",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1971.png",
 
@@ -59135,7 +59135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1972",
     "name": "Koby #1972",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1972.png",
 
@@ -59165,7 +59165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1973",
     "name": "Koby #1973",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1973.png",
 
@@ -59195,7 +59195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1974",
     "name": "Koby #1974",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1974.png",
 
@@ -59225,7 +59225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1975",
     "name": "Koby #1975",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1975.png",
 
@@ -59255,7 +59255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1976",
     "name": "Koby #1976",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1976.png",
 
@@ -59285,7 +59285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1977",
     "name": "Koby #1977",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1977.png",
 
@@ -59315,7 +59315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1978",
     "name": "Koby #1978",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1978.png",
 
@@ -59345,7 +59345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1979",
     "name": "Koby #1979",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1979.png",
 
@@ -59375,7 +59375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1980",
     "name": "Koby #1980",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1980.png",
 
@@ -59405,7 +59405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1981",
     "name": "Koby #1981",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1981.png",
 
@@ -59435,7 +59435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1982",
     "name": "Koby #1982",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1982.png",
 
@@ -59465,7 +59465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1983",
     "name": "Koby #1983",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1983.png",
 
@@ -59495,7 +59495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1984",
     "name": "Koby #1984",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1984.png",
 
@@ -59525,7 +59525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1985",
     "name": "Koby #1985",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1985.png",
 
@@ -59555,7 +59555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1986",
     "name": "Koby #1986",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1986.png",
 
@@ -59585,7 +59585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1987",
     "name": "Koby #1987",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1987.png",
 
@@ -59615,7 +59615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1988",
     "name": "Koby #1988",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1988.png",
 
@@ -59645,7 +59645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1989",
     "name": "Koby #1989",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1989.png",
 
@@ -59675,7 +59675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1990",
     "name": "Koby #1990",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1990.png",
 
@@ -59705,7 +59705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1991",
     "name": "Koby #1991",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1991.png",
 
@@ -59735,7 +59735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1992",
     "name": "Koby #1992",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1992.png",
 
@@ -59765,7 +59765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1993",
     "name": "Koby #1993",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1993.png",
 
@@ -59795,7 +59795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1994",
     "name": "Koby #1994",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1994.png",
 
@@ -59825,7 +59825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1995",
     "name": "Koby #1995",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1995.png",
 
@@ -59855,7 +59855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1996",
     "name": "Koby #1996",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1996.png",
 
@@ -59885,7 +59885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1997",
     "name": "Koby #1997",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1997.png",
 
@@ -59915,7 +59915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1998",
     "name": "Koby #1998",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1998.png",
 
@@ -59945,7 +59945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "1999",
     "name": "Koby #1999",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/1999.png",
 
@@ -59975,7 +59975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2000",
     "name": "Koby #2000",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2000.png",
 
@@ -60005,7 +60005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2001",
     "name": "Koby #2001",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2001.png",
 
@@ -60035,7 +60035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2002",
     "name": "Koby #2002",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2002.png",
 
@@ -60065,7 +60065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2003",
     "name": "Koby #2003",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2003.png",
 
@@ -60095,7 +60095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2004",
     "name": "Koby #2004",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2004.png",
 
@@ -60125,7 +60125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2005",
     "name": "Koby #2005",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2005.png",
 
@@ -60155,7 +60155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2006",
     "name": "Koby #2006",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2006.png",
 
@@ -60185,7 +60185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2007",
     "name": "Koby #2007",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2007.png",
 
@@ -60215,7 +60215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2008",
     "name": "Koby #2008",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2008.png",
 
@@ -60245,7 +60245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2009",
     "name": "Koby #2009",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2009.png",
 
@@ -60275,7 +60275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2010",
     "name": "Koby #2010",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2010.png",
 
@@ -60305,7 +60305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2011",
     "name": "Koby #2011",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2011.png",
 
@@ -60335,7 +60335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2012",
     "name": "Koby #2012",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2012.png",
 
@@ -60365,7 +60365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2013",
     "name": "Koby #2013",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2013.png",
 
@@ -60395,7 +60395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2014",
     "name": "Koby #2014",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2014.png",
 
@@ -60425,7 +60425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2015",
     "name": "Koby #2015",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2015.png",
 
@@ -60455,7 +60455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2016",
     "name": "Koby #2016",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2016.png",
 
@@ -60485,7 +60485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2017",
     "name": "Koby #2017",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2017.png",
 
@@ -60515,7 +60515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2018",
     "name": "Koby #2018",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2018.png",
 
@@ -60545,7 +60545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2019",
     "name": "Koby #2019",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2019.png",
 
@@ -60575,7 +60575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2020",
     "name": "Koby #2020",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2020.png",
 
@@ -60605,7 +60605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2021",
     "name": "Koby #2021",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2021.png",
 
@@ -60635,7 +60635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2022",
     "name": "Koby #2022",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2022.png",
 
@@ -60665,7 +60665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2023",
     "name": "Koby #2023",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2023.png",
 
@@ -60695,7 +60695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2024",
     "name": "Koby #2024",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2024.png",
 
@@ -60725,7 +60725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2025",
     "name": "Koby #2025",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2025.png",
 
@@ -60755,7 +60755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2026",
     "name": "Koby #2026",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2026.png",
 
@@ -60785,7 +60785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2027",
     "name": "Koby #2027",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2027.png",
 
@@ -60815,7 +60815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2028",
     "name": "Koby #2028",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2028.png",
 
@@ -60845,7 +60845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2029",
     "name": "Koby #2029",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2029.png",
 
@@ -60875,7 +60875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2030",
     "name": "Koby #2030",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2030.png",
 
@@ -60905,7 +60905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2031",
     "name": "Koby #2031",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2031.png",
 
@@ -60935,7 +60935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2032",
     "name": "Koby #2032",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2032.png",
 
@@ -60965,7 +60965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2033",
     "name": "Koby #2033",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2033.png",
 
@@ -60995,7 +60995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2034",
     "name": "Koby #2034",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2034.png",
 
@@ -61025,7 +61025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2035",
     "name": "Koby #2035",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2035.png",
 
@@ -61055,7 +61055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2036",
     "name": "Koby #2036",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2036.png",
 
@@ -61085,7 +61085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2037",
     "name": "Koby #2037",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2037.png",
 
@@ -61115,7 +61115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2038",
     "name": "Koby #2038",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2038.png",
 
@@ -61145,7 +61145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2039",
     "name": "Koby #2039",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2039.png",
 
@@ -61175,7 +61175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2040",
     "name": "Koby #2040",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2040.png",
 
@@ -61205,7 +61205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2041",
     "name": "Koby #2041",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2041.png",
 
@@ -61235,7 +61235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2042",
     "name": "Koby #2042",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2042.png",
 
@@ -61265,7 +61265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2043",
     "name": "Koby #2043",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2043.png",
 
@@ -61295,7 +61295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2044",
     "name": "Koby #2044",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2044.png",
 
@@ -61325,7 +61325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2045",
     "name": "Koby #2045",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2045.png",
 
@@ -61355,7 +61355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2046",
     "name": "Koby #2046",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2046.png",
 
@@ -61385,7 +61385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2047",
     "name": "Koby #2047",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2047.png",
 
@@ -61415,7 +61415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2048",
     "name": "Koby #2048",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2048.png",
 
@@ -61445,7 +61445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2049",
     "name": "Koby #2049",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2049.png",
 
@@ -61475,7 +61475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2050",
     "name": "Koby #2050",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2050.png",
 
@@ -61505,7 +61505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2051",
     "name": "Koby #2051",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2051.png",
 
@@ -61535,7 +61535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2052",
     "name": "Koby #2052",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2052.png",
 
@@ -61565,7 +61565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2053",
     "name": "Koby #2053",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2053.png",
 
@@ -61595,7 +61595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2054",
     "name": "Koby #2054",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2054.png",
 
@@ -61625,7 +61625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2055",
     "name": "Koby #2055",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2055.png",
 
@@ -61655,7 +61655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2056",
     "name": "Koby #2056",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2056.png",
 
@@ -61685,7 +61685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2057",
     "name": "Koby #2057",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2057.png",
 
@@ -61715,7 +61715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2058",
     "name": "Koby #2058",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2058.png",
 
@@ -61745,7 +61745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2059",
     "name": "Koby #2059",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2059.png",
 
@@ -61775,7 +61775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2060",
     "name": "Koby #2060",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2060.png",
 
@@ -61805,7 +61805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2061",
     "name": "Koby #2061",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2061.png",
 
@@ -61835,7 +61835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2062",
     "name": "Koby #2062",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2062.png",
 
@@ -61865,7 +61865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2063",
     "name": "Koby #2063",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2063.png",
 
@@ -61895,7 +61895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2064",
     "name": "Koby #2064",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2064.png",
 
@@ -61925,7 +61925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2065",
     "name": "Koby #2065",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2065.png",
 
@@ -61955,7 +61955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2066",
     "name": "Koby #2066",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2066.png",
 
@@ -61985,7 +61985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2067",
     "name": "Koby #2067",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2067.png",
 
@@ -62015,7 +62015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2068",
     "name": "Koby #2068",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2068.png",
 
@@ -62045,7 +62045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2069",
     "name": "Koby #2069",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2069.png",
 
@@ -62075,7 +62075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2070",
     "name": "Koby #2070",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2070.png",
 
@@ -62105,7 +62105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2071",
     "name": "Koby #2071",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2071.png",
 
@@ -62135,7 +62135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2072",
     "name": "Koby #2072",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2072.png",
 
@@ -62165,7 +62165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2073",
     "name": "Koby #2073",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2073.png",
 
@@ -62195,7 +62195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2074",
     "name": "Koby #2074",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2074.png",
 
@@ -62225,7 +62225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2075",
     "name": "Koby #2075",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2075.png",
 
@@ -62255,7 +62255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2076",
     "name": "Koby #2076",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2076.png",
 
@@ -62285,7 +62285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2077",
     "name": "Koby #2077",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2077.png",
 
@@ -62315,7 +62315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2078",
     "name": "Koby #2078",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2078.png",
 
@@ -62345,7 +62345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2079",
     "name": "Koby #2079",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2079.png",
 
@@ -62375,7 +62375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2080",
     "name": "Koby #2080",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2080.png",
 
@@ -62405,7 +62405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2081",
     "name": "Koby #2081",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2081.png",
 
@@ -62435,7 +62435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2082",
     "name": "Koby #2082",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2082.png",
 
@@ -62465,7 +62465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2083",
     "name": "Koby #2083",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2083.png",
 
@@ -62495,7 +62495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2084",
     "name": "Koby #2084",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2084.png",
 
@@ -62525,7 +62525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2085",
     "name": "Koby #2085",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2085.png",
 
@@ -62555,7 +62555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2086",
     "name": "Koby #2086",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2086.png",
 
@@ -62585,7 +62585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2087",
     "name": "Koby #2087",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2087.png",
 
@@ -62615,7 +62615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2088",
     "name": "Koby #2088",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2088.png",
 
@@ -62645,7 +62645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2089",
     "name": "Koby #2089",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2089.png",
 
@@ -62675,7 +62675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2090",
     "name": "Koby #2090",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2090.png",
 
@@ -62705,7 +62705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2091",
     "name": "Koby #2091",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2091.png",
 
@@ -62735,7 +62735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2092",
     "name": "Koby #2092",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2092.png",
 
@@ -62765,7 +62765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2093",
     "name": "Koby #2093",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2093.png",
 
@@ -62795,7 +62795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2094",
     "name": "Koby #2094",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2094.png",
 
@@ -62825,7 +62825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2095",
     "name": "Koby #2095",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2095.png",
 
@@ -62855,7 +62855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2096",
     "name": "Koby #2096",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2096.png",
 
@@ -62885,7 +62885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2097",
     "name": "Koby #2097",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2097.png",
 
@@ -62915,7 +62915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2098",
     "name": "Koby #2098",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2098.png",
 
@@ -62945,7 +62945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2099",
     "name": "Koby #2099",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2099.png",
 
@@ -62975,7 +62975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2100",
     "name": "Koby #2100",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2100.png",
 
@@ -63005,7 +63005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2101",
     "name": "Koby #2101",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2101.png",
 
@@ -63035,7 +63035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2102",
     "name": "Koby #2102",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2102.png",
 
@@ -63065,7 +63065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2103",
     "name": "Koby #2103",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2103.png",
 
@@ -63095,7 +63095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2104",
     "name": "Koby #2104",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2104.png",
 
@@ -63125,7 +63125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2105",
     "name": "Koby #2105",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2105.png",
 
@@ -63155,7 +63155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2106",
     "name": "Koby #2106",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2106.png",
 
@@ -63185,7 +63185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2107",
     "name": "Koby #2107",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2107.png",
 
@@ -63215,7 +63215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2108",
     "name": "Koby #2108",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2108.png",
 
@@ -63245,7 +63245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2109",
     "name": "Koby #2109",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2109.png",
 
@@ -63275,7 +63275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2110",
     "name": "Koby #2110",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2110.png",
 
@@ -63305,7 +63305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2111",
     "name": "Koby #2111",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2111.png",
 
@@ -63335,7 +63335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2112",
     "name": "Koby #2112",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2112.png",
 
@@ -63365,7 +63365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2113",
     "name": "Koby #2113",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2113.png",
 
@@ -63395,7 +63395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2114",
     "name": "Koby #2114",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2114.png",
 
@@ -63425,7 +63425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2115",
     "name": "Koby #2115",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2115.png",
 
@@ -63455,7 +63455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2116",
     "name": "Koby #2116",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2116.png",
 
@@ -63485,7 +63485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2117",
     "name": "Koby #2117",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2117.png",
 
@@ -63515,7 +63515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2118",
     "name": "Koby #2118",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2118.png",
 
@@ -63545,7 +63545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2119",
     "name": "Koby #2119",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2119.png",
 
@@ -63575,7 +63575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2120",
     "name": "Koby #2120",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2120.png",
 
@@ -63605,7 +63605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2121",
     "name": "Koby #2121",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2121.png",
 
@@ -63635,7 +63635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2122",
     "name": "Koby #2122",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2122.png",
 
@@ -63665,7 +63665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2123",
     "name": "Koby #2123",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2123.png",
 
@@ -63695,7 +63695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2124",
     "name": "Koby #2124",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2124.png",
 
@@ -63725,7 +63725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2125",
     "name": "Koby #2125",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2125.png",
 
@@ -63755,7 +63755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2126",
     "name": "Koby #2126",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2126.png",
 
@@ -63785,7 +63785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2127",
     "name": "Koby #2127",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2127.png",
 
@@ -63815,7 +63815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2128",
     "name": "Koby #2128",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2128.png",
 
@@ -63845,7 +63845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2129",
     "name": "Koby #2129",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2129.png",
 
@@ -63875,7 +63875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2130",
     "name": "Koby #2130",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2130.png",
 
@@ -63905,7 +63905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2131",
     "name": "Koby #2131",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2131.png",
 
@@ -63935,7 +63935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2132",
     "name": "Koby #2132",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2132.png",
 
@@ -63965,7 +63965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2133",
     "name": "Koby #2133",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2133.png",
 
@@ -63995,7 +63995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2134",
     "name": "Koby #2134",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2134.png",
 
@@ -64025,7 +64025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2135",
     "name": "Koby #2135",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2135.png",
 
@@ -64055,7 +64055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2136",
     "name": "Koby #2136",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2136.png",
 
@@ -64085,7 +64085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2137",
     "name": "Koby #2137",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2137.png",
 
@@ -64115,7 +64115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2138",
     "name": "Koby #2138",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2138.png",
 
@@ -64145,7 +64145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2139",
     "name": "Koby #2139",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2139.png",
 
@@ -64175,7 +64175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2140",
     "name": "Koby #2140",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2140.png",
 
@@ -64205,7 +64205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2141",
     "name": "Koby #2141",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2141.png",
 
@@ -64235,7 +64235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2142",
     "name": "Koby #2142",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2142.png",
 
@@ -64265,7 +64265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2143",
     "name": "Koby #2143",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2143.png",
 
@@ -64295,7 +64295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2144",
     "name": "Koby #2144",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2144.png",
 
@@ -64325,7 +64325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2145",
     "name": "Koby #2145",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2145.png",
 
@@ -64355,7 +64355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2146",
     "name": "Koby #2146",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2146.png",
 
@@ -64385,7 +64385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2147",
     "name": "Koby #2147",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2147.png",
 
@@ -64415,7 +64415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2148",
     "name": "Koby #2148",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2148.png",
 
@@ -64445,7 +64445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2149",
     "name": "Koby #2149",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2149.png",
 
@@ -64475,7 +64475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2150",
     "name": "Koby #2150",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2150.png",
 
@@ -64505,7 +64505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2151",
     "name": "Koby #2151",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2151.png",
 
@@ -64535,7 +64535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2152",
     "name": "Koby #2152",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2152.png",
 
@@ -64565,7 +64565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2153",
     "name": "Koby #2153",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2153.png",
 
@@ -64595,7 +64595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2154",
     "name": "Koby #2154",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2154.png",
 
@@ -64625,7 +64625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2155",
     "name": "Koby #2155",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2155.png",
 
@@ -64655,7 +64655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2156",
     "name": "Koby #2156",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2156.png",
 
@@ -64685,7 +64685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2157",
     "name": "Koby #2157",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2157.png",
 
@@ -64715,7 +64715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2158",
     "name": "Koby #2158",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2158.png",
 
@@ -64745,7 +64745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2159",
     "name": "Koby #2159",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2159.png",
 
@@ -64775,7 +64775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2160",
     "name": "Koby #2160",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2160.png",
 
@@ -64805,7 +64805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2161",
     "name": "Koby #2161",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2161.png",
 
@@ -64835,7 +64835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2162",
     "name": "Koby #2162",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2162.png",
 
@@ -64865,7 +64865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2163",
     "name": "Koby #2163",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2163.png",
 
@@ -64895,7 +64895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2164",
     "name": "Koby #2164",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2164.png",
 
@@ -64925,7 +64925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2165",
     "name": "Koby #2165",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2165.png",
 
@@ -64955,7 +64955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2166",
     "name": "Koby #2166",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2166.png",
 
@@ -64985,7 +64985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2167",
     "name": "Koby #2167",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2167.png",
 
@@ -65015,7 +65015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2168",
     "name": "Koby #2168",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2168.png",
 
@@ -65045,7 +65045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2169",
     "name": "Koby #2169",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2169.png",
 
@@ -65075,7 +65075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2170",
     "name": "Koby #2170",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2170.png",
 
@@ -65105,7 +65105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2171",
     "name": "Koby #2171",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2171.png",
 
@@ -65135,7 +65135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2172",
     "name": "Koby #2172",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2172.png",
 
@@ -65165,7 +65165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2173",
     "name": "Koby #2173",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2173.png",
 
@@ -65195,7 +65195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2174",
     "name": "Koby #2174",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2174.png",
 
@@ -65225,7 +65225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2175",
     "name": "Koby #2175",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2175.png",
 
@@ -65255,7 +65255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2176",
     "name": "Koby #2176",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2176.png",
 
@@ -65285,7 +65285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2177",
     "name": "Koby #2177",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2177.png",
 
@@ -65315,7 +65315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2178",
     "name": "Koby #2178",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2178.png",
 
@@ -65345,7 +65345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2179",
     "name": "Koby #2179",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2179.png",
 
@@ -65375,7 +65375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2180",
     "name": "Koby #2180",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2180.png",
 
@@ -65405,7 +65405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2181",
     "name": "Koby #2181",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2181.png",
 
@@ -65435,7 +65435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2182",
     "name": "Koby #2182",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2182.png",
 
@@ -65465,7 +65465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2183",
     "name": "Koby #2183",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2183.png",
 
@@ -65495,7 +65495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2184",
     "name": "Koby #2184",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2184.png",
 
@@ -65525,7 +65525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2185",
     "name": "Koby #2185",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2185.png",
 
@@ -65555,7 +65555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2186",
     "name": "Koby #2186",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2186.png",
 
@@ -65585,7 +65585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2187",
     "name": "Koby #2187",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2187.png",
 
@@ -65615,7 +65615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2188",
     "name": "Koby #2188",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2188.png",
 
@@ -65645,7 +65645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2189",
     "name": "Koby #2189",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2189.png",
 
@@ -65675,7 +65675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2190",
     "name": "Koby #2190",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2190.png",
 
@@ -65705,7 +65705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2191",
     "name": "Koby #2191",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2191.png",
 
@@ -65735,7 +65735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2192",
     "name": "Koby #2192",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2192.png",
 
@@ -65765,7 +65765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2193",
     "name": "Koby #2193",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2193.png",
 
@@ -65795,7 +65795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2194",
     "name": "Koby #2194",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2194.png",
 
@@ -65825,7 +65825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2195",
     "name": "Koby #2195",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2195.png",
 
@@ -65855,7 +65855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2196",
     "name": "Koby #2196",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2196.png",
 
@@ -65885,7 +65885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2197",
     "name": "Koby #2197",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2197.png",
 
@@ -65915,7 +65915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2198",
     "name": "Koby #2198",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2198.png",
 
@@ -65945,7 +65945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2199",
     "name": "Koby #2199",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2199.png",
 
@@ -65975,7 +65975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2200",
     "name": "Koby #2200",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2200.png",
 
@@ -66005,7 +66005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2201",
     "name": "Koby #2201",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2201.png",
 
@@ -66035,7 +66035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2202",
     "name": "Koby #2202",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2202.png",
 
@@ -66065,7 +66065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2203",
     "name": "Koby #2203",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2203.png",
 
@@ -66095,7 +66095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2204",
     "name": "Koby #2204",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2204.png",
 
@@ -66125,7 +66125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2205",
     "name": "Koby #2205",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2205.png",
 
@@ -66155,7 +66155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2206",
     "name": "Koby #2206",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2206.png",
 
@@ -66185,7 +66185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2207",
     "name": "Koby #2207",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2207.png",
 
@@ -66215,7 +66215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2208",
     "name": "Koby #2208",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2208.png",
 
@@ -66245,7 +66245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2209",
     "name": "Koby #2209",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2209.png",
 
@@ -66275,7 +66275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2210",
     "name": "Koby #2210",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2210.png",
 
@@ -66305,7 +66305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2211",
     "name": "Koby #2211",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2211.png",
 
@@ -66335,7 +66335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2212",
     "name": "Koby #2212",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2212.png",
 
@@ -66365,7 +66365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2213",
     "name": "Koby #2213",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2213.png",
 
@@ -66395,7 +66395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2214",
     "name": "Koby #2214",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2214.png",
 
@@ -66425,7 +66425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2215",
     "name": "Koby #2215",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2215.png",
 
@@ -66455,7 +66455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2216",
     "name": "Koby #2216",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2216.png",
 
@@ -66485,7 +66485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2217",
     "name": "Koby #2217",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2217.png",
 
@@ -66515,7 +66515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2218",
     "name": "Koby #2218",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2218.png",
 
@@ -66545,7 +66545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2219",
     "name": "Koby #2219",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2219.png",
 
@@ -66575,7 +66575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2220",
     "name": "Koby #2220",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2220.png",
 
@@ -66605,7 +66605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2221",
     "name": "Koby #2221",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2221.png",
 
@@ -66635,7 +66635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2222",
     "name": "Koby #2222",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2222.png",
 
@@ -66665,7 +66665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2223",
     "name": "Koby #2223",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2223.png",
 
@@ -66695,7 +66695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2224",
     "name": "Koby #2224",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2224.png",
 
@@ -66725,7 +66725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2225",
     "name": "Koby #2225",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2225.png",
 
@@ -66755,7 +66755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2226",
     "name": "Koby #2226",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2226.png",
 
@@ -66785,7 +66785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2227",
     "name": "Koby #2227",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2227.png",
 
@@ -66815,7 +66815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2228",
     "name": "Koby #2228",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2228.png",
 
@@ -66845,7 +66845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2229",
     "name": "Koby #2229",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2229.png",
 
@@ -66875,7 +66875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2230",
     "name": "Koby #2230",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2230.png",
 
@@ -66905,7 +66905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2231",
     "name": "Koby #2231",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2231.png",
 
@@ -66935,7 +66935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2232",
     "name": "Koby #2232",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2232.png",
 
@@ -66965,7 +66965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2233",
     "name": "Koby #2233",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2233.png",
 
@@ -66995,7 +66995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2234",
     "name": "Koby #2234",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2234.png",
 
@@ -67025,7 +67025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2235",
     "name": "Koby #2235",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2235.png",
 
@@ -67055,7 +67055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2236",
     "name": "Koby #2236",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2236.png",
 
@@ -67085,7 +67085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2237",
     "name": "Koby #2237",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2237.png",
 
@@ -67115,7 +67115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2238",
     "name": "Koby #2238",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2238.png",
 
@@ -67145,7 +67145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2239",
     "name": "Koby #2239",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2239.png",
 
@@ -67175,7 +67175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2240",
     "name": "Koby #2240",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2240.png",
 
@@ -67205,7 +67205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2241",
     "name": "Koby #2241",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2241.png",
 
@@ -67235,7 +67235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2242",
     "name": "Koby #2242",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2242.png",
 
@@ -67265,7 +67265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2243",
     "name": "Koby #2243",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2243.png",
 
@@ -67295,7 +67295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2244",
     "name": "Koby #2244",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2244.png",
 
@@ -67325,7 +67325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2245",
     "name": "Koby #2245",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2245.png",
 
@@ -67355,7 +67355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2246",
     "name": "Koby #2246",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2246.png",
 
@@ -67385,7 +67385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2247",
     "name": "Koby #2247",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2247.png",
 
@@ -67415,7 +67415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2248",
     "name": "Koby #2248",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2248.png",
 
@@ -67445,7 +67445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2249",
     "name": "Koby #2249",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2249.png",
 
@@ -67475,7 +67475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2250",
     "name": "Koby #2250",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2250.png",
 
@@ -67505,7 +67505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2251",
     "name": "Koby #2251",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2251.png",
 
@@ -67535,7 +67535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2252",
     "name": "Koby #2252",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2252.png",
 
@@ -67565,7 +67565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2253",
     "name": "Koby #2253",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2253.png",
 
@@ -67595,7 +67595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2254",
     "name": "Koby #2254",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2254.png",
 
@@ -67625,7 +67625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2255",
     "name": "Koby #2255",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2255.png",
 
@@ -67655,7 +67655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2256",
     "name": "Koby #2256",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2256.png",
 
@@ -67685,7 +67685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2257",
     "name": "Koby #2257",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2257.png",
 
@@ -67715,7 +67715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2258",
     "name": "Koby #2258",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2258.png",
 
@@ -67745,7 +67745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2259",
     "name": "Koby #2259",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2259.png",
 
@@ -67775,7 +67775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2260",
     "name": "Koby #2260",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2260.png",
 
@@ -67805,7 +67805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2261",
     "name": "Koby #2261",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2261.png",
 
@@ -67835,7 +67835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2262",
     "name": "Koby #2262",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2262.png",
 
@@ -67865,7 +67865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2263",
     "name": "Koby #2263",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2263.png",
 
@@ -67895,7 +67895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2264",
     "name": "Koby #2264",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2264.png",
 
@@ -67925,7 +67925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2265",
     "name": "Koby #2265",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2265.png",
 
@@ -67955,7 +67955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2266",
     "name": "Koby #2266",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2266.png",
 
@@ -67985,7 +67985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2267",
     "name": "Koby #2267",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2267.png",
 
@@ -68015,7 +68015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2268",
     "name": "Koby #2268",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2268.png",
 
@@ -68045,7 +68045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2269",
     "name": "Koby #2269",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2269.png",
 
@@ -68075,7 +68075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2270",
     "name": "Koby #2270",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2270.png",
 
@@ -68105,7 +68105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2271",
     "name": "Koby #2271",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2271.png",
 
@@ -68135,7 +68135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2272",
     "name": "Koby #2272",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2272.png",
 
@@ -68165,7 +68165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2273",
     "name": "Koby #2273",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2273.png",
 
@@ -68195,7 +68195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2274",
     "name": "Koby #2274",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2274.png",
 
@@ -68225,7 +68225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2275",
     "name": "Koby #2275",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2275.png",
 
@@ -68255,7 +68255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2276",
     "name": "Koby #2276",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2276.png",
 
@@ -68285,7 +68285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2277",
     "name": "Koby #2277",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2277.png",
 
@@ -68315,7 +68315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2278",
     "name": "Koby #2278",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2278.png",
 
@@ -68345,7 +68345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2279",
     "name": "Koby #2279",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2279.png",
 
@@ -68375,7 +68375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2280",
     "name": "Koby #2280",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2280.png",
 
@@ -68405,7 +68405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2281",
     "name": "Koby #2281",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2281.png",
 
@@ -68435,7 +68435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2282",
     "name": "Koby #2282",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2282.png",
 
@@ -68465,7 +68465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2283",
     "name": "Koby #2283",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2283.png",
 
@@ -68495,7 +68495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2284",
     "name": "Koby #2284",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2284.png",
 
@@ -68525,7 +68525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2285",
     "name": "Koby #2285",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2285.png",
 
@@ -68555,7 +68555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2286",
     "name": "Koby #2286",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2286.png",
 
@@ -68585,7 +68585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2287",
     "name": "Koby #2287",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2287.png",
 
@@ -68615,7 +68615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2288",
     "name": "Koby #2288",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2288.png",
 
@@ -68645,7 +68645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2289",
     "name": "Koby #2289",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2289.png",
 
@@ -68675,7 +68675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2290",
     "name": "Koby #2290",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2290.png",
 
@@ -68705,7 +68705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2291",
     "name": "Koby #2291",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2291.png",
 
@@ -68735,7 +68735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2292",
     "name": "Koby #2292",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2292.png",
 
@@ -68765,7 +68765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2293",
     "name": "Koby #2293",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2293.png",
 
@@ -68795,7 +68795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2294",
     "name": "Koby #2294",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2294.png",
 
@@ -68825,7 +68825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2295",
     "name": "Koby #2295",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2295.png",
 
@@ -68855,7 +68855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2296",
     "name": "Koby #2296",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2296.png",
 
@@ -68885,7 +68885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2297",
     "name": "Koby #2297",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2297.png",
 
@@ -68915,7 +68915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2298",
     "name": "Koby #2298",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2298.png",
 
@@ -68945,7 +68945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2299",
     "name": "Koby #2299",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2299.png",
 
@@ -68975,7 +68975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2300",
     "name": "Koby #2300",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2300.png",
 
@@ -69005,7 +69005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2301",
     "name": "Koby #2301",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2301.png",
 
@@ -69035,7 +69035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2302",
     "name": "Koby #2302",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2302.png",
 
@@ -69065,7 +69065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2303",
     "name": "Koby #2303",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2303.png",
 
@@ -69095,7 +69095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2304",
     "name": "Koby #2304",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2304.png",
 
@@ -69125,7 +69125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2305",
     "name": "Koby #2305",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2305.png",
 
@@ -69155,7 +69155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2306",
     "name": "Koby #2306",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2306.png",
 
@@ -69185,7 +69185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2307",
     "name": "Koby #2307",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2307.png",
 
@@ -69215,7 +69215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2308",
     "name": "Koby #2308",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2308.png",
 
@@ -69245,7 +69245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2309",
     "name": "Koby #2309",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2309.png",
 
@@ -69275,7 +69275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2310",
     "name": "Koby #2310",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2310.png",
 
@@ -69305,7 +69305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2311",
     "name": "Koby #2311",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2311.png",
 
@@ -69335,7 +69335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2312",
     "name": "Koby #2312",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2312.png",
 
@@ -69365,7 +69365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2313",
     "name": "Koby #2313",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2313.png",
 
@@ -69395,7 +69395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2314",
     "name": "Koby #2314",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2314.png",
 
@@ -69425,7 +69425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2315",
     "name": "Koby #2315",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2315.png",
 
@@ -69455,7 +69455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2316",
     "name": "Koby #2316",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2316.png",
 
@@ -69485,7 +69485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2317",
     "name": "Koby #2317",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2317.png",
 
@@ -69515,7 +69515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2318",
     "name": "Koby #2318",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2318.png",
 
@@ -69545,7 +69545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2319",
     "name": "Koby #2319",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2319.png",
 
@@ -69575,7 +69575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2320",
     "name": "Koby #2320",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2320.png",
 
@@ -69605,7 +69605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2321",
     "name": "Koby #2321",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2321.png",
 
@@ -69635,7 +69635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2322",
     "name": "Koby #2322",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2322.png",
 
@@ -69665,7 +69665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2323",
     "name": "Koby #2323",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2323.png",
 
@@ -69695,7 +69695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2324",
     "name": "Koby #2324",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2324.png",
 
@@ -69725,7 +69725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2325",
     "name": "Koby #2325",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2325.png",
 
@@ -69755,7 +69755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2326",
     "name": "Koby #2326",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2326.png",
 
@@ -69785,7 +69785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2327",
     "name": "Koby #2327",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2327.png",
 
@@ -69815,7 +69815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2328",
     "name": "Koby #2328",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2328.png",
 
@@ -69845,7 +69845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2329",
     "name": "Koby #2329",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2329.png",
 
@@ -69875,7 +69875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2330",
     "name": "Koby #2330",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2330.png",
 
@@ -69905,7 +69905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2331",
     "name": "Koby #2331",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2331.png",
 
@@ -69935,7 +69935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2332",
     "name": "Koby #2332",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2332.png",
 
@@ -69965,7 +69965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2333",
     "name": "Koby #2333",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2333.png",
 
@@ -69995,7 +69995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2334",
     "name": "Koby #2334",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2334.png",
 
@@ -70025,7 +70025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2335",
     "name": "Koby #2335",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2335.png",
 
@@ -70055,7 +70055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2336",
     "name": "Koby #2336",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2336.png",
 
@@ -70085,7 +70085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2337",
     "name": "Koby #2337",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2337.png",
 
@@ -70115,7 +70115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2338",
     "name": "Koby #2338",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2338.png",
 
@@ -70145,7 +70145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2339",
     "name": "Koby #2339",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2339.png",
 
@@ -70175,7 +70175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2340",
     "name": "Koby #2340",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2340.png",
 
@@ -70205,7 +70205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2341",
     "name": "Koby #2341",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2341.png",
 
@@ -70235,7 +70235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2342",
     "name": "Koby #2342",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2342.png",
 
@@ -70265,7 +70265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2343",
     "name": "Koby #2343",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2343.png",
 
@@ -70295,7 +70295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2344",
     "name": "Koby #2344",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2344.png",
 
@@ -70325,7 +70325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2345",
     "name": "Koby #2345",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2345.png",
 
@@ -70355,7 +70355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2346",
     "name": "Koby #2346",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2346.png",
 
@@ -70385,7 +70385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2347",
     "name": "Koby #2347",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2347.png",
 
@@ -70415,7 +70415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2348",
     "name": "Koby #2348",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2348.png",
 
@@ -70445,7 +70445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2349",
     "name": "Koby #2349",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2349.png",
 
@@ -70475,7 +70475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2350",
     "name": "Koby #2350",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2350.png",
 
@@ -70505,7 +70505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2351",
     "name": "Koby #2351",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2351.png",
 
@@ -70535,7 +70535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2352",
     "name": "Koby #2352",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2352.png",
 
@@ -70565,7 +70565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2353",
     "name": "Koby #2353",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2353.png",
 
@@ -70595,7 +70595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2354",
     "name": "Koby #2354",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2354.png",
 
@@ -70625,7 +70625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2355",
     "name": "Koby #2355",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2355.png",
 
@@ -70655,7 +70655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2356",
     "name": "Koby #2356",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2356.png",
 
@@ -70685,7 +70685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2357",
     "name": "Koby #2357",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2357.png",
 
@@ -70715,7 +70715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2358",
     "name": "Koby #2358",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2358.png",
 
@@ -70745,7 +70745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2359",
     "name": "Koby #2359",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2359.png",
 
@@ -70775,7 +70775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2360",
     "name": "Koby #2360",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2360.png",
 
@@ -70805,7 +70805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2361",
     "name": "Koby #2361",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2361.png",
 
@@ -70835,7 +70835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2362",
     "name": "Koby #2362",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2362.png",
 
@@ -70865,7 +70865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2363",
     "name": "Koby #2363",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2363.png",
 
@@ -70895,7 +70895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2364",
     "name": "Koby #2364",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2364.png",
 
@@ -70925,7 +70925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2365",
     "name": "Koby #2365",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2365.png",
 
@@ -70955,7 +70955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2366",
     "name": "Koby #2366",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2366.png",
 
@@ -70985,7 +70985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2367",
     "name": "Koby #2367",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2367.png",
 
@@ -71015,7 +71015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2368",
     "name": "Koby #2368",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2368.png",
 
@@ -71045,7 +71045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2369",
     "name": "Koby #2369",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2369.png",
 
@@ -71075,7 +71075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2370",
     "name": "Koby #2370",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2370.png",
 
@@ -71105,7 +71105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2371",
     "name": "Koby #2371",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2371.png",
 
@@ -71135,7 +71135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2372",
     "name": "Koby #2372",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2372.png",
 
@@ -71165,7 +71165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2373",
     "name": "Koby #2373",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2373.png",
 
@@ -71195,7 +71195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2374",
     "name": "Koby #2374",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2374.png",
 
@@ -71225,7 +71225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2375",
     "name": "Koby #2375",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2375.png",
 
@@ -71255,7 +71255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2376",
     "name": "Koby #2376",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2376.png",
 
@@ -71285,7 +71285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2377",
     "name": "Koby #2377",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2377.png",
 
@@ -71315,7 +71315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2378",
     "name": "Koby #2378",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2378.png",
 
@@ -71345,7 +71345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2379",
     "name": "Koby #2379",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2379.png",
 
@@ -71375,7 +71375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2380",
     "name": "Koby #2380",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2380.png",
 
@@ -71405,7 +71405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2381",
     "name": "Koby #2381",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2381.png",
 
@@ -71435,7 +71435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2382",
     "name": "Koby #2382",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2382.png",
 
@@ -71465,7 +71465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2383",
     "name": "Koby #2383",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2383.png",
 
@@ -71495,7 +71495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2384",
     "name": "Koby #2384",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2384.png",
 
@@ -71525,7 +71525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2385",
     "name": "Koby #2385",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2385.png",
 
@@ -71555,7 +71555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2386",
     "name": "Koby #2386",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2386.png",
 
@@ -71585,7 +71585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2387",
     "name": "Koby #2387",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2387.png",
 
@@ -71615,7 +71615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2388",
     "name": "Koby #2388",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2388.png",
 
@@ -71645,7 +71645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2389",
     "name": "Koby #2389",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2389.png",
 
@@ -71675,7 +71675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2390",
     "name": "Koby #2390",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2390.png",
 
@@ -71705,7 +71705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2391",
     "name": "Koby #2391",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2391.png",
 
@@ -71735,7 +71735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2392",
     "name": "Koby #2392",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2392.png",
 
@@ -71765,7 +71765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2393",
     "name": "Koby #2393",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2393.png",
 
@@ -71795,7 +71795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2394",
     "name": "Koby #2394",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2394.png",
 
@@ -71825,7 +71825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2395",
     "name": "Koby #2395",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2395.png",
 
@@ -71855,7 +71855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2396",
     "name": "Koby #2396",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2396.png",
 
@@ -71885,7 +71885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2397",
     "name": "Koby #2397",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2397.png",
 
@@ -71915,7 +71915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2398",
     "name": "Koby #2398",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2398.png",
 
@@ -71945,7 +71945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2399",
     "name": "Koby #2399",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2399.png",
 
@@ -71975,7 +71975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2400",
     "name": "Koby #2400",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2400.png",
 
@@ -72005,7 +72005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2401",
     "name": "Koby #2401",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2401.png",
 
@@ -72035,7 +72035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2402",
     "name": "Koby #2402",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2402.png",
 
@@ -72065,7 +72065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2403",
     "name": "Koby #2403",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2403.png",
 
@@ -72095,7 +72095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2404",
     "name": "Koby #2404",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2404.png",
 
@@ -72125,7 +72125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2405",
     "name": "Koby #2405",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2405.png",
 
@@ -72155,7 +72155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2406",
     "name": "Koby #2406",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2406.png",
 
@@ -72185,7 +72185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2407",
     "name": "Koby #2407",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2407.png",
 
@@ -72215,7 +72215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2408",
     "name": "Koby #2408",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2408.png",
 
@@ -72245,7 +72245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2409",
     "name": "Koby #2409",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2409.png",
 
@@ -72275,7 +72275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2410",
     "name": "Koby #2410",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2410.png",
 
@@ -72305,7 +72305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2411",
     "name": "Koby #2411",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2411.png",
 
@@ -72335,7 +72335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2412",
     "name": "Koby #2412",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2412.png",
 
@@ -72365,7 +72365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2413",
     "name": "Koby #2413",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2413.png",
 
@@ -72395,7 +72395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2414",
     "name": "Koby #2414",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2414.png",
 
@@ -72425,7 +72425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2415",
     "name": "Koby #2415",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2415.png",
 
@@ -72455,7 +72455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2416",
     "name": "Koby #2416",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2416.png",
 
@@ -72485,7 +72485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2417",
     "name": "Koby #2417",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2417.png",
 
@@ -72515,7 +72515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2418",
     "name": "Koby #2418",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2418.png",
 
@@ -72545,7 +72545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2419",
     "name": "Koby #2419",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2419.png",
 
@@ -72575,7 +72575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2420",
     "name": "Koby #2420",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2420.png",
 
@@ -72605,7 +72605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2421",
     "name": "Koby #2421",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2421.png",
 
@@ -72635,7 +72635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2422",
     "name": "Koby #2422",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2422.png",
 
@@ -72665,7 +72665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2423",
     "name": "Koby #2423",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2423.png",
 
@@ -72695,7 +72695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2424",
     "name": "Koby #2424",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2424.png",
 
@@ -72725,7 +72725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2425",
     "name": "Koby #2425",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2425.png",
 
@@ -72755,7 +72755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2426",
     "name": "Koby #2426",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2426.png",
 
@@ -72785,7 +72785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2427",
     "name": "Koby #2427",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2427.png",
 
@@ -72815,7 +72815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2428",
     "name": "Koby #2428",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2428.png",
 
@@ -72845,7 +72845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2429",
     "name": "Koby #2429",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2429.png",
 
@@ -72875,7 +72875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2430",
     "name": "Koby #2430",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2430.png",
 
@@ -72905,7 +72905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2431",
     "name": "Koby #2431",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2431.png",
 
@@ -72935,7 +72935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2432",
     "name": "Koby #2432",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2432.png",
 
@@ -72965,7 +72965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2433",
     "name": "Koby #2433",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2433.png",
 
@@ -72995,7 +72995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2434",
     "name": "Koby #2434",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2434.png",
 
@@ -73025,7 +73025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2435",
     "name": "Koby #2435",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2435.png",
 
@@ -73055,7 +73055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2436",
     "name": "Koby #2436",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2436.png",
 
@@ -73085,7 +73085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2437",
     "name": "Koby #2437",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2437.png",
 
@@ -73115,7 +73115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2438",
     "name": "Koby #2438",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2438.png",
 
@@ -73145,7 +73145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2439",
     "name": "Koby #2439",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2439.png",
 
@@ -73175,7 +73175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2440",
     "name": "Koby #2440",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2440.png",
 
@@ -73205,7 +73205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2441",
     "name": "Koby #2441",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2441.png",
 
@@ -73235,7 +73235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2442",
     "name": "Koby #2442",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2442.png",
 
@@ -73265,7 +73265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2443",
     "name": "Koby #2443",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2443.png",
 
@@ -73295,7 +73295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2444",
     "name": "Koby #2444",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2444.png",
 
@@ -73325,7 +73325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2445",
     "name": "Koby #2445",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2445.png",
 
@@ -73355,7 +73355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2446",
     "name": "Koby #2446",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2446.png",
 
@@ -73385,7 +73385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2447",
     "name": "Koby #2447",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2447.png",
 
@@ -73415,7 +73415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2448",
     "name": "Koby #2448",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2448.png",
 
@@ -73445,7 +73445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2449",
     "name": "Koby #2449",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2449.png",
 
@@ -73475,7 +73475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2450",
     "name": "Koby #2450",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2450.png",
 
@@ -73505,7 +73505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2451",
     "name": "Koby #2451",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2451.png",
 
@@ -73535,7 +73535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2452",
     "name": "Koby #2452",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2452.png",
 
@@ -73565,7 +73565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2453",
     "name": "Koby #2453",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2453.png",
 
@@ -73595,7 +73595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2454",
     "name": "Koby #2454",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2454.png",
 
@@ -73625,7 +73625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2455",
     "name": "Koby #2455",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2455.png",
 
@@ -73655,7 +73655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2456",
     "name": "Koby #2456",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2456.png",
 
@@ -73685,7 +73685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2457",
     "name": "Koby #2457",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2457.png",
 
@@ -73715,7 +73715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2458",
     "name": "Koby #2458",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2458.png",
 
@@ -73745,7 +73745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2459",
     "name": "Koby #2459",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2459.png",
 
@@ -73775,7 +73775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2460",
     "name": "Koby #2460",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2460.png",
 
@@ -73805,7 +73805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2461",
     "name": "Koby #2461",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2461.png",
 
@@ -73835,7 +73835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2462",
     "name": "Koby #2462",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2462.png",
 
@@ -73865,7 +73865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2463",
     "name": "Koby #2463",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2463.png",
 
@@ -73895,7 +73895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2464",
     "name": "Koby #2464",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2464.png",
 
@@ -73925,7 +73925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2465",
     "name": "Koby #2465",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2465.png",
 
@@ -73955,7 +73955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2466",
     "name": "Koby #2466",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2466.png",
 
@@ -73985,7 +73985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2467",
     "name": "Koby #2467",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2467.png",
 
@@ -74015,7 +74015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2468",
     "name": "Koby #2468",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2468.png",
 
@@ -74045,7 +74045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2469",
     "name": "Koby #2469",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2469.png",
 
@@ -74075,7 +74075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2470",
     "name": "Koby #2470",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2470.png",
 
@@ -74105,7 +74105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2471",
     "name": "Koby #2471",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2471.png",
 
@@ -74135,7 +74135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2472",
     "name": "Koby #2472",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2472.png",
 
@@ -74165,7 +74165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2473",
     "name": "Koby #2473",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2473.png",
 
@@ -74195,7 +74195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2474",
     "name": "Koby #2474",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2474.png",
 
@@ -74225,7 +74225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2475",
     "name": "Koby #2475",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2475.png",
 
@@ -74255,7 +74255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2476",
     "name": "Koby #2476",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2476.png",
 
@@ -74285,7 +74285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2477",
     "name": "Koby #2477",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2477.png",
 
@@ -74315,7 +74315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2478",
     "name": "Koby #2478",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2478.png",
 
@@ -74345,7 +74345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2479",
     "name": "Koby #2479",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2479.png",
 
@@ -74375,7 +74375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2480",
     "name": "Koby #2480",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2480.png",
 
@@ -74405,7 +74405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2481",
     "name": "Koby #2481",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2481.png",
 
@@ -74435,7 +74435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2482",
     "name": "Koby #2482",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2482.png",
 
@@ -74465,7 +74465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2483",
     "name": "Koby #2483",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2483.png",
 
@@ -74495,7 +74495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2484",
     "name": "Koby #2484",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2484.png",
 
@@ -74525,7 +74525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2485",
     "name": "Koby #2485",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2485.png",
 
@@ -74555,7 +74555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2486",
     "name": "Koby #2486",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2486.png",
 
@@ -74585,7 +74585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2487",
     "name": "Koby #2487",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2487.png",
 
@@ -74615,7 +74615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2488",
     "name": "Koby #2488",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2488.png",
 
@@ -74645,7 +74645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2489",
     "name": "Koby #2489",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2489.png",
 
@@ -74675,7 +74675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2490",
     "name": "Koby #2490",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2490.png",
 
@@ -74705,7 +74705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2491",
     "name": "Koby #2491",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2491.png",
 
@@ -74735,7 +74735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2492",
     "name": "Koby #2492",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2492.png",
 
@@ -74765,7 +74765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2493",
     "name": "Koby #2493",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2493.png",
 
@@ -74795,7 +74795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2494",
     "name": "Koby #2494",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2494.png",
 
@@ -74825,7 +74825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2495",
     "name": "Koby #2495",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2495.png",
 
@@ -74855,7 +74855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2496",
     "name": "Koby #2496",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2496.png",
 
@@ -74885,7 +74885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2497",
     "name": "Koby #2497",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2497.png",
 
@@ -74915,7 +74915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2498",
     "name": "Koby #2498",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2498.png",
 
@@ -74945,7 +74945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2499",
     "name": "Koby #2499",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2499.png",
 
@@ -74975,7 +74975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2500",
     "name": "Koby #2500",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2500.png",
 
@@ -75005,7 +75005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2501",
     "name": "Koby #2501",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2501.png",
 
@@ -75035,7 +75035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2502",
     "name": "Koby #2502",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2502.png",
 
@@ -75065,7 +75065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2503",
     "name": "Koby #2503",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2503.png",
 
@@ -75095,7 +75095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2504",
     "name": "Koby #2504",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2504.png",
 
@@ -75125,7 +75125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2505",
     "name": "Koby #2505",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2505.png",
 
@@ -75155,7 +75155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2506",
     "name": "Koby #2506",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2506.png",
 
@@ -75185,7 +75185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2507",
     "name": "Koby #2507",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2507.png",
 
@@ -75215,7 +75215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2508",
     "name": "Koby #2508",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2508.png",
 
@@ -75245,7 +75245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2509",
     "name": "Koby #2509",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2509.png",
 
@@ -75275,7 +75275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2510",
     "name": "Koby #2510",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2510.png",
 
@@ -75305,7 +75305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2511",
     "name": "Koby #2511",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2511.png",
 
@@ -75335,7 +75335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2512",
     "name": "Koby #2512",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2512.png",
 
@@ -75365,7 +75365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2513",
     "name": "Koby #2513",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2513.png",
 
@@ -75395,7 +75395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2514",
     "name": "Koby #2514",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2514.png",
 
@@ -75425,7 +75425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2515",
     "name": "Koby #2515",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2515.png",
 
@@ -75455,7 +75455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2516",
     "name": "Koby #2516",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2516.png",
 
@@ -75485,7 +75485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2517",
     "name": "Koby #2517",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2517.png",
 
@@ -75515,7 +75515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2518",
     "name": "Koby #2518",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2518.png",
 
@@ -75545,7 +75545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2519",
     "name": "Koby #2519",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2519.png",
 
@@ -75575,7 +75575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2520",
     "name": "Koby #2520",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2520.png",
 
@@ -75605,7 +75605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2521",
     "name": "Koby #2521",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2521.png",
 
@@ -75635,7 +75635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2522",
     "name": "Koby #2522",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2522.png",
 
@@ -75665,7 +75665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2523",
     "name": "Koby #2523",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2523.png",
 
@@ -75695,7 +75695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2524",
     "name": "Koby #2524",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2524.png",
 
@@ -75725,7 +75725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2525",
     "name": "Koby #2525",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2525.png",
 
@@ -75755,7 +75755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2526",
     "name": "Koby #2526",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2526.png",
 
@@ -75785,7 +75785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2527",
     "name": "Koby #2527",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2527.png",
 
@@ -75815,7 +75815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2528",
     "name": "Koby #2528",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2528.png",
 
@@ -75845,7 +75845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2529",
     "name": "Koby #2529",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2529.png",
 
@@ -75875,7 +75875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2530",
     "name": "Koby #2530",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2530.png",
 
@@ -75905,7 +75905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2531",
     "name": "Koby #2531",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2531.png",
 
@@ -75935,7 +75935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2532",
     "name": "Koby #2532",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2532.png",
 
@@ -75965,7 +75965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2533",
     "name": "Koby #2533",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2533.png",
 
@@ -75995,7 +75995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2534",
     "name": "Koby #2534",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2534.png",
 
@@ -76025,7 +76025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2535",
     "name": "Koby #2535",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2535.png",
 
@@ -76055,7 +76055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2536",
     "name": "Koby #2536",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2536.png",
 
@@ -76085,7 +76085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2537",
     "name": "Koby #2537",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2537.png",
 
@@ -76115,7 +76115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2538",
     "name": "Koby #2538",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2538.png",
 
@@ -76145,7 +76145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2539",
     "name": "Koby #2539",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2539.png",
 
@@ -76175,7 +76175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2540",
     "name": "Koby #2540",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2540.png",
 
@@ -76205,7 +76205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2541",
     "name": "Koby #2541",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2541.png",
 
@@ -76235,7 +76235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2542",
     "name": "Koby #2542",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2542.png",
 
@@ -76265,7 +76265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2543",
     "name": "Koby #2543",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2543.png",
 
@@ -76295,7 +76295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2544",
     "name": "Koby #2544",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2544.png",
 
@@ -76325,7 +76325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2545",
     "name": "Koby #2545",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2545.png",
 
@@ -76355,7 +76355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2546",
     "name": "Koby #2546",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2546.png",
 
@@ -76385,7 +76385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2547",
     "name": "Koby #2547",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2547.png",
 
@@ -76415,7 +76415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2548",
     "name": "Koby #2548",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2548.png",
 
@@ -76445,7 +76445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2549",
     "name": "Koby #2549",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2549.png",
 
@@ -76475,7 +76475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2550",
     "name": "Koby #2550",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2550.png",
 
@@ -76505,7 +76505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2551",
     "name": "Koby #2551",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2551.png",
 
@@ -76535,7 +76535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2552",
     "name": "Koby #2552",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2552.png",
 
@@ -76565,7 +76565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2553",
     "name": "Koby #2553",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2553.png",
 
@@ -76595,7 +76595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2554",
     "name": "Koby #2554",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2554.png",
 
@@ -76625,7 +76625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2555",
     "name": "Koby #2555",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2555.png",
 
@@ -76655,7 +76655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2556",
     "name": "Koby #2556",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2556.png",
 
@@ -76685,7 +76685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2557",
     "name": "Koby #2557",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2557.png",
 
@@ -76715,7 +76715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2558",
     "name": "Koby #2558",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2558.png",
 
@@ -76745,7 +76745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2559",
     "name": "Koby #2559",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2559.png",
 
@@ -76775,7 +76775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2560",
     "name": "Koby #2560",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2560.png",
 
@@ -76805,7 +76805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2561",
     "name": "Koby #2561",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2561.png",
 
@@ -76835,7 +76835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2562",
     "name": "Koby #2562",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2562.png",
 
@@ -76865,7 +76865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2563",
     "name": "Koby #2563",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2563.png",
 
@@ -76895,7 +76895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2564",
     "name": "Koby #2564",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2564.png",
 
@@ -76925,7 +76925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2565",
     "name": "Koby #2565",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2565.png",
 
@@ -76955,7 +76955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2566",
     "name": "Koby #2566",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2566.png",
 
@@ -76985,7 +76985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2567",
     "name": "Koby #2567",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2567.png",
 
@@ -77015,7 +77015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2568",
     "name": "Koby #2568",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2568.png",
 
@@ -77045,7 +77045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2569",
     "name": "Koby #2569",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2569.png",
 
@@ -77075,7 +77075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2570",
     "name": "Koby #2570",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2570.png",
 
@@ -77105,7 +77105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2571",
     "name": "Koby #2571",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2571.png",
 
@@ -77135,7 +77135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2572",
     "name": "Koby #2572",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2572.png",
 
@@ -77165,7 +77165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2573",
     "name": "Koby #2573",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2573.png",
 
@@ -77195,7 +77195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2574",
     "name": "Koby #2574",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2574.png",
 
@@ -77225,7 +77225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2575",
     "name": "Koby #2575",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2575.png",
 
@@ -77255,7 +77255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2576",
     "name": "Koby #2576",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2576.png",
 
@@ -77285,7 +77285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2577",
     "name": "Koby #2577",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2577.png",
 
@@ -77315,7 +77315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2578",
     "name": "Koby #2578",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2578.png",
 
@@ -77345,7 +77345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2579",
     "name": "Koby #2579",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2579.png",
 
@@ -77375,7 +77375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2580",
     "name": "Koby #2580",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2580.png",
 
@@ -77405,7 +77405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2581",
     "name": "Koby #2581",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2581.png",
 
@@ -77435,7 +77435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2582",
     "name": "Koby #2582",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2582.png",
 
@@ -77465,7 +77465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2583",
     "name": "Koby #2583",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2583.png",
 
@@ -77495,7 +77495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2584",
     "name": "Koby #2584",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2584.png",
 
@@ -77525,7 +77525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2585",
     "name": "Koby #2585",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2585.png",
 
@@ -77555,7 +77555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2586",
     "name": "Koby #2586",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2586.png",
 
@@ -77585,7 +77585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2587",
     "name": "Koby #2587",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2587.png",
 
@@ -77615,7 +77615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2588",
     "name": "Koby #2588",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2588.png",
 
@@ -77645,7 +77645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2589",
     "name": "Koby #2589",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2589.png",
 
@@ -77675,7 +77675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2590",
     "name": "Koby #2590",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2590.png",
 
@@ -77705,7 +77705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2591",
     "name": "Koby #2591",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2591.png",
 
@@ -77735,7 +77735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2592",
     "name": "Koby #2592",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2592.png",
 
@@ -77765,7 +77765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2593",
     "name": "Koby #2593",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2593.png",
 
@@ -77795,7 +77795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2594",
     "name": "Koby #2594",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2594.png",
 
@@ -77825,7 +77825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2595",
     "name": "Koby #2595",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2595.png",
 
@@ -77855,7 +77855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2596",
     "name": "Koby #2596",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2596.png",
 
@@ -77885,7 +77885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2597",
     "name": "Koby #2597",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2597.png",
 
@@ -77915,7 +77915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2598",
     "name": "Koby #2598",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2598.png",
 
@@ -77945,7 +77945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2599",
     "name": "Koby #2599",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2599.png",
 
@@ -77975,7 +77975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2600",
     "name": "Koby #2600",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2600.png",
 
@@ -78005,7 +78005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2601",
     "name": "Koby #2601",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2601.png",
 
@@ -78035,7 +78035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2602",
     "name": "Koby #2602",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2602.png",
 
@@ -78065,7 +78065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2603",
     "name": "Koby #2603",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2603.png",
 
@@ -78095,7 +78095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2604",
     "name": "Koby #2604",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2604.png",
 
@@ -78125,7 +78125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2605",
     "name": "Koby #2605",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2605.png",
 
@@ -78155,7 +78155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2606",
     "name": "Koby #2606",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2606.png",
 
@@ -78185,7 +78185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2607",
     "name": "Koby #2607",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2607.png",
 
@@ -78215,7 +78215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2608",
     "name": "Koby #2608",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2608.png",
 
@@ -78245,7 +78245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2609",
     "name": "Koby #2609",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2609.png",
 
@@ -78275,7 +78275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2610",
     "name": "Koby #2610",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2610.png",
 
@@ -78305,7 +78305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2611",
     "name": "Koby #2611",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2611.png",
 
@@ -78335,7 +78335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2612",
     "name": "Koby #2612",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2612.png",
 
@@ -78365,7 +78365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2613",
     "name": "Koby #2613",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2613.png",
 
@@ -78395,7 +78395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2614",
     "name": "Koby #2614",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2614.png",
 
@@ -78425,7 +78425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2615",
     "name": "Koby #2615",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2615.png",
 
@@ -78455,7 +78455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2616",
     "name": "Koby #2616",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2616.png",
 
@@ -78485,7 +78485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2617",
     "name": "Koby #2617",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2617.png",
 
@@ -78515,7 +78515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2618",
     "name": "Koby #2618",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2618.png",
 
@@ -78545,7 +78545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2619",
     "name": "Koby #2619",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2619.png",
 
@@ -78575,7 +78575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2620",
     "name": "Koby #2620",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2620.png",
 
@@ -78605,7 +78605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2621",
     "name": "Koby #2621",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2621.png",
 
@@ -78635,7 +78635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2622",
     "name": "Koby #2622",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2622.png",
 
@@ -78665,7 +78665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2623",
     "name": "Koby #2623",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2623.png",
 
@@ -78695,7 +78695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2624",
     "name": "Koby #2624",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2624.png",
 
@@ -78725,7 +78725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2625",
     "name": "Koby #2625",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2625.png",
 
@@ -78755,7 +78755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2626",
     "name": "Koby #2626",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2626.png",
 
@@ -78785,7 +78785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2627",
     "name": "Koby #2627",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2627.png",
 
@@ -78815,7 +78815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2628",
     "name": "Koby #2628",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2628.png",
 
@@ -78845,7 +78845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2629",
     "name": "Koby #2629",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2629.png",
 
@@ -78875,7 +78875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2630",
     "name": "Koby #2630",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2630.png",
 
@@ -78905,7 +78905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2631",
     "name": "Koby #2631",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2631.png",
 
@@ -78935,7 +78935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2632",
     "name": "Koby #2632",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2632.png",
 
@@ -78965,7 +78965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2633",
     "name": "Koby #2633",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2633.png",
 
@@ -78995,7 +78995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2634",
     "name": "Koby #2634",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2634.png",
 
@@ -79025,7 +79025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2635",
     "name": "Koby #2635",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2635.png",
 
@@ -79055,7 +79055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2636",
     "name": "Koby #2636",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2636.png",
 
@@ -79085,7 +79085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2637",
     "name": "Koby #2637",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2637.png",
 
@@ -79115,7 +79115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2638",
     "name": "Koby #2638",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2638.png",
 
@@ -79145,7 +79145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2639",
     "name": "Koby #2639",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2639.png",
 
@@ -79175,7 +79175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2640",
     "name": "Koby #2640",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2640.png",
 
@@ -79205,7 +79205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2641",
     "name": "Koby #2641",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2641.png",
 
@@ -79235,7 +79235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2642",
     "name": "Koby #2642",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2642.png",
 
@@ -79265,7 +79265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2643",
     "name": "Koby #2643",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2643.png",
 
@@ -79295,7 +79295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2644",
     "name": "Koby #2644",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2644.png",
 
@@ -79325,7 +79325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2645",
     "name": "Koby #2645",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2645.png",
 
@@ -79355,7 +79355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2646",
     "name": "Koby #2646",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2646.png",
 
@@ -79385,7 +79385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2647",
     "name": "Koby #2647",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2647.png",
 
@@ -79415,7 +79415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2648",
     "name": "Koby #2648",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2648.png",
 
@@ -79445,7 +79445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2649",
     "name": "Koby #2649",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2649.png",
 
@@ -79475,7 +79475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2650",
     "name": "Koby #2650",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2650.png",
 
@@ -79505,7 +79505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2651",
     "name": "Koby #2651",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2651.png",
 
@@ -79535,7 +79535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2652",
     "name": "Koby #2652",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2652.png",
 
@@ -79565,7 +79565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2653",
     "name": "Koby #2653",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2653.png",
 
@@ -79595,7 +79595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2654",
     "name": "Koby #2654",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2654.png",
 
@@ -79625,7 +79625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2655",
     "name": "Koby #2655",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2655.png",
 
@@ -79655,7 +79655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2656",
     "name": "Koby #2656",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2656.png",
 
@@ -79685,7 +79685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2657",
     "name": "Koby #2657",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2657.png",
 
@@ -79715,7 +79715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2658",
     "name": "Koby #2658",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2658.png",
 
@@ -79745,7 +79745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2659",
     "name": "Koby #2659",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2659.png",
 
@@ -79775,7 +79775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2660",
     "name": "Koby #2660",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2660.png",
 
@@ -79805,7 +79805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2661",
     "name": "Koby #2661",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2661.png",
 
@@ -79835,7 +79835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2662",
     "name": "Koby #2662",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2662.png",
 
@@ -79865,7 +79865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2663",
     "name": "Koby #2663",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2663.png",
 
@@ -79895,7 +79895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2664",
     "name": "Koby #2664",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2664.png",
 
@@ -79925,7 +79925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2665",
     "name": "Koby #2665",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2665.png",
 
@@ -79955,7 +79955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2666",
     "name": "Koby #2666",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2666.png",
 
@@ -79985,7 +79985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2667",
     "name": "Koby #2667",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2667.png",
 
@@ -80015,7 +80015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2668",
     "name": "Koby #2668",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2668.png",
 
@@ -80045,7 +80045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2669",
     "name": "Koby #2669",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2669.png",
 
@@ -80075,7 +80075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2670",
     "name": "Koby #2670",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2670.png",
 
@@ -80105,7 +80105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2671",
     "name": "Koby #2671",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2671.png",
 
@@ -80135,7 +80135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2672",
     "name": "Koby #2672",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2672.png",
 
@@ -80165,7 +80165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2673",
     "name": "Koby #2673",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2673.png",
 
@@ -80195,7 +80195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2674",
     "name": "Koby #2674",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2674.png",
 
@@ -80225,7 +80225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2675",
     "name": "Koby #2675",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2675.png",
 
@@ -80255,7 +80255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2676",
     "name": "Koby #2676",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2676.png",
 
@@ -80285,7 +80285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2677",
     "name": "Koby #2677",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2677.png",
 
@@ -80315,7 +80315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2678",
     "name": "Koby #2678",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2678.png",
 
@@ -80345,7 +80345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2679",
     "name": "Koby #2679",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2679.png",
 
@@ -80375,7 +80375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2680",
     "name": "Koby #2680",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2680.png",
 
@@ -80405,7 +80405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2681",
     "name": "Koby #2681",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2681.png",
 
@@ -80435,7 +80435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2682",
     "name": "Koby #2682",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2682.png",
 
@@ -80465,7 +80465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2683",
     "name": "Koby #2683",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2683.png",
 
@@ -80495,7 +80495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2684",
     "name": "Koby #2684",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2684.png",
 
@@ -80525,7 +80525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2685",
     "name": "Koby #2685",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2685.png",
 
@@ -80555,7 +80555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2686",
     "name": "Koby #2686",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2686.png",
 
@@ -80585,7 +80585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2687",
     "name": "Koby #2687",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2687.png",
 
@@ -80615,7 +80615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2688",
     "name": "Koby #2688",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2688.png",
 
@@ -80645,7 +80645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2689",
     "name": "Koby #2689",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2689.png",
 
@@ -80675,7 +80675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2690",
     "name": "Koby #2690",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2690.png",
 
@@ -80705,7 +80705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2691",
     "name": "Koby #2691",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2691.png",
 
@@ -80735,7 +80735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2692",
     "name": "Koby #2692",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2692.png",
 
@@ -80765,7 +80765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2693",
     "name": "Koby #2693",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2693.png",
 
@@ -80795,7 +80795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2694",
     "name": "Koby #2694",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2694.png",
 
@@ -80825,7 +80825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2695",
     "name": "Koby #2695",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2695.png",
 
@@ -80855,7 +80855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2696",
     "name": "Koby #2696",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2696.png",
 
@@ -80885,7 +80885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2697",
     "name": "Koby #2697",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2697.png",
 
@@ -80915,7 +80915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2698",
     "name": "Koby #2698",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2698.png",
 
@@ -80945,7 +80945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2699",
     "name": "Koby #2699",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2699.png",
 
@@ -80975,7 +80975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2700",
     "name": "Koby #2700",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2700.png",
 
@@ -81005,7 +81005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2701",
     "name": "Koby #2701",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2701.png",
 
@@ -81035,7 +81035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2702",
     "name": "Koby #2702",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2702.png",
 
@@ -81065,7 +81065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2703",
     "name": "Koby #2703",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2703.png",
 
@@ -81095,7 +81095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2704",
     "name": "Koby #2704",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2704.png",
 
@@ -81125,7 +81125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2705",
     "name": "Koby #2705",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2705.png",
 
@@ -81155,7 +81155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2706",
     "name": "Koby #2706",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2706.png",
 
@@ -81185,7 +81185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2707",
     "name": "Koby #2707",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2707.png",
 
@@ -81215,7 +81215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2708",
     "name": "Koby #2708",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2708.png",
 
@@ -81245,7 +81245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2709",
     "name": "Koby #2709",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2709.png",
 
@@ -81275,7 +81275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2710",
     "name": "Koby #2710",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2710.png",
 
@@ -81305,7 +81305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2711",
     "name": "Koby #2711",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2711.png",
 
@@ -81335,7 +81335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2712",
     "name": "Koby #2712",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2712.png",
 
@@ -81365,7 +81365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2713",
     "name": "Koby #2713",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2713.png",
 
@@ -81395,7 +81395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2714",
     "name": "Koby #2714",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2714.png",
 
@@ -81425,7 +81425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2715",
     "name": "Koby #2715",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2715.png",
 
@@ -81455,7 +81455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2716",
     "name": "Koby #2716",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2716.png",
 
@@ -81485,7 +81485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2717",
     "name": "Koby #2717",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2717.png",
 
@@ -81515,7 +81515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2718",
     "name": "Koby #2718",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2718.png",
 
@@ -81545,7 +81545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2719",
     "name": "Koby #2719",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2719.png",
 
@@ -81575,7 +81575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2720",
     "name": "Koby #2720",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2720.png",
 
@@ -81605,7 +81605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2721",
     "name": "Koby #2721",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2721.png",
 
@@ -81635,7 +81635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2722",
     "name": "Koby #2722",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2722.png",
 
@@ -81665,7 +81665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2723",
     "name": "Koby #2723",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2723.png",
 
@@ -81695,7 +81695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2724",
     "name": "Koby #2724",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2724.png",
 
@@ -81725,7 +81725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2725",
     "name": "Koby #2725",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2725.png",
 
@@ -81755,7 +81755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2726",
     "name": "Koby #2726",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2726.png",
 
@@ -81785,7 +81785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2727",
     "name": "Koby #2727",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2727.png",
 
@@ -81815,7 +81815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2728",
     "name": "Koby #2728",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2728.png",
 
@@ -81845,7 +81845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2729",
     "name": "Koby #2729",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2729.png",
 
@@ -81875,7 +81875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2730",
     "name": "Koby #2730",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2730.png",
 
@@ -81905,7 +81905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2731",
     "name": "Koby #2731",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2731.png",
 
@@ -81935,7 +81935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2732",
     "name": "Koby #2732",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2732.png",
 
@@ -81965,7 +81965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2733",
     "name": "Koby #2733",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2733.png",
 
@@ -81995,7 +81995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2734",
     "name": "Koby #2734",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2734.png",
 
@@ -82025,7 +82025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2735",
     "name": "Koby #2735",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2735.png",
 
@@ -82055,7 +82055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2736",
     "name": "Koby #2736",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2736.png",
 
@@ -82085,7 +82085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2737",
     "name": "Koby #2737",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2737.png",
 
@@ -82115,7 +82115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2738",
     "name": "Koby #2738",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2738.png",
 
@@ -82145,7 +82145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2739",
     "name": "Koby #2739",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2739.png",
 
@@ -82175,7 +82175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2740",
     "name": "Koby #2740",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2740.png",
 
@@ -82205,7 +82205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2741",
     "name": "Koby #2741",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2741.png",
 
@@ -82235,7 +82235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2742",
     "name": "Koby #2742",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2742.png",
 
@@ -82265,7 +82265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2743",
     "name": "Koby #2743",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2743.png",
 
@@ -82295,7 +82295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2744",
     "name": "Koby #2744",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2744.png",
 
@@ -82325,7 +82325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2745",
     "name": "Koby #2745",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2745.png",
 
@@ -82355,7 +82355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2746",
     "name": "Koby #2746",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2746.png",
 
@@ -82385,7 +82385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2747",
     "name": "Koby #2747",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2747.png",
 
@@ -82415,7 +82415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2748",
     "name": "Koby #2748",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2748.png",
 
@@ -82445,7 +82445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2749",
     "name": "Koby #2749",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2749.png",
 
@@ -82475,7 +82475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2750",
     "name": "Koby #2750",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2750.png",
 
@@ -82505,7 +82505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2751",
     "name": "Koby #2751",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2751.png",
 
@@ -82535,7 +82535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2752",
     "name": "Koby #2752",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2752.png",
 
@@ -82565,7 +82565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2753",
     "name": "Koby #2753",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2753.png",
 
@@ -82595,7 +82595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2754",
     "name": "Koby #2754",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2754.png",
 
@@ -82625,7 +82625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2755",
     "name": "Koby #2755",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2755.png",
 
@@ -82655,7 +82655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2756",
     "name": "Koby #2756",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2756.png",
 
@@ -82685,7 +82685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2757",
     "name": "Koby #2757",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2757.png",
 
@@ -82715,7 +82715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2758",
     "name": "Koby #2758",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2758.png",
 
@@ -82745,7 +82745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2759",
     "name": "Koby #2759",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2759.png",
 
@@ -82775,7 +82775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2760",
     "name": "Koby #2760",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2760.png",
 
@@ -82805,7 +82805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2761",
     "name": "Koby #2761",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2761.png",
 
@@ -82835,7 +82835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2762",
     "name": "Koby #2762",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2762.png",
 
@@ -82865,7 +82865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2763",
     "name": "Koby #2763",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2763.png",
 
@@ -82895,7 +82895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2764",
     "name": "Koby #2764",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2764.png",
 
@@ -82925,7 +82925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2765",
     "name": "Koby #2765",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2765.png",
 
@@ -82955,7 +82955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2766",
     "name": "Koby #2766",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2766.png",
 
@@ -82985,7 +82985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2767",
     "name": "Koby #2767",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2767.png",
 
@@ -83015,7 +83015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2768",
     "name": "Koby #2768",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2768.png",
 
@@ -83045,7 +83045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2769",
     "name": "Koby #2769",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2769.png",
 
@@ -83075,7 +83075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2770",
     "name": "Koby #2770",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2770.png",
 
@@ -83105,7 +83105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2771",
     "name": "Koby #2771",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2771.png",
 
@@ -83135,7 +83135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2772",
     "name": "Koby #2772",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2772.png",
 
@@ -83165,7 +83165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2773",
     "name": "Koby #2773",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2773.png",
 
@@ -83195,7 +83195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2774",
     "name": "Koby #2774",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2774.png",
 
@@ -83225,7 +83225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2775",
     "name": "Koby #2775",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2775.png",
 
@@ -83255,7 +83255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2776",
     "name": "Koby #2776",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2776.png",
 
@@ -83285,7 +83285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2777",
     "name": "Koby #2777",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2777.png",
 
@@ -83315,7 +83315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2778",
     "name": "Koby #2778",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2778.png",
 
@@ -83345,7 +83345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2779",
     "name": "Koby #2779",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2779.png",
 
@@ -83375,7 +83375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2780",
     "name": "Koby #2780",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2780.png",
 
@@ -83405,7 +83405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2781",
     "name": "Koby #2781",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2781.png",
 
@@ -83435,7 +83435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2782",
     "name": "Koby #2782",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2782.png",
 
@@ -83465,7 +83465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2783",
     "name": "Koby #2783",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2783.png",
 
@@ -83495,7 +83495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2784",
     "name": "Koby #2784",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2784.png",
 
@@ -83525,7 +83525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2785",
     "name": "Koby #2785",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2785.png",
 
@@ -83555,7 +83555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2786",
     "name": "Koby #2786",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2786.png",
 
@@ -83585,7 +83585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2787",
     "name": "Koby #2787",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2787.png",
 
@@ -83615,7 +83615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2788",
     "name": "Koby #2788",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2788.png",
 
@@ -83645,7 +83645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2789",
     "name": "Koby #2789",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2789.png",
 
@@ -83675,7 +83675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2790",
     "name": "Koby #2790",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2790.png",
 
@@ -83705,7 +83705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2791",
     "name": "Koby #2791",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2791.png",
 
@@ -83735,7 +83735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2792",
     "name": "Koby #2792",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2792.png",
 
@@ -83765,7 +83765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2793",
     "name": "Koby #2793",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2793.png",
 
@@ -83795,7 +83795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2794",
     "name": "Koby #2794",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2794.png",
 
@@ -83825,7 +83825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2795",
     "name": "Koby #2795",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2795.png",
 
@@ -83855,7 +83855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2796",
     "name": "Koby #2796",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2796.png",
 
@@ -83885,7 +83885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2797",
     "name": "Koby #2797",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2797.png",
 
@@ -83915,7 +83915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2798",
     "name": "Koby #2798",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2798.png",
 
@@ -83945,7 +83945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2799",
     "name": "Koby #2799",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2799.png",
 
@@ -83975,7 +83975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2800",
     "name": "Koby #2800",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2800.png",
 
@@ -84005,7 +84005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2801",
     "name": "Koby #2801",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2801.png",
 
@@ -84035,7 +84035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2802",
     "name": "Koby #2802",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2802.png",
 
@@ -84065,7 +84065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2803",
     "name": "Koby #2803",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2803.png",
 
@@ -84095,7 +84095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2804",
     "name": "Koby #2804",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2804.png",
 
@@ -84125,7 +84125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2805",
     "name": "Koby #2805",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2805.png",
 
@@ -84155,7 +84155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2806",
     "name": "Koby #2806",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2806.png",
 
@@ -84185,7 +84185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2807",
     "name": "Koby #2807",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2807.png",
 
@@ -84215,7 +84215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2808",
     "name": "Koby #2808",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2808.png",
 
@@ -84245,7 +84245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2809",
     "name": "Koby #2809",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2809.png",
 
@@ -84275,7 +84275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2810",
     "name": "Koby #2810",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2810.png",
 
@@ -84305,7 +84305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2811",
     "name": "Koby #2811",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2811.png",
 
@@ -84335,7 +84335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2812",
     "name": "Koby #2812",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2812.png",
 
@@ -84365,7 +84365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2813",
     "name": "Koby #2813",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2813.png",
 
@@ -84395,7 +84395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2814",
     "name": "Koby #2814",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2814.png",
 
@@ -84425,7 +84425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2815",
     "name": "Koby #2815",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2815.png",
 
@@ -84455,7 +84455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2816",
     "name": "Koby #2816",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2816.png",
 
@@ -84485,7 +84485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2817",
     "name": "Koby #2817",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2817.png",
 
@@ -84515,7 +84515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2818",
     "name": "Koby #2818",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2818.png",
 
@@ -84545,7 +84545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2819",
     "name": "Koby #2819",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2819.png",
 
@@ -84575,7 +84575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2820",
     "name": "Koby #2820",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2820.png",
 
@@ -84605,7 +84605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2821",
     "name": "Koby #2821",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2821.png",
 
@@ -84635,7 +84635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2822",
     "name": "Koby #2822",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2822.png",
 
@@ -84665,7 +84665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2823",
     "name": "Koby #2823",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2823.png",
 
@@ -84695,7 +84695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2824",
     "name": "Koby #2824",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2824.png",
 
@@ -84725,7 +84725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2825",
     "name": "Koby #2825",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2825.png",
 
@@ -84755,7 +84755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2826",
     "name": "Koby #2826",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2826.png",
 
@@ -84785,7 +84785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2827",
     "name": "Koby #2827",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2827.png",
 
@@ -84815,7 +84815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2828",
     "name": "Koby #2828",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2828.png",
 
@@ -84845,7 +84845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2829",
     "name": "Koby #2829",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2829.png",
 
@@ -84875,7 +84875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2830",
     "name": "Koby #2830",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2830.png",
 
@@ -84905,7 +84905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2831",
     "name": "Koby #2831",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2831.png",
 
@@ -84935,7 +84935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2832",
     "name": "Koby #2832",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2832.png",
 
@@ -84965,7 +84965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2833",
     "name": "Koby #2833",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2833.png",
 
@@ -84995,7 +84995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2834",
     "name": "Koby #2834",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2834.png",
 
@@ -85025,7 +85025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2835",
     "name": "Koby #2835",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2835.png",
 
@@ -85055,7 +85055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2836",
     "name": "Koby #2836",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2836.png",
 
@@ -85085,7 +85085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2837",
     "name": "Koby #2837",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2837.png",
 
@@ -85115,7 +85115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2838",
     "name": "Koby #2838",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2838.png",
 
@@ -85145,7 +85145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2839",
     "name": "Koby #2839",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2839.png",
 
@@ -85175,7 +85175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2840",
     "name": "Koby #2840",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2840.png",
 
@@ -85205,7 +85205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2841",
     "name": "Koby #2841",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2841.png",
 
@@ -85235,7 +85235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2842",
     "name": "Koby #2842",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2842.png",
 
@@ -85265,7 +85265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2843",
     "name": "Koby #2843",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2843.png",
 
@@ -85295,7 +85295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2844",
     "name": "Koby #2844",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2844.png",
 
@@ -85325,7 +85325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2845",
     "name": "Koby #2845",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2845.png",
 
@@ -85355,7 +85355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2846",
     "name": "Koby #2846",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2846.png",
 
@@ -85385,7 +85385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2847",
     "name": "Koby #2847",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2847.png",
 
@@ -85415,7 +85415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2848",
     "name": "Koby #2848",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2848.png",
 
@@ -85445,7 +85445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2849",
     "name": "Koby #2849",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2849.png",
 
@@ -85475,7 +85475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2850",
     "name": "Koby #2850",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2850.png",
 
@@ -85505,7 +85505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2851",
     "name": "Koby #2851",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2851.png",
 
@@ -85535,7 +85535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2852",
     "name": "Koby #2852",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2852.png",
 
@@ -85565,7 +85565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2853",
     "name": "Koby #2853",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2853.png",
 
@@ -85595,7 +85595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2854",
     "name": "Koby #2854",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2854.png",
 
@@ -85625,7 +85625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2855",
     "name": "Koby #2855",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2855.png",
 
@@ -85655,7 +85655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2856",
     "name": "Koby #2856",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2856.png",
 
@@ -85685,7 +85685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2857",
     "name": "Koby #2857",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2857.png",
 
@@ -85715,7 +85715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2858",
     "name": "Koby #2858",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2858.png",
 
@@ -85745,7 +85745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2859",
     "name": "Koby #2859",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2859.png",
 
@@ -85775,7 +85775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2860",
     "name": "Koby #2860",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2860.png",
 
@@ -85805,7 +85805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2861",
     "name": "Koby #2861",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2861.png",
 
@@ -85835,7 +85835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2862",
     "name": "Koby #2862",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2862.png",
 
@@ -85865,7 +85865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2863",
     "name": "Koby #2863",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2863.png",
 
@@ -85895,7 +85895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2864",
     "name": "Koby #2864",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2864.png",
 
@@ -85925,7 +85925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2865",
     "name": "Koby #2865",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2865.png",
 
@@ -85955,7 +85955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2866",
     "name": "Koby #2866",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2866.png",
 
@@ -85985,7 +85985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2867",
     "name": "Koby #2867",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2867.png",
 
@@ -86015,7 +86015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2868",
     "name": "Koby #2868",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2868.png",
 
@@ -86045,7 +86045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2869",
     "name": "Koby #2869",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2869.png",
 
@@ -86075,7 +86075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2870",
     "name": "Koby #2870",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2870.png",
 
@@ -86105,7 +86105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2871",
     "name": "Koby #2871",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2871.png",
 
@@ -86135,7 +86135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2872",
     "name": "Koby #2872",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2872.png",
 
@@ -86165,7 +86165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2873",
     "name": "Koby #2873",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2873.png",
 
@@ -86195,7 +86195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2874",
     "name": "Koby #2874",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2874.png",
 
@@ -86225,7 +86225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2875",
     "name": "Koby #2875",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2875.png",
 
@@ -86255,7 +86255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2876",
     "name": "Koby #2876",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2876.png",
 
@@ -86285,7 +86285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2877",
     "name": "Koby #2877",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2877.png",
 
@@ -86315,7 +86315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2878",
     "name": "Koby #2878",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2878.png",
 
@@ -86345,7 +86345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2879",
     "name": "Koby #2879",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2879.png",
 
@@ -86375,7 +86375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2880",
     "name": "Koby #2880",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2880.png",
 
@@ -86405,7 +86405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2881",
     "name": "Koby #2881",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2881.png",
 
@@ -86435,7 +86435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2882",
     "name": "Koby #2882",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2882.png",
 
@@ -86465,7 +86465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2883",
     "name": "Koby #2883",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2883.png",
 
@@ -86495,7 +86495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2884",
     "name": "Koby #2884",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2884.png",
 
@@ -86525,7 +86525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2885",
     "name": "Koby #2885",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2885.png",
 
@@ -86555,7 +86555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2886",
     "name": "Koby #2886",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2886.png",
 
@@ -86585,7 +86585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2887",
     "name": "Koby #2887",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2887.png",
 
@@ -86615,7 +86615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2888",
     "name": "Koby #2888",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2888.png",
 
@@ -86645,7 +86645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2889",
     "name": "Koby #2889",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2889.png",
 
@@ -86675,7 +86675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2890",
     "name": "Koby #2890",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2890.png",
 
@@ -86705,7 +86705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2891",
     "name": "Koby #2891",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2891.png",
 
@@ -86735,7 +86735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2892",
     "name": "Koby #2892",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2892.png",
 
@@ -86765,7 +86765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2893",
     "name": "Koby #2893",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2893.png",
 
@@ -86795,7 +86795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2894",
     "name": "Koby #2894",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2894.png",
 
@@ -86825,7 +86825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2895",
     "name": "Koby #2895",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2895.png",
 
@@ -86855,7 +86855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2896",
     "name": "Koby #2896",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2896.png",
 
@@ -86885,7 +86885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2897",
     "name": "Koby #2897",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2897.png",
 
@@ -86915,7 +86915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2898",
     "name": "Koby #2898",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2898.png",
 
@@ -86945,7 +86945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2899",
     "name": "Koby #2899",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2899.png",
 
@@ -86975,7 +86975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2900",
     "name": "Koby #2900",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2900.png",
 
@@ -87005,7 +87005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2901",
     "name": "Koby #2901",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2901.png",
 
@@ -87035,7 +87035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2902",
     "name": "Koby #2902",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2902.png",
 
@@ -87065,7 +87065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2903",
     "name": "Koby #2903",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2903.png",
 
@@ -87095,7 +87095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2904",
     "name": "Koby #2904",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2904.png",
 
@@ -87125,7 +87125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2905",
     "name": "Koby #2905",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2905.png",
 
@@ -87155,7 +87155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2906",
     "name": "Koby #2906",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2906.png",
 
@@ -87185,7 +87185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2907",
     "name": "Koby #2907",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2907.png",
 
@@ -87215,7 +87215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2908",
     "name": "Koby #2908",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2908.png",
 
@@ -87245,7 +87245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2909",
     "name": "Koby #2909",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2909.png",
 
@@ -87275,7 +87275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2910",
     "name": "Koby #2910",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2910.png",
 
@@ -87305,7 +87305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2911",
     "name": "Koby #2911",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2911.png",
 
@@ -87335,7 +87335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2912",
     "name": "Koby #2912",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2912.png",
 
@@ -87365,7 +87365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2913",
     "name": "Koby #2913",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2913.png",
 
@@ -87395,7 +87395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2914",
     "name": "Koby #2914",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2914.png",
 
@@ -87425,7 +87425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2915",
     "name": "Koby #2915",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2915.png",
 
@@ -87455,7 +87455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2916",
     "name": "Koby #2916",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2916.png",
 
@@ -87485,7 +87485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2917",
     "name": "Koby #2917",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2917.png",
 
@@ -87515,7 +87515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2918",
     "name": "Koby #2918",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2918.png",
 
@@ -87545,7 +87545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2919",
     "name": "Koby #2919",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2919.png",
 
@@ -87575,7 +87575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2920",
     "name": "Koby #2920",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2920.png",
 
@@ -87605,7 +87605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2921",
     "name": "Koby #2921",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2921.png",
 
@@ -87635,7 +87635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2922",
     "name": "Koby #2922",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2922.png",
 
@@ -87665,7 +87665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2923",
     "name": "Koby #2923",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2923.png",
 
@@ -87695,7 +87695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2924",
     "name": "Koby #2924",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2924.png",
 
@@ -87725,7 +87725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2925",
     "name": "Koby #2925",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2925.png",
 
@@ -87755,7 +87755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2926",
     "name": "Koby #2926",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2926.png",
 
@@ -87785,7 +87785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2927",
     "name": "Koby #2927",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2927.png",
 
@@ -87815,7 +87815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2928",
     "name": "Koby #2928",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2928.png",
 
@@ -87845,7 +87845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2929",
     "name": "Koby #2929",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2929.png",
 
@@ -87875,7 +87875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2930",
     "name": "Koby #2930",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2930.png",
 
@@ -87905,7 +87905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2931",
     "name": "Koby #2931",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2931.png",
 
@@ -87935,7 +87935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2932",
     "name": "Koby #2932",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2932.png",
 
@@ -87965,7 +87965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2933",
     "name": "Koby #2933",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2933.png",
 
@@ -87995,7 +87995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2934",
     "name": "Koby #2934",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2934.png",
 
@@ -88025,7 +88025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2935",
     "name": "Koby #2935",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2935.png",
 
@@ -88055,7 +88055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2936",
     "name": "Koby #2936",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2936.png",
 
@@ -88085,7 +88085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2937",
     "name": "Koby #2937",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2937.png",
 
@@ -88115,7 +88115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2938",
     "name": "Koby #2938",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2938.png",
 
@@ -88145,7 +88145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2939",
     "name": "Koby #2939",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2939.png",
 
@@ -88175,7 +88175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2940",
     "name": "Koby #2940",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2940.png",
 
@@ -88205,7 +88205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2941",
     "name": "Koby #2941",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2941.png",
 
@@ -88235,7 +88235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2942",
     "name": "Koby #2942",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2942.png",
 
@@ -88265,7 +88265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2943",
     "name": "Koby #2943",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2943.png",
 
@@ -88295,7 +88295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2944",
     "name": "Koby #2944",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2944.png",
 
@@ -88325,7 +88325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2945",
     "name": "Koby #2945",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2945.png",
 
@@ -88355,7 +88355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2946",
     "name": "Koby #2946",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2946.png",
 
@@ -88385,7 +88385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2947",
     "name": "Koby #2947",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2947.png",
 
@@ -88415,7 +88415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2948",
     "name": "Koby #2948",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2948.png",
 
@@ -88445,7 +88445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2949",
     "name": "Koby #2949",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2949.png",
 
@@ -88475,7 +88475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2950",
     "name": "Koby #2950",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2950.png",
 
@@ -88505,7 +88505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2951",
     "name": "Koby #2951",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2951.png",
 
@@ -88535,7 +88535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2952",
     "name": "Koby #2952",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2952.png",
 
@@ -88565,7 +88565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2953",
     "name": "Koby #2953",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2953.png",
 
@@ -88595,7 +88595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2954",
     "name": "Koby #2954",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2954.png",
 
@@ -88625,7 +88625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2955",
     "name": "Koby #2955",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2955.png",
 
@@ -88655,7 +88655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2956",
     "name": "Koby #2956",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2956.png",
 
@@ -88685,7 +88685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2957",
     "name": "Koby #2957",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2957.png",
 
@@ -88715,7 +88715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2958",
     "name": "Koby #2958",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2958.png",
 
@@ -88745,7 +88745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2959",
     "name": "Koby #2959",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2959.png",
 
@@ -88775,7 +88775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2960",
     "name": "Koby #2960",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2960.png",
 
@@ -88805,7 +88805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2961",
     "name": "Koby #2961",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2961.png",
 
@@ -88835,7 +88835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2962",
     "name": "Koby #2962",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2962.png",
 
@@ -88865,7 +88865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2963",
     "name": "Koby #2963",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2963.png",
 
@@ -88895,7 +88895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2964",
     "name": "Koby #2964",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2964.png",
 
@@ -88925,7 +88925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2965",
     "name": "Koby #2965",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2965.png",
 
@@ -88955,7 +88955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2966",
     "name": "Koby #2966",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2966.png",
 
@@ -88985,7 +88985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2967",
     "name": "Koby #2967",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2967.png",
 
@@ -89015,7 +89015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2968",
     "name": "Koby #2968",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2968.png",
 
@@ -89045,7 +89045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2969",
     "name": "Koby #2969",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2969.png",
 
@@ -89075,7 +89075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2970",
     "name": "Koby #2970",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2970.png",
 
@@ -89105,7 +89105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2971",
     "name": "Koby #2971",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2971.png",
 
@@ -89135,7 +89135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2972",
     "name": "Koby #2972",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2972.png",
 
@@ -89165,7 +89165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2973",
     "name": "Koby #2973",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2973.png",
 
@@ -89195,7 +89195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2974",
     "name": "Koby #2974",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2974.png",
 
@@ -89225,7 +89225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2975",
     "name": "Koby #2975",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2975.png",
 
@@ -89255,7 +89255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2976",
     "name": "Koby #2976",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2976.png",
 
@@ -89285,7 +89285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2977",
     "name": "Koby #2977",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2977.png",
 
@@ -89315,7 +89315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2978",
     "name": "Koby #2978",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2978.png",
 
@@ -89345,7 +89345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2979",
     "name": "Koby #2979",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2979.png",
 
@@ -89375,7 +89375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2980",
     "name": "Koby #2980",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2980.png",
 
@@ -89405,7 +89405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2981",
     "name": "Koby #2981",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2981.png",
 
@@ -89435,7 +89435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2982",
     "name": "Koby #2982",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2982.png",
 
@@ -89465,7 +89465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2983",
     "name": "Koby #2983",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2983.png",
 
@@ -89495,7 +89495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2984",
     "name": "Koby #2984",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2984.png",
 
@@ -89525,7 +89525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2985",
     "name": "Koby #2985",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2985.png",
 
@@ -89555,7 +89555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2986",
     "name": "Koby #2986",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2986.png",
 
@@ -89585,7 +89585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2987",
     "name": "Koby #2987",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2987.png",
 
@@ -89615,7 +89615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2988",
     "name": "Koby #2988",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2988.png",
 
@@ -89645,7 +89645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2989",
     "name": "Koby #2989",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2989.png",
 
@@ -89675,7 +89675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2990",
     "name": "Koby #2990",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2990.png",
 
@@ -89705,7 +89705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2991",
     "name": "Koby #2991",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2991.png",
 
@@ -89735,7 +89735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2992",
     "name": "Koby #2992",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2992.png",
 
@@ -89765,7 +89765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2993",
     "name": "Koby #2993",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2993.png",
 
@@ -89795,7 +89795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2994",
     "name": "Koby #2994",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2994.png",
 
@@ -89825,7 +89825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2995",
     "name": "Koby #2995",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2995.png",
 
@@ -89855,7 +89855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2996",
     "name": "Koby #2996",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2996.png",
 
@@ -89885,7 +89885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2997",
     "name": "Koby #2997",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2997.png",
 
@@ -89915,7 +89915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2998",
     "name": "Koby #2998",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2998.png",
 
@@ -89945,7 +89945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "2999",
     "name": "Koby #2999",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/2999.png",
 
@@ -89975,7 +89975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3000",
     "name": "Koby #3000",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3000.png",
 
@@ -90005,7 +90005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3001",
     "name": "Koby #3001",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3001.png",
 
@@ -90035,7 +90035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3002",
     "name": "Koby #3002",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3002.png",
 
@@ -90065,7 +90065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3003",
     "name": "Koby #3003",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3003.png",
 
@@ -90095,7 +90095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3004",
     "name": "Koby #3004",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3004.png",
 
@@ -90125,7 +90125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3005",
     "name": "Koby #3005",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3005.png",
 
@@ -90155,7 +90155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3006",
     "name": "Koby #3006",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3006.png",
 
@@ -90185,7 +90185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3007",
     "name": "Koby #3007",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3007.png",
 
@@ -90215,7 +90215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3008",
     "name": "Koby #3008",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3008.png",
 
@@ -90245,7 +90245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3009",
     "name": "Koby #3009",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3009.png",
 
@@ -90275,7 +90275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3010",
     "name": "Koby #3010",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3010.png",
 
@@ -90305,7 +90305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3011",
     "name": "Koby #3011",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3011.png",
 
@@ -90335,7 +90335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3012",
     "name": "Koby #3012",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3012.png",
 
@@ -90365,7 +90365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3013",
     "name": "Koby #3013",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3013.png",
 
@@ -90395,7 +90395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3014",
     "name": "Koby #3014",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3014.png",
 
@@ -90425,7 +90425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3015",
     "name": "Koby #3015",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3015.png",
 
@@ -90455,7 +90455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3016",
     "name": "Koby #3016",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3016.png",
 
@@ -90485,7 +90485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3017",
     "name": "Koby #3017",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3017.png",
 
@@ -90515,7 +90515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3018",
     "name": "Koby #3018",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3018.png",
 
@@ -90545,7 +90545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3019",
     "name": "Koby #3019",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3019.png",
 
@@ -90575,7 +90575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3020",
     "name": "Koby #3020",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3020.png",
 
@@ -90605,7 +90605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3021",
     "name": "Koby #3021",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3021.png",
 
@@ -90635,7 +90635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3022",
     "name": "Koby #3022",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3022.png",
 
@@ -90665,7 +90665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3023",
     "name": "Koby #3023",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3023.png",
 
@@ -90695,7 +90695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3024",
     "name": "Koby #3024",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3024.png",
 
@@ -90725,7 +90725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3025",
     "name": "Koby #3025",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3025.png",
 
@@ -90755,7 +90755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3026",
     "name": "Koby #3026",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3026.png",
 
@@ -90785,7 +90785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3027",
     "name": "Koby #3027",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3027.png",
 
@@ -90815,7 +90815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3028",
     "name": "Koby #3028",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3028.png",
 
@@ -90845,7 +90845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3029",
     "name": "Koby #3029",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3029.png",
 
@@ -90875,7 +90875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3030",
     "name": "Koby #3030",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3030.png",
 
@@ -90905,7 +90905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3031",
     "name": "Koby #3031",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3031.png",
 
@@ -90935,7 +90935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3032",
     "name": "Koby #3032",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3032.png",
 
@@ -90965,7 +90965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3033",
     "name": "Koby #3033",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3033.png",
 
@@ -90995,7 +90995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3034",
     "name": "Koby #3034",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3034.png",
 
@@ -91025,7 +91025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3035",
     "name": "Koby #3035",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3035.png",
 
@@ -91055,7 +91055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3036",
     "name": "Koby #3036",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3036.png",
 
@@ -91085,7 +91085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3037",
     "name": "Koby #3037",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3037.png",
 
@@ -91115,7 +91115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3038",
     "name": "Koby #3038",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3038.png",
 
@@ -91145,7 +91145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3039",
     "name": "Koby #3039",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3039.png",
 
@@ -91175,7 +91175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3040",
     "name": "Koby #3040",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3040.png",
 
@@ -91205,7 +91205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3041",
     "name": "Koby #3041",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3041.png",
 
@@ -91235,7 +91235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3042",
     "name": "Koby #3042",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3042.png",
 
@@ -91265,7 +91265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3043",
     "name": "Koby #3043",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3043.png",
 
@@ -91295,7 +91295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3044",
     "name": "Koby #3044",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3044.png",
 
@@ -91325,7 +91325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3045",
     "name": "Koby #3045",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3045.png",
 
@@ -91355,7 +91355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3046",
     "name": "Koby #3046",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3046.png",
 
@@ -91385,7 +91385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3047",
     "name": "Koby #3047",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3047.png",
 
@@ -91415,7 +91415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3048",
     "name": "Koby #3048",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3048.png",
 
@@ -91445,7 +91445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3049",
     "name": "Koby #3049",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3049.png",
 
@@ -91475,7 +91475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3050",
     "name": "Koby #3050",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3050.png",
 
@@ -91505,7 +91505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3051",
     "name": "Koby #3051",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3051.png",
 
@@ -91535,7 +91535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3052",
     "name": "Koby #3052",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3052.png",
 
@@ -91565,7 +91565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3053",
     "name": "Koby #3053",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3053.png",
 
@@ -91595,7 +91595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3054",
     "name": "Koby #3054",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3054.png",
 
@@ -91625,7 +91625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3055",
     "name": "Koby #3055",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3055.png",
 
@@ -91655,7 +91655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3056",
     "name": "Koby #3056",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3056.png",
 
@@ -91685,7 +91685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3057",
     "name": "Koby #3057",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3057.png",
 
@@ -91715,7 +91715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3058",
     "name": "Koby #3058",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3058.png",
 
@@ -91745,7 +91745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3059",
     "name": "Koby #3059",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3059.png",
 
@@ -91775,7 +91775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3060",
     "name": "Koby #3060",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3060.png",
 
@@ -91805,7 +91805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3061",
     "name": "Koby #3061",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3061.png",
 
@@ -91835,7 +91835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3062",
     "name": "Koby #3062",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3062.png",
 
@@ -91865,7 +91865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3063",
     "name": "Koby #3063",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3063.png",
 
@@ -91895,7 +91895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3064",
     "name": "Koby #3064",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3064.png",
 
@@ -91925,7 +91925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3065",
     "name": "Koby #3065",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3065.png",
 
@@ -91955,7 +91955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3066",
     "name": "Koby #3066",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3066.png",
 
@@ -91985,7 +91985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3067",
     "name": "Koby #3067",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3067.png",
 
@@ -92015,7 +92015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3068",
     "name": "Koby #3068",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3068.png",
 
@@ -92045,7 +92045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3069",
     "name": "Koby #3069",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3069.png",
 
@@ -92075,7 +92075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3070",
     "name": "Koby #3070",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3070.png",
 
@@ -92105,7 +92105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3071",
     "name": "Koby #3071",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3071.png",
 
@@ -92135,7 +92135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3072",
     "name": "Koby #3072",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3072.png",
 
@@ -92165,7 +92165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3073",
     "name": "Koby #3073",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3073.png",
 
@@ -92195,7 +92195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3074",
     "name": "Koby #3074",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3074.png",
 
@@ -92225,7 +92225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3075",
     "name": "Koby #3075",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3075.png",
 
@@ -92255,7 +92255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3076",
     "name": "Koby #3076",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3076.png",
 
@@ -92285,7 +92285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3077",
     "name": "Koby #3077",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3077.png",
 
@@ -92315,7 +92315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3078",
     "name": "Koby #3078",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3078.png",
 
@@ -92345,7 +92345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3079",
     "name": "Koby #3079",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3079.png",
 
@@ -92375,7 +92375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3080",
     "name": "Koby #3080",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3080.png",
 
@@ -92405,7 +92405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3081",
     "name": "Koby #3081",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3081.png",
 
@@ -92435,7 +92435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3082",
     "name": "Koby #3082",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3082.png",
 
@@ -92465,7 +92465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3083",
     "name": "Koby #3083",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3083.png",
 
@@ -92495,7 +92495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3084",
     "name": "Koby #3084",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3084.png",
 
@@ -92525,7 +92525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3085",
     "name": "Koby #3085",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3085.png",
 
@@ -92555,7 +92555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3086",
     "name": "Koby #3086",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3086.png",
 
@@ -92585,7 +92585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3087",
     "name": "Koby #3087",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3087.png",
 
@@ -92615,7 +92615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3088",
     "name": "Koby #3088",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3088.png",
 
@@ -92645,7 +92645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3089",
     "name": "Koby #3089",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3089.png",
 
@@ -92675,7 +92675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3090",
     "name": "Koby #3090",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3090.png",
 
@@ -92705,7 +92705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3091",
     "name": "Koby #3091",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3091.png",
 
@@ -92735,7 +92735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3092",
     "name": "Koby #3092",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3092.png",
 
@@ -92765,7 +92765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3093",
     "name": "Koby #3093",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3093.png",
 
@@ -92795,7 +92795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3094",
     "name": "Koby #3094",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3094.png",
 
@@ -92825,7 +92825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3095",
     "name": "Koby #3095",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3095.png",
 
@@ -92855,7 +92855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3096",
     "name": "Koby #3096",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3096.png",
 
@@ -92885,7 +92885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3097",
     "name": "Koby #3097",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3097.png",
 
@@ -92915,7 +92915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3098",
     "name": "Koby #3098",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3098.png",
 
@@ -92945,7 +92945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3099",
     "name": "Koby #3099",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3099.png",
 
@@ -92975,7 +92975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3100",
     "name": "Koby #3100",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3100.png",
 
@@ -93005,7 +93005,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3101",
     "name": "Koby #3101",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3101.png",
 
@@ -93035,7 +93035,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3102",
     "name": "Koby #3102",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3102.png",
 
@@ -93065,7 +93065,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3103",
     "name": "Koby #3103",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3103.png",
 
@@ -93095,7 +93095,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3104",
     "name": "Koby #3104",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3104.png",
 
@@ -93125,7 +93125,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3105",
     "name": "Koby #3105",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3105.png",
 
@@ -93155,7 +93155,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3106",
     "name": "Koby #3106",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3106.png",
 
@@ -93185,7 +93185,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3107",
     "name": "Koby #3107",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3107.png",
 
@@ -93215,7 +93215,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3108",
     "name": "Koby #3108",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3108.png",
 
@@ -93245,7 +93245,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3109",
     "name": "Koby #3109",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3109.png",
 
@@ -93275,7 +93275,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3110",
     "name": "Koby #3110",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3110.png",
 
@@ -93305,7 +93305,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3111",
     "name": "Koby #3111",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3111.png",
 
@@ -93335,7 +93335,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3112",
     "name": "Koby #3112",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3112.png",
 
@@ -93365,7 +93365,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3113",
     "name": "Koby #3113",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3113.png",
 
@@ -93395,7 +93395,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3114",
     "name": "Koby #3114",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3114.png",
 
@@ -93425,7 +93425,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3115",
     "name": "Koby #3115",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3115.png",
 
@@ -93455,7 +93455,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3116",
     "name": "Koby #3116",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3116.png",
 
@@ -93485,7 +93485,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3117",
     "name": "Koby #3117",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3117.png",
 
@@ -93515,7 +93515,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3118",
     "name": "Koby #3118",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3118.png",
 
@@ -93545,7 +93545,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3119",
     "name": "Koby #3119",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3119.png",
 
@@ -93575,7 +93575,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3120",
     "name": "Koby #3120",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3120.png",
 
@@ -93605,7 +93605,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3121",
     "name": "Koby #3121",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3121.png",
 
@@ -93635,7 +93635,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3122",
     "name": "Koby #3122",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3122.png",
 
@@ -93665,7 +93665,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3123",
     "name": "Koby #3123",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3123.png",
 
@@ -93695,7 +93695,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3124",
     "name": "Koby #3124",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3124.png",
 
@@ -93725,7 +93725,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3125",
     "name": "Koby #3125",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3125.png",
 
@@ -93755,7 +93755,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3126",
     "name": "Koby #3126",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3126.png",
 
@@ -93785,7 +93785,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3127",
     "name": "Koby #3127",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3127.png",
 
@@ -93815,7 +93815,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3128",
     "name": "Koby #3128",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3128.png",
 
@@ -93845,7 +93845,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3129",
     "name": "Koby #3129",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3129.png",
 
@@ -93875,7 +93875,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3130",
     "name": "Koby #3130",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3130.png",
 
@@ -93905,7 +93905,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3131",
     "name": "Koby #3131",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3131.png",
 
@@ -93935,7 +93935,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3132",
     "name": "Koby #3132",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3132.png",
 
@@ -93965,7 +93965,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3133",
     "name": "Koby #3133",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3133.png",
 
@@ -93995,7 +93995,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3134",
     "name": "Koby #3134",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3134.png",
 
@@ -94025,7 +94025,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3135",
     "name": "Koby #3135",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3135.png",
 
@@ -94055,7 +94055,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3136",
     "name": "Koby #3136",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3136.png",
 
@@ -94085,7 +94085,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3137",
     "name": "Koby #3137",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3137.png",
 
@@ -94115,7 +94115,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3138",
     "name": "Koby #3138",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3138.png",
 
@@ -94145,7 +94145,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3139",
     "name": "Koby #3139",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3139.png",
 
@@ -94175,7 +94175,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3140",
     "name": "Koby #3140",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3140.png",
 
@@ -94205,7 +94205,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3141",
     "name": "Koby #3141",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3141.png",
 
@@ -94235,7 +94235,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3142",
     "name": "Koby #3142",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3142.png",
 
@@ -94265,7 +94265,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3143",
     "name": "Koby #3143",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3143.png",
 
@@ -94295,7 +94295,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3144",
     "name": "Koby #3144",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3144.png",
 
@@ -94325,7 +94325,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3145",
     "name": "Koby #3145",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3145.png",
 
@@ -94355,7 +94355,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3146",
     "name": "Koby #3146",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3146.png",
 
@@ -94385,7 +94385,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3147",
     "name": "Koby #3147",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3147.png",
 
@@ -94415,7 +94415,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3148",
     "name": "Koby #3148",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3148.png",
 
@@ -94445,7 +94445,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3149",
     "name": "Koby #3149",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3149.png",
 
@@ -94475,7 +94475,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3150",
     "name": "Koby #3150",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3150.png",
 
@@ -94505,7 +94505,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3151",
     "name": "Koby #3151",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3151.png",
 
@@ -94535,7 +94535,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3152",
     "name": "Koby #3152",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3152.png",
 
@@ -94565,7 +94565,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3153",
     "name": "Koby #3153",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3153.png",
 
@@ -94595,7 +94595,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3154",
     "name": "Koby #3154",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3154.png",
 
@@ -94625,7 +94625,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3155",
     "name": "Koby #3155",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3155.png",
 
@@ -94655,7 +94655,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3156",
     "name": "Koby #3156",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3156.png",
 
@@ -94685,7 +94685,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3157",
     "name": "Koby #3157",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3157.png",
 
@@ -94715,7 +94715,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3158",
     "name": "Koby #3158",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3158.png",
 
@@ -94745,7 +94745,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3159",
     "name": "Koby #3159",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3159.png",
 
@@ -94775,7 +94775,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3160",
     "name": "Koby #3160",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3160.png",
 
@@ -94805,7 +94805,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3161",
     "name": "Koby #3161",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3161.png",
 
@@ -94835,7 +94835,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3162",
     "name": "Koby #3162",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3162.png",
 
@@ -94865,7 +94865,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3163",
     "name": "Koby #3163",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3163.png",
 
@@ -94895,7 +94895,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3164",
     "name": "Koby #3164",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3164.png",
 
@@ -94925,7 +94925,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3165",
     "name": "Koby #3165",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3165.png",
 
@@ -94955,7 +94955,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3166",
     "name": "Koby #3166",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3166.png",
 
@@ -94985,7 +94985,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3167",
     "name": "Koby #3167",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3167.png",
 
@@ -95015,7 +95015,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3168",
     "name": "Koby #3168",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3168.png",
 
@@ -95045,7 +95045,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3169",
     "name": "Koby #3169",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3169.png",
 
@@ -95075,7 +95075,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3170",
     "name": "Koby #3170",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3170.png",
 
@@ -95105,7 +95105,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3171",
     "name": "Koby #3171",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3171.png",
 
@@ -95135,7 +95135,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3172",
     "name": "Koby #3172",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3172.png",
 
@@ -95165,7 +95165,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3173",
     "name": "Koby #3173",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3173.png",
 
@@ -95195,7 +95195,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3174",
     "name": "Koby #3174",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3174.png",
 
@@ -95225,7 +95225,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3175",
     "name": "Koby #3175",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3175.png",
 
@@ -95255,7 +95255,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3176",
     "name": "Koby #3176",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3176.png",
 
@@ -95285,7 +95285,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3177",
     "name": "Koby #3177",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3177.png",
 
@@ -95315,7 +95315,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3178",
     "name": "Koby #3178",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3178.png",
 
@@ -95345,7 +95345,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3179",
     "name": "Koby #3179",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3179.png",
 
@@ -95375,7 +95375,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3180",
     "name": "Koby #3180",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3180.png",
 
@@ -95405,7 +95405,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3181",
     "name": "Koby #3181",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3181.png",
 
@@ -95435,7 +95435,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3182",
     "name": "Koby #3182",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3182.png",
 
@@ -95465,7 +95465,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3183",
     "name": "Koby #3183",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3183.png",
 
@@ -95495,7 +95495,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3184",
     "name": "Koby #3184",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3184.png",
 
@@ -95525,7 +95525,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3185",
     "name": "Koby #3185",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3185.png",
 
@@ -95555,7 +95555,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3186",
     "name": "Koby #3186",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3186.png",
 
@@ -95585,7 +95585,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3187",
     "name": "Koby #3187",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3187.png",
 
@@ -95615,7 +95615,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3188",
     "name": "Koby #3188",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3188.png",
 
@@ -95645,7 +95645,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3189",
     "name": "Koby #3189",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3189.png",
 
@@ -95675,7 +95675,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3190",
     "name": "Koby #3190",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3190.png",
 
@@ -95705,7 +95705,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3191",
     "name": "Koby #3191",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3191.png",
 
@@ -95735,7 +95735,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3192",
     "name": "Koby #3192",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3192.png",
 
@@ -95765,7 +95765,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3193",
     "name": "Koby #3193",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3193.png",
 
@@ -95795,7 +95795,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3194",
     "name": "Koby #3194",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3194.png",
 
@@ -95825,7 +95825,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3195",
     "name": "Koby #3195",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3195.png",
 
@@ -95855,7 +95855,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3196",
     "name": "Koby #3196",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3196.png",
 
@@ -95885,7 +95885,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3197",
     "name": "Koby #3197",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3197.png",
 
@@ -95915,7 +95915,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3198",
     "name": "Koby #3198",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3198.png",
 
@@ -95945,7 +95945,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3199",
     "name": "Koby #3199",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3199.png",
 
@@ -95975,7 +95975,7 @@ export const nftsMetadata: NFTMetadata[] = [
   {
     "id": "3200",
     "name": "Koby #3200",
-    "symbol": "KOBY",
+    
     "description": "32x32 Pixel Unique NFT Collection",
     "image": "/images/nfts/3200.png",
 
