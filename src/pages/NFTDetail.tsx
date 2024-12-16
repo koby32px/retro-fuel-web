@@ -3,6 +3,8 @@ import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { NFTMetadata } from '../types/nft';
 import { fetchSingleNFT } from '../utils/api';
+import ImageWithSkeleton from '../components/ImageWithSkeleton';
+import { getImagePath } from '../utils/imagePath';
 
 const NFTDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -14,7 +16,11 @@ const NFTDetail: React.FC = () => {
       if (id) {
         setLoading(true);
         const data = await fetchSingleNFT(id);
-        setNft(data);
+        setNft({
+          ...data,
+          // Update the image path here
+          image: getImagePath(`/images/nfts/${id}.png`)
+        });
         setLoading(false);
       }
     };
@@ -52,24 +58,26 @@ const NFTDetail: React.FC = () => {
   }
   
   return (
-      <div className="min-h-screen bg-green-500">
-        <div className="max-w-6xl mx-auto p-8">
-          <Link 
-            to="/collection"
-            className="inline-block bg-lime-300 px-6 py-3 rounded-lg border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform mb-8"
-          >
-            ← Back to Collection
-          </Link>
-  
-          <div className="grid md:grid-cols-2 gap-12">
-            {/* NFT Image */}
-            <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
-              <img
-                src={nft.image}
-                alt={nft.name}
+    <div className="min-h-screen bg-green-500">
+      <div className="max-w-6xl mx-auto p-8">
+        <Link 
+          to="/collection"
+          className="inline-block bg-lime-300 px-6 py-3 rounded-lg border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform mb-8"
+        >
+          ← Back to Collection
+        </Link>
+
+        <div className="grid md:grid-cols-2 gap-12">
+          {/* NFT Image */}
+          <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
+            <div className="aspect-square">
+              <ImageWithSkeleton
+                src={nft?.image || ''}
+                alt={nft?.name || ''}
                 className="w-full rounded-lg"
               />
             </div>
+          </div>
   
             {/* NFT Details */}
             <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
