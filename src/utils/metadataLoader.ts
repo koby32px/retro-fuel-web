@@ -4,19 +4,25 @@ import { getImagePath } from './imagePath';
 
 export async function loadNFTMetadataChunk(page: number, itemsPerPage: number): Promise<NFTMetadata[]> {
   try {
-    // Generate metadata for current chunk only
     const startId = (page - 1) * itemsPerPage + 1;
     const endId = startId + itemsPerPage;
     const chunk: NFTMetadata[] = [];
 
     for (let id = startId; id < endId; id++) {
-      if (id <= 3200) { // Total collection size
+      if (id <= 3200) {
         chunk.push({
           id: id.toString(),
           name: `Koby #${id}`,
-          image: getImagePath(`images/nfts/koby-${id}.png`),
+          // Use a single placeholder image for now
+          image: getImagePath('images/placeholder.png'),
           description: `32x32 Pixel Unique NFT Collection - Koby #${id}`,
-          attributes: [] // Add your attributes here if needed
+          attributes: [
+            { trait_type: 'Base', value: 'Purple' },
+            { trait_type: 'Suit', value: 'Scarf Stripped Yellow' },
+            { trait_type: 'Mouth', value: 'Flat' },
+            { trait_type: 'Eyes', value: 'Round Glass green' },
+            { trait_type: 'Head', value: 'Beret Blue' }
+          ]
         });
       }
     }
