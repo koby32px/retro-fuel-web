@@ -1,11 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { getImagePath } from '../utils/imagePath';
+
 
 const Home: React.FC = () => {
   const previewImages = [
-    '/images/preview-1.png',  // Gambar pertama
-    '/images/preview-2.png',  // Gambar kedua
-    '/images/preview-3.png'   // Gambar ketiga
+    getImagePath('images/preview-1.png'),
+    getImagePath('images/preview-2.png'),
+    getImagePath('images/preview-3.png')
   ];
   return (
     <div className="w-full min-h-screen flex flex-col">
@@ -56,7 +58,7 @@ const Home: React.FC = () => {
             <div className="bg-white p-6 rounded-lg border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,1)]">
               <div className="aspect-square bg-gray-100 rounded-lg overflow-hidden">
                 <img
-                  src="/images/about-image.png"
+                  src={getImagePath('images/about-image.png')}
                   alt="RetroFuel"
                   className="w-full rounded-lg"
                 />

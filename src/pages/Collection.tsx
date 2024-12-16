@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { NFTMetadata } from '../types/nft';
 import { loadNFTMetadataChunk } from '../utils/metadataLoader';
+import { getImagePath } from '../utils/imagePath';
 
 const Collection: React.FC = () => {
   const [nfts, setNfts] = useState<NFTMetadata[]>([]);
@@ -145,7 +146,7 @@ const Collection: React.FC = () => {
                     alt={nft.name}
                     className="w-full h-full object-cover"
                     onError={(e) => {
-                      e.currentTarget.src = "/images/placeholder.png";
+                      e.currentTarget.src = getImagePath('images/placeholder.png');
                     }}
                   />
                 </div>
