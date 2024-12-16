@@ -1,6 +1,5 @@
 // src/utils/metadataLoader.ts
 import { NFTMetadata } from '../types/nft';
-import { getImagePath } from './imagePath';
 
 export async function loadNFTMetadataChunk(page: number, itemsPerPage: number): Promise<NFTMetadata[]> {
   try {
@@ -13,8 +12,7 @@ export async function loadNFTMetadataChunk(page: number, itemsPerPage: number): 
         chunk.push({
           id: id.toString(),
           name: `Koby #${id}`,
-          // Use a single placeholder image for now
-          image: getImagePath('images/placeholder.png'),
+          image: '', // We'll use the inline SVG from ImageWithSkeleton
           description: `32x32 Pixel Unique NFT Collection - Koby #${id}`,
           attributes: [
             { trait_type: 'Base', value: 'Purple' },
