@@ -1,6 +1,6 @@
 // src/App.tsx
 import { Suspense, lazy } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import './styles/globals.css';
 
 // Remove these direct imports since we're using lazy loading
