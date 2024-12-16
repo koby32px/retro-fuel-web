@@ -1,10 +1,58 @@
 // src/pages/Collection.tsx
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, Suspense } from 'react';
 import { Link } from 'react-router-dom';
 import { NFTMetadata } from '../types/nft';
 import { loadNFTMetadataChunk } from '../utils/metadataLoader';
 import { getImagePath } from '../utils/imagePath';
 
+// Image with Skeleton Component
+const ImageWithSkeleton: React.FC<{ src: string; alt: string; className?: string }> = ({ 
+  src, 
+  alt, 
+  className 
+}) => {
+  const [isLoading, setIsLoading] = useState(true);
+
+  return (
+    <div className="relative w-full h-full">
+      {isLoading && (
+        <div className="absolute inset-0 bg-gray-200 animate-pulse rounded-lg" />
+      )}
+      <img
+        src={src}
+        alt={alt}
+        className={className}
+        loading="lazy"
+        onLoad={() => setIsLoading(false)}
+        onError={(e) => {
+          setIsLoading(false);
+          e.currentTarget.src = getImagePath('images/placeholder.png');
+        }}
+      />
+    </div>
+  );
+};
+
+// NFT Card Component
+const NFTCard: React.FC<{ nft: NFTMetadata }> = ({ nft }) => (
+  <Link 
+    to={`/nft/${nft.id}`}
+    className="bg-white rounded-lg overflow-hidden border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] sm:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform"
+  >
+    <div className="aspect-square bg-gray-100">
+      <ImageWithSkeleton
+        src={nft.image}
+        alt={nft.name}
+        className="w-full h-full object-cover"
+      />
+    </div>
+    <div className="p-2 sm:p-4">
+      <h3 className="font-bold text-sm sm:text-lg">{nft.name}</h3>
+    </div>
+  </Link>
+);
+
+// Main Collection Component
 const Collection: React.FC = () => {
   const [nfts, setNfts] = useState<NFTMetadata[]>([]);
   const [loading, setLoading] = useState(true);
@@ -32,7 +80,6 @@ const Collection: React.FC = () => {
     loadInitialNFTs();
   }, []);
 
-  // Improved search functionality
   const filteredNFTs = nfts.filter(nft => {
     if (!searchTerm) return true;
     
@@ -45,7 +92,7 @@ const Collection: React.FC = () => {
     return nft.name.toLowerCase().includes(searchTerm.toLowerCase());
   });
 
-  const hasMore = nfts.length < 3200; // Total collection size
+  const hasMore = nfts.length < 3200;
 
   const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(e.target.value);
@@ -134,27 +181,11 @@ const Collection: React.FC = () => {
 
           {/* NFT Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
-            {filteredNFTs.map((nft) => (
-              <Link 
-                to={`/nft/${nft.id}`}
-                key={nft.id}
-                className="bg-white rounded-lg overflow-hidden border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] sm:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform"
-              >
-                <div className="aspect-square bg-gray-100">
-                  <img
-                    src={nft.image}
-                    alt={nft.name}
-                    className="w-full h-full object-cover"
-                    onError={(e) => {
-                      e.currentTarget.src = getImagePath('images/placeholder.png');
-                    }}
-                  />
-                </div>
-                <div className="p-2 sm:p-4">
-                  <h3 className="font-bold text-sm sm:text-lg">{nft.name}</h3>
-                </div>
-              </Link>
-            ))}
+            <Suspense fallback={null}>
+              {filteredNFTs.map((nft) => (
+                <NFTCard key={nft.id} nft={nft} />
+              ))}
+            </Suspense>
           </div>
 
           {/* Load More */}
@@ -167,7 +198,18 @@ const Collection: React.FC = () => {
                   loadingMore ? 'opacity-50 cursor-not-allowed' : ''
                 }`}
               >
-                {loadingMore ? 'Loading...' : `Load More (${nfts.length} of 3200)`}
+                {loadingMore ? (
+                  <span className="flex items-center gap-2">
+                    <span>Loading</span>
+                    <div className="flex gap-1">
+                      <div className="w-2 h-2 bg-black rounded-full animate-bounce"></div>
+                      <div className="w-2 h-2 bg-black rounded-full animate-bounce delay-100"></div>
+                      <div className="w-2 h-2 bg-black rounded-full animate-bounce delay-200"></div>
+                    </div>
+                  </span>
+                ) : (
+                  `Load More (${nfts.length} of 3200)`
+                )}
               </button>
             </div>
           )}

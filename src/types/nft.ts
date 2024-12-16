@@ -17,15 +17,14 @@ export interface Config {
 }
 
 export interface NFTAttribute {
- trait_type: string;
- value: string;
+  trait_type: string;
+  value: string;
 }
 
 export interface NFTMetadata {
- id: string;
- name: string;
- symbol: string;
- description: string;
- image: string;
- attributes: NFTAttribute[];
+  id: string;
+  name: string;
+  description: string;
+  image: string;
+  attributes?: NFTAttribute[];
 }
