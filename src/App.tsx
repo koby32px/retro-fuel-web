@@ -1,6 +1,12 @@
 // src/App.tsx
 import { Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import './styles/globals.css';
+
+// Remove these direct imports since we're using lazy loading
+// import Home from './pages/Home';
+// import Collection from './pages/Collection';
+// import NFTDetail from './pages/NFTDetail';
 
 // Lazy load components
 const Home = lazy(() => import('./pages/Home'));
