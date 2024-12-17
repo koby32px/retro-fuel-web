@@ -1,11 +1,12 @@
 // vite.config.ts
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
   base: '/retro-fuel-web/',
   build: {
+    assetsInlineLimit: 0,
     rollupOptions: {
       output: {
         manualChunks: {
@@ -13,10 +14,8 @@ export default defineConfig({
           'home': ['./src/pages/Home.tsx'],
           'collection': ['./src/pages/Collection.tsx'],
           'nft-detail': ['./src/pages/NFTDetail.tsx'],
-          'nft-metadata': ['./src/config/nftsMetadata.ts']
         }
       }
-    },
-    chunkSizeWarningLimit: 500
+    }
   }
-})
+});

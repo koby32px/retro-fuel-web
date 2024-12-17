@@ -7,32 +7,35 @@ interface ImageWithSkeletonProps {
   className?: string;
 }
 
-const ImageWithSkeleton: React.FC<ImageWithSkeletonProps> = ({ alt, className }) => {
+const ImageWithSkeleton: React.FC<ImageWithSkeletonProps> = ({ src, alt, className }) => {
   const [isLoading, setIsLoading] = useState(true);
-
-  // Create an inline SVG placeholder
-  const placeholderSvg = `
-    <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-      <rect width="100%" height="100%" fill="#e5e7eb"/>
-      <text x="50%" y="50%" font-family="Arial" font-size="14" fill="#9ca3af" 
-        text-anchor="middle" dominant-baseline="middle">
-        Koby NFT
-      </text>
-    </svg>
-  `;
-
-  const svgUrl = `data:image/svg+xml,${encodeURIComponent(placeholderSvg)}`;
+  const [error, setError] = useState(false);
 
   return (
     <div className="relative w-full h-full">
       {isLoading && (
-        <div className="absolute inset-0 bg-gradient-to-br from-lime-200 to-green-300 animate-pulse rounded-lg" />
+        <div className="absolute inset-0 bg-gradient-to-br from-lime-200 to-green-300 animate-pulse rounded-lg flex items-center justify-center">
+          <span className="text-green-700 font-medium">Loading...</span>
+        </div>
+      )}
+      {error && (
+        <div className="absolute inset-0 bg-red-100 flex items-center justify-center rounded-lg">
+          <span className="text-red-500 font-medium">Failed to load image</span>
+        </div>
       )}
       <img
-        src={svgUrl}
+        src={src}
         alt={alt}
-        className={`${className} ${isLoading ? 'opacity-0' : 'opacity-100'} transition-opacity duration-200`}
-        onLoad={() => setIsLoading(false)}
+        className={`${className} ${isLoading ? 'opacity-0' : 'opacity-100'} transition-opacity duration-300`}
+        loading="lazy"
+        onLoad={() => {
+          setIsLoading(false);
+          setError(false);
+        }}
+        onError={() => {
+          setIsLoading(false);
+          setError(true);
+        }}
       />
     </div>
   );
