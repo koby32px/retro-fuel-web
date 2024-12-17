@@ -24,9 +24,9 @@ export interface NFTAttribute {
 export interface NFTMetadata {
   id: string;
   name: string;
-  symbol: string;
+  symbol?: string;  // Make optional
   description: string;
   image: string;
-  external_url: string;
+  external_url?: string;  // Make optional
   attributes: NFTAttribute[];
 }
