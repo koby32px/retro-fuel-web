@@ -1,22 +1,22 @@
 // src/types/nft.ts
 export interface TraitOption {
- name: string;
- rarity: number;
+  name: string;
+  rarity: number;
 }
 
 export interface Trait {
- rarity: number;
- options: TraitOption[];
+  rarity: number;
+  options: TraitOption[];
 }
 
 export interface Config {
- trait_order: string[];
- traits: {
-   [key: string]: Trait;
- };
+  trait_order: string[];
+  traits: {
+    [key: string]: Trait;
+  };
 }
 
-eexport interface NFTAttribute {
+export interface NFTAttribute {
   trait_type: string;
   value: string;
 }
