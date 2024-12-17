@@ -4,11 +4,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-<<<<<<< HEAD
-  base: '/', // For custom domain
-=======
   base: '/',
->>>>>>> origin/main
   build: {
     assetsDir: 'assets',
     copyPublicDir: true,
@@ -23,11 +19,6 @@ export default defineConfig({
         }
       }
     }
-<<<<<<< HEAD
   },
-  publicDir: 'public' // Make sure this is explicitly set
+  publicDir: 'public'
 });
-=======
-  }
-});
->>>>>>> origin/main
