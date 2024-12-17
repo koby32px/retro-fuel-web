@@ -16,7 +16,7 @@ export interface Config {
  };
 }
 
-export interface NFTAttribute {
+eexport interface NFTAttribute {
   trait_type: string;
   value: string;
 }
@@ -24,7 +24,9 @@ export interface NFTAttribute {
 export interface NFTMetadata {
   id: string;
   name: string;
+  symbol: string;
   description: string;
   image: string;
-  attributes?: NFTAttribute[];
+  external_url: string;
+  attributes: NFTAttribute[];
 }
