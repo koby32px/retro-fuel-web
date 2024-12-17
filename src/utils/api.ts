@@ -1,25 +1,22 @@
 // src/utils/api.ts
 import { NFTMetadata } from '../types/nft';
 import { getImagePath } from './imagePath';
-import nftMetadata from '/public/metadata/nft.json';  // Import the JSON file
+import nftsMetadata from '../config/nftsMetadata';
 
 export async function fetchSingleNFT(id: string): Promise<NFTMetadata | null> {
   try {
-    // Find the NFT data from the JSON file
-    const nftData = nftMetadata.find(nft => nft.id === id);
-    
+    const numericId = parseInt(id);
+    const nftData = nftsMetadata[numericId - 1]; // Arrays are 0-based
+
     if (!nftData) {
-      throw new Error('NFT not found');
+      return null;
     }
 
     return {
-      id: nftData.id,
-      name: nftData.name,
-      description: nftData.description,
-      image: getImagePath(`/images/nfts/${id}.png`), // Use local image path
-      attributes: nftData.attributes,
-      symbol: nftData.symbol,
-      external_url: nftData.external_url
+      ...nftData,
+      image: getImagePath(`/images/nfts/${id}.png`),
+      symbol: nftData.symbol || "KOBY",
+      external_url: nftData.external_url || "https://github.com/koby32px"
     };
   } catch (error) {
     console.error('Error loading NFT metadata:', error);
