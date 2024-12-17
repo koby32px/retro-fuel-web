@@ -1,8 +1,8 @@
 // src/utils/imagePath.ts
 export const getImagePath = (path: string) => {
-    const basePath = '/retro-fuel-web';
+    // For production with custom domain
     const cleanPath = path.startsWith('/') ? path.slice(1) : path;
-    return `${basePath}/${cleanPath}`;
+    return `/${cleanPath}`; // Just return relative path since base URL is handled by Vite
   };
   
   // Helper specifically for NFT images

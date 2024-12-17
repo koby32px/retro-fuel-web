@@ -4,8 +4,10 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '/', // For custom domain
   build: {
+    assetsDir: 'assets',
+    copyPublicDir: true,
     assetsInlineLimit: 0,
     rollupOptions: {
       output: {
@@ -17,5 +19,6 @@ export default defineConfig({
         }
       }
     }
-  }
+  },
+  publicDir: 'public' // Make sure this is explicitly set
 });
