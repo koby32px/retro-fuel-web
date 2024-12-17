@@ -1,39 +1,11 @@
 // src/pages/Collection.tsx
-import React, { useState, useEffect, Suspense } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { NFTMetadata } from '../types/nft';
-import { loadNFTMetadataChunk } from '../utils/metadataLoader';
-import { getImagePath } from '../utils/imagePath';
+import { fetchNFTMetadata } from '../utils/api';
+import ImageWithSkeleton from '../components/ImageWithSkeleton';
 
-// Image with Skeleton Component
-const ImageWithSkeleton: React.FC<{ src: string; alt: string; className?: string }> = ({ 
-  src, 
-  alt, 
-  className 
-}) => {
-  const [isLoading, setIsLoading] = useState(true);
-
-  return (
-    <div className="relative w-full h-full">
-      {isLoading && (
-        <div className="absolute inset-0 bg-gray-200 animate-pulse rounded-lg" />
-      )}
-      <img
-        src={src}
-        alt={alt}
-        className={className}
-        loading="lazy"
-        onLoad={() => setIsLoading(false)}
-        onError={(e) => {
-          setIsLoading(false);
-          e.currentTarget.src = getImagePath('images/placeholder.png');
-        }}
-      />
-    </div>
-  );
-};
-
-// NFT Card Component
+// NFTCard Component
 const NFTCard: React.FC<{ nft: NFTMetadata }> = ({ nft }) => (
   <Link 
     to={`/nft/${nft.id}`}
@@ -55,6 +27,7 @@ const NFTCard: React.FC<{ nft: NFTMetadata }> = ({ nft }) => (
 // Main Collection Component
 const Collection: React.FC = () => {
   const [nfts, setNfts] = useState<NFTMetadata[]>([]);
+  const [displayedNfts, setDisplayedNfts] = useState<NFTMetadata[]>([]);
   const [loading, setLoading] = useState(true);
   const [initialLoad, setInitialLoad] = useState(true);
   const [loadingMore, setLoadingMore] = useState(false);
@@ -63,12 +36,14 @@ const Collection: React.FC = () => {
   const [page, setPage] = useState(1);
   const itemsPerPage = 24;
 
+  // Load all NFTs initially
   useEffect(() => {
-    const loadInitialNFTs = async () => {
+    const loadAllNFTs = async () => {
       try {
         setLoading(true);
-        const initialData = await loadNFTMetadataChunk(1, itemsPerPage);
-        setNfts(initialData);
+        const allData = await fetchNFTMetadata();
+        setNfts(allData);
+        setDisplayedNfts(allData.slice(0, itemsPerPage));
       } catch (err) {
         setError('Failed to load NFTs');
       } finally {
@@ -77,26 +52,26 @@ const Collection: React.FC = () => {
       }
     };
 
-    loadInitialNFTs();
+    loadAllNFTs();
   }, []);
 
-  const filteredNFTs = nfts.filter(nft => {
-    if (!searchTerm) return true;
-    
-    const searchNumber = parseInt(searchTerm);
-    if (!isNaN(searchNumber)) {
-      return nft.id === searchNumber.toString() || 
-             nft.name.includes(searchNumber.toString());
+  // Filter NFTs based on search
+  const filteredNFTs = useMemo(() => {
+    if (!searchTerm) {
+      return displayedNfts;
     }
-    
-    return nft.name.toLowerCase().includes(searchTerm.toLowerCase());
-  });
 
-  const hasMore = nfts.length < 3200;
+    return nfts.filter(nft => {
+      const searchNumber = parseInt(searchTerm);
+      if (!isNaN(searchNumber)) {
+        return nft.id === searchNumber.toString();
+      }
+      return nft.name.toLowerCase().includes(searchTerm.toLowerCase());
+    });
+  }, [nfts, searchTerm, displayedNfts]);
 
   const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(e.target.value);
-    setPage(1);
   };
 
   const handleLoadMore = async () => {
@@ -104,9 +79,10 @@ const Collection: React.FC = () => {
     
     try {
       setLoadingMore(true);
-      const nextData = await loadNFTMetadataChunk(page + 1, itemsPerPage);
-      setNfts(prev => [...prev, ...nextData]);
-      setPage(prev => prev + 1);
+      const nextPage = page + 1;
+      const endIndex = nextPage * itemsPerPage;
+      setDisplayedNfts(nfts.slice(0, endIndex));
+      setPage(nextPage);
     } catch (err) {
       setError('Failed to load more NFTs');
     } finally {
@@ -114,6 +90,7 @@ const Collection: React.FC = () => {
     }
   };
 
+  // Show loading state
   if (initialLoad && loading) {
     return (
       <div className="min-h-screen bg-green-500 flex items-center justify-center">
@@ -128,6 +105,7 @@ const Collection: React.FC = () => {
     );
   }
 
+  // Show error state
   if (error) {
     return (
       <div className="min-h-screen bg-green-500 flex items-center justify-center">
@@ -143,6 +121,8 @@ const Collection: React.FC = () => {
       </div>
     );
   }
+
+  const hasMore = !searchTerm && displayedNfts.length < nfts.length;
 
   return (
     <div className="w-full min-h-screen flex flex-col bg-green-500">
@@ -181,15 +161,13 @@ const Collection: React.FC = () => {
 
           {/* NFT Grid */}
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4">
-            <Suspense fallback={null}>
-              {filteredNFTs.map((nft) => (
-                <NFTCard key={nft.id} nft={nft} />
-              ))}
-            </Suspense>
+            {filteredNFTs.map((nft) => (
+              <NFTCard key={nft.id} nft={nft} />
+            ))}
           </div>
 
           {/* Load More */}
-          {!searchTerm && hasMore && (
+          {hasMore && (
             <div className="text-center mt-8 sm:mt-12 mb-4 sm:mb-8">
               <button 
                 onClick={handleLoadMore}
@@ -199,7 +177,7 @@ const Collection: React.FC = () => {
                 }`}
               >
                 {loadingMore ? (
-                  <span className="flex items-center gap-2">
+                  <span className="flex items-center gap-2 justify-center">
                     <span>Loading</span>
                     <div className="flex gap-1">
                       <div className="w-2 h-2 bg-black rounded-full animate-bounce"></div>
@@ -208,14 +186,14 @@ const Collection: React.FC = () => {
                     </div>
                   </span>
                 ) : (
-                  `Load More (${nfts.length} of 3200)`
+                  `Load More (${displayedNfts.length} of ${nfts.length})`
                 )}
               </button>
             </div>
           )}
 
           {/* No Results Message */}
-          {filteredNFTs.length === 0 && (
+          {filteredNFTs.length === 0 && searchTerm && (
             <div className="text-center py-8 sm:py-12">
               <p className="text-white text-lg sm:text-xl">No NFTs found for "{searchTerm}"</p>
             </div>
