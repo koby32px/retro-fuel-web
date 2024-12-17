@@ -96002,4 +96002,6 @@ export const nftsMetadata: NFTMetadata[] = [
       }
     ]
   }
-]
+];
+
+export default nftsMetadata;
