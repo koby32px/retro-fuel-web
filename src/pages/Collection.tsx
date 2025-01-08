@@ -1,4 +1,3 @@
-// src/pages/Collection.tsx
 import React, { useState, useEffect, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { NFTMetadata } from '../types/nft';
@@ -9,7 +8,7 @@ import ImageWithSkeleton from '../components/ImageWithSkeleton';
 const NFTCard: React.FC<{ nft: NFTMetadata }> = ({ nft }) => (
   <Link 
     to={`/nft/${nft.id}`}
-    className="bg-white rounded-lg overflow-hidden border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] sm:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform"
+    className="bg-white rounded-lg overflow-hidden border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] sm:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] transform transition-all hover:scale-105 hover:shadow-2xl"
   >
     <div className="aspect-square bg-gray-100">
       <ImageWithSkeleton
@@ -20,6 +19,9 @@ const NFTCard: React.FC<{ nft: NFTMetadata }> = ({ nft }) => (
     </div>
     <div className="p-2 sm:p-4">
       <h3 className="font-bold text-sm sm:text-lg">{nft.name}</h3>
+      {nft.rarityRank && (
+        <p className="text-sm text-gray-500 mt-1">Rarity Rank: {nft.rarityRank}</p>
+      )}
     </div>
   </Link>
 );
@@ -55,12 +57,10 @@ const Collection: React.FC = () => {
     loadAllNFTs();
   }, []);
 
-  // Filter NFTs based on search
+  // Filter NFTs
   const filteredNFTs = useMemo(() => {
-    if (!searchTerm) {
-      return displayedNfts;
-    }
-
+    if (!searchTerm) return displayedNfts;
+    
     return nfts.filter(nft => {
       const searchNumber = parseInt(searchTerm);
       if (!isNaN(searchNumber)) {
@@ -123,22 +123,28 @@ const Collection: React.FC = () => {
   }
 
   const hasMore = !searchTerm && displayedNfts.length < nfts.length;
-
   return (
     <div className="w-full min-h-screen flex flex-col bg-green-500">
       {/* Header Section */}
       <section className="bg-green-600 p-4 sm:p-8">
         <div className="max-w-7xl mx-auto">
-          <div className="flex items-center gap-4 mb-4 sm:mb-8">
-            <Link to="/">
-              <div className="bg-lime-300 px-4 py-2 sm:px-6 sm:py-3 rounded-lg border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform">
-                <h1 className="text-xl sm:text-2xl font-pixel text-black tracking-wider">RETRO</h1>
-              </div>
-            </Link>
-          </div>
           <div>
+            <Link 
+              to="/" 
+              className="text-white/80 hover:text-white text-sm sm:text-base mb-2 inline-block hover:underline"
+            >
+              ← Home
+            </Link>
             <h2 className="text-3xl sm:text-5xl font-pixel mb-2 sm:mb-4 text-white">Koby Collection</h2>
-            <p className="text-lg sm:text-xl text-white/90">3,200 Unique Pixel Art Characters</p>
+            <p className="text-lg sm:text-xl text-white/90 mb-4">3,200 Unique Pixel Art Characters</p>
+            <a
+              href="https://thundernft.market/collection/koby"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-lime-300 px-6 py-2 sm:px-8 sm:py-3 rounded-lg border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:translate-y-1 transition-transform text-sm sm:text-base font-bold"
+            >
+              BUY ON THUNDER MARKETPLACE
+            </a>
           </div>
         </div>
       </section>
@@ -148,14 +154,16 @@ const Collection: React.FC = () => {
         <div className="max-w-7xl mx-auto">
           {/* Search */}
           <div className="bg-white p-3 sm:p-4 rounded-lg border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] sm:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] mb-6 sm:mb-8">
-            <div className="relative">
-              <input 
-                type="text" 
-                placeholder="Search by name or ID..."
-                value={searchTerm}
-                onChange={handleSearch}
-                className="w-full p-2 sm:p-3 bg-gray-900 text-white placeholder-gray-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-lime-300 text-sm sm:text-base"
-              />
+            <div className="flex gap-3">
+              <div className="relative flex-1">
+                <input 
+                  type="text" 
+                  placeholder="Search by name or ID..."
+                  value={searchTerm}
+                  onChange={handleSearch}
+                  className="w-full p-2 sm:p-3 bg-gray-900 text-white placeholder-gray-400 rounded-lg focus:outline-none focus:ring-2 focus:ring-lime-300 text-sm sm:text-base"
+                />
+              </div>
             </div>
           </div>
 
@@ -189,13 +197,6 @@ const Collection: React.FC = () => {
                   `Load More (${displayedNfts.length} of ${nfts.length})`
                 )}
               </button>
-            </div>
-          )}
-
-          {/* No Results Message */}
-          {filteredNFTs.length === 0 && searchTerm && (
-            <div className="text-center py-8 sm:py-12">
-              <p className="text-white text-lg sm:text-xl">No NFTs found for "{searchTerm}"</p>
             </div>
           )}
         </div>

@@ -18,3 +18,8 @@ body {
 .pixel-font {
   font-family: 'Press Start 2P', cursive;
 }
+
+@keyframes pixelMove {
+  0% { background-position: 0 0; }
+  100% { background-position: 32px 32px; }
+}
