@@ -19,7 +19,7 @@ const NFTCard: React.FC<{ nft: NFTMetadata }> = ({ nft }) => (
     </div>
     <div className="p-2 sm:p-4">
       <h3 className="font-bold text-sm sm:text-lg">{nft.name}</h3>
-      {nft.rarityRank && (
+      {nft.rarityRank !== undefined && (
         <p className="text-sm text-gray-500 mt-1">Rarity Rank: {nft.rarityRank}</p>
       )}
     </div>

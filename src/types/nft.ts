@@ -29,4 +29,5 @@ export interface NFTMetadata {
   image: string;
   external_url?: string;  // Make optional
   attributes: NFTAttribute[];
+  rarityRank?: number;
 }
